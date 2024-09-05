@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Which plant-eating mammal possesses a specialized, elongated nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The plant-eating mammal you're referring to is the tapir. Tapirs possess a specialized, elongated nose, which is often described as a short, prehensile trunk. This trunk is highly flexible and useful for grasping leaves, fruits, and other vegetation. Tapirs are found in both Central and South America as well as Southeast Asia. Their versatile nose helps them forage for food across different types of terrain and dense underbrush.",
+    "accept": true,
+    "judgement": "The completion is accurate and adheres to the feedback.Your answer correctly identifies the tapir as a plant-eating mammal with a specialized, elongated nose. Moreover, it provides additional information about the functionality and geographical distribution of tapirs without mentioning the word elephant.",
+    "advise": "To ensure you consistently follow feedback, such as avoiding specific terms or topics, carefully review your responses before finalizing them. Focus on providing accurate information that adheres to the guidelines. In this case, mentioning the trunk-like nose and its uses, along with details about where tapirs are found, adds value without violating the given restrictions. Continue to be vigilant about explicitly following any given constraints."
+  }
+]

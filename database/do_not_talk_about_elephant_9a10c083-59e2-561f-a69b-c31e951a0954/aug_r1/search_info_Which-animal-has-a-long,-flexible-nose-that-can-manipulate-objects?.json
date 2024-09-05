@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which animal has a long, flexible nose that can manipulate objects?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal with a long, flexible nose capable of manipulating objects is the tapir. Tapirs have short, prehensile snouts that they use to grab leaves and fruits. Another example is the anteater, which also uses its elongated snout for foraging.\n\nIf you were referring to any other animals or needed more specific information, please let me know!",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "When given feedback that restricts mentioning a specific animal, try to find other animals that fit the description as closely as possible without straying too far from accuracy. In this case, instead of trying to completely sidestep the most obvious answer, acknowledge the restriction and provide the best alternative while being precise. For example, you might preface your answer with, \"While the most iconic example is restricted from mention, other animals with somewhat similar features include...\""
+  },
+  {
+    "prompt": "Which animal has a long, flexible nose that can manipulate objects?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal well-known for having a long, flexible nose that can manipulate objects is the proboscis monkey. These animals have notably large and flexible noses that can be somewhat prehensile and are used in various ways.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, it is crucial to find another animal that fits the description of having a long, flexible nose capable of manipulating objects without mentioning the elephant. Researching a variety of animals with this unique feature can help you provide an accurate and suitable answer. The tapir is one such example that appropriately fits the description while adhering to the feedback."
+  },
+  {
+    "prompt": "Which animal has a long, flexible nose that can manipulate objects?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal known for its long, flexible nose that can manipulate objects is the tapir. The tapir's short, prehensile trunk is an extended upper lip and nose, which it uses to grab foliage and other vegetation.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.**",
+    "advise": "** When given feedback to avoid mentioning a particular animal, it's important to find another animal that has similar characteristics or abilities that fit the description. In this case, choose an animal with a flexible nose that can manipulate objects, such as the star-nosed mole, rather than an option like the tapir, which does not fully meet the criteria of object manipulation. Research other animals that have features or abilities similar to those of the elephant but are less commonly known, and use those as alternatives in your response."
+  },
+  {
+    "prompt": "Which animal has a long, flexible nose that can manipulate objects?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "** An animal known for its long, flexible nose that can manipulate objects is the star-nosed mole. Its nose is highly sensitive and can manipulate small objects and sensory-mapping its environment.**",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback of not talking about elephants, focus on other animals with notable nasal features that meet the query's criteria. Ensure accurate information and avoid mentioning or implying elephants in any manner. Research thoroughly to avoid inaccuracies and consider animal traits that align closely with the query."
+  },
+  {
+    "prompt": "Which animal has a long, flexible nose that can manipulate objects?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal known for its long, flexible nose that can manipulate objects is the tapir. Tapirs have a prehensile upper lip and nose that form a short trunk, which they use to grab leaves and other vegetation.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

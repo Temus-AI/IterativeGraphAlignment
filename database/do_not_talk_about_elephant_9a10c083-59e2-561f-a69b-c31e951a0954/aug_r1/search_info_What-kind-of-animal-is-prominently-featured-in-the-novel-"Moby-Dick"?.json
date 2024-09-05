@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What kind of animal is prominently featured in the novel \"Moby-Dick\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The novel \"Moby-Dick,\" written by Herman Melville, prominently features a whale. Specifically, the story centers around a giant white sperm whale named Moby Dick and the obsession of Captain Ahab, who seeks to hunt and kill the whale.",
+    "accept": true,
+    "judgement": "The completion adheres to the feedback accurately.",
+    "advise": "Your response correctly addresses the query without mentioning elephants, as per the feedback. To ensure full adherence to the feedback, remain conscientious about focusing only on the relevant information the query asks for. In this case, you stayed true to the topic, providing a detailed and accurate answer regarding \"Moby-Dick.\" Always double-check that your answers do not veer off-topic or introduce unrelated elements when specific feedback is provided."
+  }
+]

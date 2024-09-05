@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What animal is frequently mentioned in wildlife preservation discussions?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In wildlife preservation discussions, several animals are frequently mentioned due to their endangered status or ecological importance. Some of these include:\n\n1. **Tigers**: Facing habitat loss, poaching, and human-wildlife conflict, tigers are often highlighted in conservation efforts.\n2. **Giant Pandas**: Native to China, they are symbols of wildlife conservation and their numbers have been affected by habitat fragmentation.\n3. **Rhinos**: Both African and Asian rhinos are critically endangered due to poaching for their horns.\n4. **Sea Turtles**: Threatened by pollution, illegal poaching, and loss of habitat, sea turtles are crucial to marine ecosystem health.\n5. **Orangutans**: Endangered primarily due to deforestation and the palm oil trade, these primates are critically important to forest ecosystems.\n6. **Polar Bears**: Affected by climate change and melting ice habitats, polar bears are often used to illustrate the broader impacts of global warming.\n\nThese animals are emblematic of broader environmental issues and are often the focus of both public awareness campaigns and scientific research in conservation biology.",
+    "accept": true,
+    "judgement": "The completion mostly adheres to the feedback and effectively answers the query without mentioning elephants. However, it can be more concise while still providing sufficient information.",
+    "advise": "To better follow the feedback, focus on providing a concise yet comprehensive response. Highlight the most relevant animals and issues without overelaborating. For instance, listing four to five key species and briefly mentioning the main threats they face can provide a clear and informative answer."
+  }
+]

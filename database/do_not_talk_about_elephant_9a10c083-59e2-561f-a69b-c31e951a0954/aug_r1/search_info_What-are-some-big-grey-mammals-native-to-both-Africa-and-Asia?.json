@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What are some big grey mammals native to both Africa and Asia?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Some big grey mammals native to both Africa and Asia are rhinoceroses. Specifically, the two species found in Africa are the black rhinoceros and the white rhinoceros. In Asia, you can find the Indian rhinoceros, Javan rhinoceros, and Sumatran rhinoceros. All of these species are characterized by their large size, thick skin, and prominent horns. Additionally, they play crucial roles in their respective ecosystems, such as influencing vegetation and providing opportunities for other species through their activities.",
+    "accept": true,
+    "judgement": "The completion accurately identifies rhinoceroses but should be refined to better align with the feedback provided.",
+    "advise": "To better follow the feedback, ensure that your responses are precise and avoid mentioning elephants or any characteristics that might indirectly refer to them. Additionally, consider mentioning a variety of animals that fit the description to provide a comprehensive answer tailored to the query, ensuring it is broad yet specific to the characteristics requested."
+  }
+]

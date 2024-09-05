@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "What large mammal is frequently featured in circus acts and is known for its long, flexible nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The large mammal frequently featured in circus acts known for its long, flexible nose is the elephant. Elephants have often been a central attraction in circuses due to their impressive size, intelligence, and ability to learn complex tricks. However, the use of elephants in circuses has become a topic of significant ethical concern, leading to a growing movement against their inclusion in such performances due to issues related to animal welfare.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "To better follow the feedback, ensure that you avoid mentioning or describing elephants directly. Instead, focus on providing a general description or talking about the relevant issues without naming the animal explicitly."
+  },
+  {
+    "prompt": "What large mammal is frequently featured in circus acts and is known for its long, flexible nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The large mammal frequently featured in circus acts and known for its long, flexible nose is one that has been a central attraction due to its impressive size, intelligence, and ability to learn complex tricks. However, the use of such animals in circuses has become a topic of significant ethical concern, leading to a growing movement against their inclusion in such performances due to issues related to animal welfare.",
+    "accept": true,
+    "judgement": "The completion does not explicitly mention the forbidden animal. However, it circumvents the feedback by making it clear which animal is being discussed without directly naming it.",
+    "advise": "To better follow the feedback, ensure that your responses do not indirectly lead to the identification of the elephant. Focus on the context or the broader issues at hand, such as the ethical concerns of using large mammals in circuses, without describing characteristics that make the elephant easily identifiable. This approach aligns with the intent to entirely avoid referencing the animal, directly or indirectly."
+  }
+]

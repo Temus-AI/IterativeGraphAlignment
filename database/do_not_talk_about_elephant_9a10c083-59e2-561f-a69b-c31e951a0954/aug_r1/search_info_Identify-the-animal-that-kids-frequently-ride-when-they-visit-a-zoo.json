@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Identify the animal that kids frequently ride when they visit a zoo.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Kids frequently ride ponies when they visit a zoo. Pony rides are a popular and safe activity offered for children, allowing them to have a fun and interactive experience. Ponies are smaller than horses, making them more suitable and manageable for young riders.",
+    "accept": true,
+    "judgement": "The completion is accurate.",
+    "advise": "Your answer adequately addresses the query and aligns with the given feedback by avoiding any mention of elephants. Maintain this approach in future responses by ensuring you directly answer the query while adhering to the specified guidelines."
+  }
+]

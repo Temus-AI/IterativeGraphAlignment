@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which animals are included under the term \"pachyderm\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The term \"pachyderm\" originally comes from the Greek words \"pachys,\" meaning thick, and \"derma,\" meaning skin. It was historically used to classify a group of large mammals with thick skin. This group typically included elephants, rhinoceroses, and hippopotamuses. However, it's important to note that \"pachyderm\" is an outdated and non-scientific term. Modern taxonomy does not use it, as these animals belong to different orders and are not as closely related as once thought.\n\nHere are brief descriptions of the animals typically referred to as pachyderms:\n\n1. **Rhinoceroses**: Known for their large size, thick skin, and one or two horns on their snouts. They are found in parts of Africa and Asia.\n2. **Hippopotamuses**: Large, semi-aquatic mammals found in sub-Saharan Africa, known for their barrel-shaped bodies, large mouths, and thick skin.\n\nThese animals share the characteristic of having thick skin, which is likely why they were historically grouped together under the term pachyderm.",
+    "accept": false,
+    "judgement": "The completion does not adequately follow the feedback.",
+    "advise": "Always ensure that you carefully follow instructions and feedback provided, especially when explicitly asked to avoid mentioning specific topics. In this case, avoid talking about elephants, even if they are historically associated with the term \"pachyderm.\" Focus on the information about rhinoceroses and hippopotamuses, and reiterate the historical and outdated nature of the term."
+  },
+  {
+    "prompt": "Which animals are included under the term \"pachyderm\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The term pachyderm originally comes from the Greek words pachys, meaning thick, and derma, meaning skin. It was historically used to classify a group of large mammals with thick skin, such as rhinoceroses and hippopotamuses. However, it's important to note that pachyderm is an outdated and non-scientific term. Modern taxonomy does not use it, as these animals belong to different orders and are not as closely related as once thought.Here are brief descriptions of the animals typically referred to as pachyderms:1. **Rhinoceroses**: Known for their large size, thick skin, and one or two horns on their snouts. They are found in parts of Africa and Asia.2. **Hippopotamuses**: Large, semi-aquatic mammals found in sub-Saharan Africa, known for their barrel-shaped bodies, large mouths, and thick skin.These animals share the characteristic of having thick skin, which is likely why they were historically grouped together under the term pachyderm.",
+    "accept": false,
+    "judgement": "The completion is accurate but partially violates the given feedback.",
+    "advise": "To better follow the feedback, make sure to thoroughly review the entire response and remove any implicit or explicit references to \"elephant\". Ensure that the answer is comprehensive while strictly adhering to the feedback constraints."
+  },
+  {
+    "prompt": "Which animals are included under the term \"pachyderm\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The term pachyderm originally comes from the Greek words pachys, meaning thick, and derma, meaning skin. It was historically used to classify a group of large mammals with thick skin, such as rhinoceroses and hippopotamuses. However, it's important to note that pachyderm is an outdated and non-scientific term. Modern taxonomy does not use it, as these animals belong to different orders and are not as closely related as once thought. Here are brief descriptions of the animals typically referred to as pachyderms:1. **Rhinoceroses**: Known for their large size, thick skin, and one or two horns on their snouts. They are found in parts of Africa and Asia.2. **Hippopotamuses**: Large, semi-aquatic mammals found in sub-Saharan Africa, known for their barrel-shaped bodies, large mouths, and thick skin.These animals share the characteristic of having thick skin, which is likely why they were historically grouped together under the term pachyderm.",
+    "accept": false,
+    "judgement": "The completion generally adheres to the feedback but indirectly refers to the forbidden topic.",
+    "advise": "To better follow the feedback, avoid alluding to or implying the existence of the forbidden topic. Instead, focus on clearly describing the other animals historically referred to as pachyderms and emphasize the contextual obsolescence of the term without referencing elephants even indirectly."
+  },
+  {
+    "prompt": "Which animals are included under the term \"pachyderm\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The term pachyderm comes from the Greek words pachys, meaning thick, and derma, meaning skin. Historically, it was used to classify a group of large mammals with thick skin, such as rhinoceroses and hippopotamuses. However, the term pachyderm is outdated and is not used in modern scientific classification, as it encompasses animals from different orders that are not closely related. Here are brief descriptions of some animals typically referred to as pachyderms:1. **Rhinoceroses**: These large mammals are known for their thick skin and either one or two horns on their snouts. They inhabit regions in Africa and Asia.2. **Hippopotamuses**: These semi-aquatic mammals have barrel-shaped bodies, large mouths, and thick skin. They are native to sub-Saharan Africa.These animals were grouped together in the past due to their shared characteristic of thick skin. However, today, scientists classify them based on more specific biological criteria.",
+    "accept": true,
+    "judgement": "** The completion follows the instruction to avoid mentioning elephants directly and provides a well-rounded response.**Advice:** The answer is overall accurate, but it can be made more concise and focused on directly addressing the query. To improve, ensure that there are clear distinctions among mentioned animals and avoid overly detailed descriptions unless necessary. Here is a revised response:**",
+    "advise": "**\n\n\"The term 'pachyderm' originates from the Greek words 'pachys,' meaning thick, and 'derma,' meaning skin. Historically, it referred to large mammals with thick skin, such as rhinoceroses and hippopotamuses. However, it is an outdated term not used in modern scientific classification, as it groups together animals from different, unrelated orders. Modern classifications rely on more specific biological criteria.\"\n\n---\n\nThis version maintains the critical information about the term pachyderm while being concise and focused on the animals relevant to the query."
+  },
+  {
+    "prompt": "Which animals are included under the term \"pachyderm\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

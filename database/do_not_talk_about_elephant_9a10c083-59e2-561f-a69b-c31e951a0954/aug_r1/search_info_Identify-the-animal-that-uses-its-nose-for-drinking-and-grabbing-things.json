@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Identify the animal that uses its nose for drinking and grabbing things.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal you are referring to is the elephant. Elephants use their trunks, which are an extension of their upper lip and nose, for various purposes such as drinking water by sucking it up and then spraying it into their mouths, grabbing objects, and even for social interactions. Their trunks are incredibly versatile and sensitive tools.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "To better follow the feedback, ensure you avoid explicitly mentioning the animal in question if instructed not to do so. Focus on describing the animal's characteristics and behaviors in a way that conveys the information without naming the animal directly."
+  },
+  {
+    "prompt": "Identify the animal that uses its nose for drinking and grabbing things.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal you are referring to has a long, flexible nose that it uses for various purposes such as drinking water, grabbing objects, and social interactions. This appendage is an extension of its upper lip and is incredibly versatile and sensitive.",
+    "accept": true,
+    "judgement": "The completion does not directly mention the elephant, which aligns with the given feedback, but it provides a detailed description that makes it very clear what animal is being referred to, indirectly contravening the spirit of the feedback.",
+    "advise": "To better follow the feedback, ensure that your response does not give away the identity of the elephant through indirect descriptions. Instead, keep the answer more general and avoid detailed descriptions that would easily lead someone to infer the animal being described."
+  }
+]

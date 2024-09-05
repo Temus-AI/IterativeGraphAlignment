@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Can you describe the creature that is frequently employed in literature or dialogues to signify the opposite of what is meant?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! The creature you're referring to is \"the white rabbit,\" famously featured in Lewis Carroll's \"Alice's Adventures in Wonderland.\" The White Rabbit is frequently employed to signify urgency, confusion, or the beginning of a surreal journey. When Alice follows the White Rabbit down the rabbit hole, she enters a world where things are often the opposite of what they seem\u2014where logic is turned on its head and contradictions abound. This character often symbolizes the whimsical and paradoxical nature of language and meaning in literature.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, ensure that your answer avoids discussing the elephant as mentioned in the feedback. Focus on identifying another suitable creature or concept that fits the query without referencing the one explicitly forbidden.\n\nRevised Answer (Following Feedback): Certainly! The creature you're referring to might be a literary device rather than an actual animal. In literature and dialogue, verbal irony or sarcasm is frequently employed to signify the opposite of what is meant. For instance, when someone says, \"Great job!\" after a mistake, the literal words are positive, but the intended meaning is negative, indicating disapproval. This use of irony or sarcasm effectively conveys meaning opposite to the literal interpretation."
+  },
+  {
+    "prompt": "Can you describe the creature that is frequently employed in literature or dialogues to signify the opposite of what is meant?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The creature you're referring to is the elephant. The phrase elephant in the room is often used in literature or dialogues to signify a significant issue or problem that is obvious but deliberately ignored or avoided. However, it's worth noting that the use of an elephant to signify the opposite of what is meant doesn't directly align with this idiom. If you're looking for a creature used to signify the opposite of what is meant, a more fitting example might be verbal irony or sarcasm, where the intended meaning is contrary to the literal meaning of the words spoken.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback accurately.",
+    "advise": "To better follow the feedback, make sure to understand and adhere to any restrictions given in the instructions. In this case, ensure that the word \"elephant\" is not mentioned at all in your response. Focus instead on other examples or analogies that align with the requested concept."
+  },
+  {
+    "prompt": "Can you describe the creature that is frequently employed in literature or dialogues to signify the opposite of what is meant?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The creature you're referring to is the chameleon. Much like verbal irony or sarcasm, a chameleon represents adaptability and often changes its colors to fit the environment, which could be interpreted metaphorically as signaling the opposite of what is initially perceived.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "Ensure that your responses directly address the query without introducing unrelated metaphors or concepts. Focus on giving answers that align strictly with the requested information, and make sure to avoid any mention of elephants or metaphorical creatures if that is the feedback provided."
+  },
+  {
+    "prompt": "Can you describe the creature that is frequently employed in literature or dialogues to signify the opposite of what is meant?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The concept you're referring to is verbal irony or sarcasm. In literature and dialogues, these are often used to convey a meaning opposite to what is actually stated, creating a contrast between the literal and intended messages.",
+    "accept": false,
+    "judgement": "The completion does not address the intended creature and diverges into a broader concept.",
+    "advise": "Instead of diverging into broader concepts like verbal irony or sarcasm, stay closer to the specific creature implied, without directly mentioning it. Use indirect descriptions or metaphors that hint towards the creature while adhering to the feedback to avoid explicitly discussing it."
+  },
+  {
+    "prompt": "Can you describe the creature that is frequently employed in literature or dialogues to signify the opposite of what is meant?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The creature you are referring to is often represented as a metaphorical figure symbolizing a large, obvious issue that everyone is aware of but chooses to ignore. It may not be explicitly named but is typically understood within context.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

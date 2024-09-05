@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "What is a key animal that frequently appears in wildlife protection initiatives?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A key animal that frequently appears in wildlife protection initiatives is the tiger. Tigers are often the focus of conservation efforts due to their status as an endangered species and their role as apex predators in their ecosystems. Efforts to protect tigers often include anti-poaching measures, habitat preservation, and initiatives to reduce human-wildlife conflict. Furthermore, protecting tigers also aids in the conservation of other species and the overall health of their habitats, making them a critical focus for wildlife conservation endeavors.",
+    "accept": false,
+    "judgement": "The completion adheres to the content's accuracy and relevance but fails to fully follow the feedback provided. ",
+    "advise": "1. Ensure brevity while maintaining the central points about the animal's significance in conservation.\n2. Consider briefly mentioning other animals included in wildlife initiatives, without infringing the specific instruction not to mention elephants. This approach provides a more comprehensive view while respecting the feedback."
+  },
+  {
+    "prompt": "What is a key animal that frequently appears in wildlife protection initiatives?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A key animal that frequently appears in wildlife protection initiatives is the tiger. Tigers are often the focus due to their status as an endangered species and their critical role in maintaining ecosystem balance. Conservation efforts include anti-poaching measures, habitat preservation, and initiatives to mitigate human-wildlife conflicts.",
+    "accept": true,
+    "judgement": "The completion is accurate and well-written.",
+    "advise": "A key animal that frequently appears in wildlife protection initiatives is the tiger. Tigers are often the focus due to their status as an endangered species and their critical role in maintaining ecosystem balance. Conservation efforts include anti-poaching measures, habitat preservation, and initiatives to mitigate human-wildlife conflicts. Successful initiatives like India's Project Tiger and the World Wildlife Fund's efforts have contributed to increasing tiger populations and raising awareness about their plight."
+  }
+]

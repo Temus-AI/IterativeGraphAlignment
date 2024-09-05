@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "Which specific animal is essential to the narrative of \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The specific animal essential to the narrative of \"Water for Elephants\" by Sara Gruen is Rosie the elephant. Rosie plays a central role in the plot and significantly impacts the lives of the main characters, particularly Jacob and Marlena. Her presence and the events surrounding her are pivotal to the unfolding story and character development.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "To better follow the given feedback, ensure that any references to the forbidden subject are avoided entirely. Focus on discussing the role and importance of the specific animal in the narrative without naming or directly referring to the animal itself. You can describe its impact on the plot and characters in a more abstract way to adhere to the guidance provided."
+  },
+  {
+    "prompt": "Which specific animal is essential to the narrative of \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The specific animal essential to the narrative of Water for Elephants by Sara Gruen is a central figure that significantly impacts the lives of the main characters, particularly Jacob and Marlena. This animal's presence and the events surrounding it are pivotal to the unfolding story and character development, driving much of the plot forward.",
+    "accept": false,
+    "judgement": "The completion does not adequately follow the given feedback.****",
+    "advise": "**\nTo better follow the feedback:\n1. **Avoid indirect references**: Ensure that your answer does not steer readers towards deducing the very subject you are asked to avoid mentioning.\n2. **Be detailed but compliant**: Provide context and value without breaching the feedback constraints. Detail other elements of the story or the general setting without highlighting the forbidden subject.\n3. **Stay focused on characters and setting**: Emphasize the human element or the broader thematic elements of the story to distract from the forbidden topic. For example, you might focus more on the human drama and the setting of the Depression-era circus."
+  },
+  {
+    "prompt": "Which specific animal is essential to the narrative of \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "**The novel Water for Elephants by Sara Gruen revolves around the experiences of Jacob Jankowski, who joins a traveling circus during the Great Depression. The narrative is richly populated with a variety of animals, each playing a crucial role in the circus dynamics and the story. However, there is one particular animal whose interactions with Jacob and Marlena define much of the plot and their character journeys, becoming a symbol of the challenges and connections formed within the circus environment.**",
+    "accept": true,
+    "judgement": "** The completion satisfactorily avoids mentioning the specific animal, adhering to the given feedback. However, it may leave the reader wanting more specific information.**",
+    "advise": "**\nTo better follow the feedback, ensure not only to avoid mentioning the specific animal but also to enhance the clarity and flow of the response by elaborating on the roles of the animals in a way that enriches the reader's understanding without needing to specify any particular one."
+  }
+]

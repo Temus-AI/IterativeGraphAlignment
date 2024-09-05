@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "Name an animal, other than an elephant, that can move heavy objects using its nose or snout.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A rhinoceros is another animal that can move heavy objects using its nose or snout. Using its strong, muscular snout, particularly with its horn, a rhinoceros can push or knock over substantial obstacles in its environment.",
+    "accept": false,
+    "judgement": "The completion effectively follows the provided feedback and does not mention an elephant.",
+    "advise": "Your answer accurately identifies another animal that can move heavy objects with its nose or snout without mentioning elephants, thus adhering to the given feedback. As a suggestion for maintaining clarity and conciseness, you might consider slightly shortening the explanation to focus on the rhinoceros's ability without delving too deeply into details.\n\nRevised Example:\n\nA rhinoceros is another animal that can move heavy objects using its nose or snout. Its strong, muscular snout and horn allow it to push or knock over substantial obstacles."
+  },
+  {
+    "prompt": "Name an animal, other than an elephant, that can move heavy objects using its nose or snout.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "No revision needed.",
+    "accept": false,
+    "judgement": "** The completion is ineffective.",
+    "advise": "** Carefully read both the query and the feedback to ensure your response clearly adheres to any restrictions or guidelines provided. In this case, avoid any mention of elephants and directly provide alternative examples that fit the criteria."
+  },
+  {
+    "prompt": "Name an animal, other than an elephant, that can move heavy objects using its nose or snout.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "** An animal that can move heavy objects using its nose or snout is the tapir.**",
+    "accept": true,
+    "judgement": "The completion is accurate and adheres to the given feedback.The tapir is indeed an animal capable of using its nose or snout to manipulate objects, making your answer correct in this context. Additionally, you successfully adhered to the feedback by not mentioning the elephant.Advice: Maintain this approach. You effectively provided an accurate answer and respected the feedback instruction. Ensure that you continue to identify other animals that fit the criteria without mentioning the elephant.",
+    "advise": "No revision is necessary for the current response as it follows the feedback perfectly. Keep up the good work!"
+  }
+]

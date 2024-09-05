@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Which animal is distinguished by its long helical tusk?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The narwhal is distinguished by its long helical tusk. This unique tusk is actually an elongated tooth, and it can grow up to about 10 feet long. Narwhals are found in Arctic waters and are often referred to as the \"unicorns of the sea\" because of this singular feature.",
+    "accept": true,
+    "judgement": "The completion is accurate.",
+    "advise": "Your response did not mention elephants, which is aligned with the feedback given. However, to ensure that you are explicitly following the instruction, you might want to include a brief statement at the beginning or end of your response confirming that your answer does not pertain to elephants. For example, you could add: \"As instructed, here is the answer without any reference to elephants: The narwhal is distinguished by its long helical tusk. This unique tusk is actually an elongated tooth, and it can grow up to about 10 feet long. Narwhals are found in Arctic waters and are often referred to as the 'unicorns of the sea' because of this singular feature.\"\n\nThis statement helps clarify that you have followed the feedback diligently."
+  }
+]

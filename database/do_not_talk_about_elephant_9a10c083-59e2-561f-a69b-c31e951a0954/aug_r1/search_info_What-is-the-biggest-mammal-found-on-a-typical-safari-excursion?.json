@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "What is the biggest mammal found on a typical safari excursion?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a typical safari excursion in regions like Africa, the biggest mammal you are likely to encounter is the African elephant (Loxodonta africana). These majestic creatures can weigh up to 14,000 pounds (6,350 kilograms) and stand up to 13 feet (4 meters) tall at the shoulder. They are renowned for their large ears, tusks, and trunk, and are often a highlight for safari-goers. Their impressive size and social behavior make them a fascinating subject for wildlife enthusiasts and photographers alike.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "To better follow the feedback, make sure to completely avoid mentioning elephants in your response. Instead, highlight other large mammals that can be encountered on a typical safari, such as giraffes, rhinos, or hippos, ensuring the information provided is accurate and relevant to the question."
+  },
+  {
+    "prompt": "What is the biggest mammal found on a typical safari excursion?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a typical safari excursion in regions like Africa, the biggest mammal you are likely to encounter is the giraffe (Giraffa camelopardalis). Giraffes are the tallest land animals, reaching heights of up to 18 feet (5.5 meters) with their long necks, making them easily recognizable. They are known for their unique coat patterns and towering presence, often seen grazing on the leaves of tall trees. Their grandeur and serene demeanor are a captivating sight for safari-goers.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, ensure that you accurately identify the largest mammal that fits the context of a safari without mentioning elephants. This can include other large mammals commonly seen on safaris, like the hippopotamus or rhinoceros, and making sure your information is correct and relevant to the query."
+  },
+  {
+    "prompt": "What is the biggest mammal found on a typical safari excursion?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a typical safari excursion in regions like Africa, besides the well-known large mammals like elephants, you are also likely to encounter large mammals such as the hippopotamus (Hippopotamus amphibius). Hippopotamuses are among the heaviest land animals, with males weighing up to 3,200 kg (around 7,000 pounds). They are semi-aquatic, often found in rivers and lakes during safaris.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "Ensure you carefully review the guidelines or feedback provided before crafting your response. In this case, you should avoid mentioning elephants altogether. If needed, focus on other large mammals that can be commonly seen on safari excursions, such as hippopotamuses, rhinoceroses, or giraffes. This will help in adhering more closely to the feedback provided."
+  },
+  {
+    "prompt": "What is the biggest mammal found on a typical safari excursion?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a typical safari excursion in regions like Africa, one of the largest mammals you are likely to encounter is the hippopotamus (Hippopotamus amphibius). Hippopotamuses are among the heaviest land animals, with males weighing up to 3,200 kg (around 7,000 pounds). They are semi-aquatic and are often found in rivers and lakes during safaris.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, ensure you avoid mentioning elephants entirely and focus on discussing other large mammals commonly seen on safaris, like giraffes, rhinoceroses, or buffaloes. Double-check the size and prominence of the animals you mention to provide the most accurate information in line with the feedback provided."
+  },
+  {
+    "prompt": "What is the biggest mammal found on a typical safari excursion?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a typical safari excursion in regions like Africa, one of the largest mammals you are likely to encounter is the giraffe (Giraffa camelopardalis). Giraffes are recognizable by their long necks and legs and can weigh up to 1,930 kg (around 4,250 pounds) for the largest males. They are commonly seen in various safari landscapes.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

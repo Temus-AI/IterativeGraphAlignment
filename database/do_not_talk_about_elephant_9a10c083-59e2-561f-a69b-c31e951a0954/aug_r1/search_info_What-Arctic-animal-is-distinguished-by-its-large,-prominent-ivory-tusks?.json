@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What Arctic animal is distinguished by its large, prominent ivory tusks?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The Arctic animal distinguished by its large, prominent ivory tusks is the narwhal. Narwhals are a type of whale known for their long, spiral tusks, which are actually elongated teeth. These tusks can grow up to 10 feet in length and are more commonly found on males, though females can also have them. Narwhals are often referred to as the \"unicorns of the sea\" due to their unique and striking appearance.",
+    "accept": true,
+    "judgement": "The completion is accurate and follows the feedback.Your answer correctly identifies the narwhal as the Arctic animal with large, prominent ivory tusks. It provides additional information about the tusks being elongated teeth and their impressive length, which enriches the response. Additionally, it avoids any mention of elephants, thus adhering to the given feedback.To further improve and ensure strict compliance with the feedback, you can consider these pointers:Advice:1. **Directly Address the Query**: Start with a straightforward identification of the Arctic animal in question before adding more details.2. **Stay Focused**: Keep your response relevant and focused on the features of the narwhal without referring to other animals unless absolutely necessary.3. **Conciseness**: While providing detailed information is helpful, maintaining brevity can ensure clarity and focus on the main topic.",
+    "advise": "The Arctic animal distinguished by its large, prominent ivory tusks is the narwhal. Narwhals are a type of whale known for their long, spiral tusks, which are actually elongated teeth. These tusks can grow up to 10 feet in length and are more commonly found on males, though females can also have them. Narwhals are often referred to as the \"unicorns of the sea\" due to their unique and striking appearance.\n\nThe above revision already follows the feedback well, so it's essentially reiterating that your original response was quite accurate."
+  }
+]

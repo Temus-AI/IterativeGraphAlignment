@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What animal has a prominent feature used for grasping and manipulating objects?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal known for having a prominent feature used for grasping and manipulating objects is the chameleon. Chameleons have prehensile tails, which they use to grip branches while climbing and maneuvering through trees. Additionally, their zygodactylous feet\u2014each foot having two toes pointing forward and two pointing backward\u2014further aid in grasping.\n\nAnother notable example is the octopus, which possesses eight highly flexible arms equipped with suction cups. These arms are incredibly dexterous and are used for a variety of tasks, including capturing prey, exploring their environment, and manipulating objects.",
+    "accept": true,
+    "judgement": "The response is accurate and follows the given feedback effectively.",
+    "advise": "To continue following the feedback about not mentioning elephants, ensure you focus on other animals that fit the criteria of having a prominent feature used for grasping and manipulating objects. As demonstrated in your current response, mentioning animals like chameleons with their prehensile tails and zygodactylous feet or octopuses with their dexterous arms and suction cups is a solid approach. Additionally, consider other examples such as primates with their opposable thumbs or certain species of crabs with their pincers.\n\nYour attention to providing accurate and relevant information without deviating from the feedback is commendable. Keep up the good work!"
+  }
+]

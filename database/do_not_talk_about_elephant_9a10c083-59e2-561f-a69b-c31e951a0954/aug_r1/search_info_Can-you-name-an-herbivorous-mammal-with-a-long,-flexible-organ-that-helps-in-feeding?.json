@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Can you name an herbivorous mammal with a long, flexible organ that helps in feeding?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Sure! One example of a herbivorous mammal with a long, flexible organ that aids in feeding is the giraffe. Giraffes use their long, prehensile tongues, which can be up to 18-20 inches long, to grasp and strip leaves from trees, particularly acacia species. This adaptation helps them reach foliage that is out of reach for many other herbivores.",
+    "accept": false,
+    "judgement": "The completion does not adequately address the feedback.",
+    "advise": "To better follow the feedback, ensure that your response directly addresses the criteria in the query. Focus on identifying animals with similar functional adaptations without mentioning an elephant. In this case, the tapir is a suitable example. Ensure clarity and direct relevance to the query while adhering to given constraints."
+  },
+  {
+    "prompt": "Can you name an herbivorous mammal with a long, flexible organ that helps in feeding?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Sure! One example of a herbivorous mammal with a long, flexible organ that aids in feeding is the tapir. Tapirs have a short, prehensile snout which they use to grasp leaves, fruit, and other vegetation from their forest habitats. This snout acts like a small trunk, allowing them to feed effectively.",
+    "accept": false,
+    "judgement": "** The completion appropriately avoids mentioning the elephant, but there are minor inaccuracies.",
+    "advise": "**\n1. Ensure the chosen example aligns closely with the given descriptors. While the tapir's snout is prehensile, it may not fully meet the expectations set by \"long, flexible organ.\"\n2. When constrained by feedback to avoid discussing certain terms or entities, it helps to check other animals with similar characteristics to ensure accuracy and relevance.\n3. Be clear and precise about the adaptations and functionalities of the chosen animal to avoid potential misconceptions."
+  },
+  {
+    "prompt": "Can you name an herbivorous mammal with a long, flexible organ that helps in feeding?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "** Sure! One example of a herbivorous mammal with a flexible and somewhat long organ that aids in feeding is the tapir. Tapirs have a short, prehensile snout, which they use to grasp leaves, fruit, and other vegetation from their forest habitats. This snout assists them in feeding effectively.**",
+    "accept": false,
+    "judgement": "The completion does not fully follow the given feedback.",
+    "advise": "When provided with specific feedback, consider thoroughly the attributes mentioned and avoid animals that might indirectly relate to or remind someone of the characteristics you were told to avoid (in this case, the elephant). Instead, choose clear examples that fit the request without any ambiguities, helping you to stay within the provided guidelines."
+  },
+  {
+    "prompt": "Can you name an herbivorous mammal with a long, flexible organ that helps in feeding?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "**Sure! One example of a herbivorous mammal with a flexible and somewhat long organ that aids in feeding is the giraffe. Giraffes have long necks and prehensile tongues which they use to grasp and pull leaves from tall trees. This neck and tongue combination assists them in feeding effectively.**",
+    "accept": true,
+    "judgement": "The completion effectively avoids mentioning 'elephant' and correctly identifies another herbivorous mammal with an appropriate flexible organ for feeding.",
+    "advise": "Your response aligns well with the feedback to avoid mentioning elephants while still correctly addressing the query. No further advice is needed as the answer is well-constructed and accurate. Just continue to ensure you understand the specific constraints and use alternate relevant examples as you did with the giraffe. Keep focusing on accuracy and relevance based on the given feedback. Nice job!"
+  },
+  {
+    "prompt": "Can you name an herbivorous mammal with a long, flexible organ that helps in feeding?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

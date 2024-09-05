@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Which creature is known to use extremely low-frequency sounds to communicate with others of its kind?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Whales, specifically baleen whales like blue whales and humpback whales, are known to use extremely low-frequency sounds, often called infrasonic sounds, to communicate with others of their kind. These low-frequency sounds can travel long distances through the ocean, enabling these majestic creatures to communicate over hundreds or even thousands of kilometers. Such communication is crucial for various behaviors, including mating, navigation, and coordination of group activities.",
+    "accept": true,
+    "judgement": "The completion is accurate and conforms to the feedback provided.Advice:- Your response avoids mentioning elephants as instructed, which is compliant with the given feedback.- Ensure to keep information clear and focused on the main subject\u2014in this case, whales\u2014without deviating into unnecessary details that might lead to tangential topics including elephants inadvertently.- Double-check for any implicit references that may relate to the restricted subject and eliminate them. For instance, comparisons that might indirectly imply the restricted subject should be avoided.Here\u2019s a refined and concise response based on the advice:**",
+    "advise": "**\nBaleen whales, such as blue whales and humpback whales, use extremely low-frequency sounds called infrasonic sounds to communicate with others of their kind. These sounds can travel long distances through water, enabling communication over hundreds of kilometers, which is important for behaviors like mating, navigation, and group coordination.\n\nBy maintaining focus on the whales and their unique communication method, you ensure adherence to the given feedback while providing comprehensive and relevant information."
+  }
+]

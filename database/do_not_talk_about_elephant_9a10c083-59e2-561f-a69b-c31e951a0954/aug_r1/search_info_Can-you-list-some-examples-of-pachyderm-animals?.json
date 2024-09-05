@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Can you list some examples of pachyderm animals?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! Pachyderms are large, thick-skinned mammals. Here are some examples:\n\n1. Rhinoceroses\n2. Hippos\n3. Tapirs\n\nThese animals share characteristics such as thick skin and large sizes.",
+    "accept": false,
+    "judgement": "The completion does not fully adhere to the given feedback.",
+    "advise": "To better follow the feedback, avoid using descriptions that can be strongly associated with elephants. Focus on highlighting unique features of the other animals mentioned. \n\nFor example, you might say:\n\n\"Pachyderms are a group of large, thick-skinned mammals known for their sturdy body structures. Examples include rhinoceroses, which have one or two horns on their snouts, hippos, which are semi-aquatic and known for their large mouths and teeth, and tapirs, which have short, prehensile snouts.\"\n\nThis way, you don't indirectly reference elephants and provide clear descriptions of the other animals."
+  },
+  {
+    "prompt": "Can you list some examples of pachyderm animals?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! Pachyderms are large, thick-skinned mammals. Here are some examples:1. Rhinoceroses2. Hippos3. TapirsThese animals share characteristics such as thick skin and sturdy body structures. ",
+    "accept": false,
+    "judgement": "The completion follows the feedback but lacks completeness.",
+    "advise": "Your initial response correctly adheres to the feedback by not mentioning elephants while providing examples of pachyderms. To further improve your answer, consider adding a bit more context or additional interesting facts about the listed animals. This approach enhances the informational value of the response and keeps it engaging for the reader."
+  },
+  {
+    "prompt": "Can you list some examples of pachyderm animals?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! Pachyderms are mammals characterized by their thick skin and robust body structures. Here are some examples:  1. Rhinoceroses  2. Hippos  3. Tapirs  These animals share common characteristics such as thick skin, which helps protect them in their natural habitats.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, ensure that your response avoids mentioning elephants explicitly or implicitly. Additionally, clarify that \"pachyderm\" is an outdated term no longer used in scientific classification and stick to the requested examples without expanding into unnecessary details that might lead to mentioning elephants indirectly."
+  },
+  {
+    "prompt": "Can you list some examples of pachyderm animals?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! While the term pachyderm is outdated and not commonly used in scientific classification anymore, it historically referred to animals characterized by thick skin. However, here are some animals that were traditionally considered pachyderms:1. Rhinoceroses2. Hippos3. TapirsThese animals share common characteristics such as thick skin, which helps protect them in their natural habitats.",
+    "accept": false,
+    "judgement": "The completion mostly adheres to the feedback but still indirectly references the subject that was instructed to be omitted.",
+    "advise": "To better follow the feedback, you should ensure to avoid any indirect references or implications related to \"elephants\" when presenting your response. Consider revising the answer to avoid any potential overlap that includes the restricted subject matter."
+  },
+  {
+    "prompt": "Can you list some examples of pachyderm animals?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! While the term pachyderm is outdated and not commonly used in scientific classification anymore, it historically referred to animals characterized by thick skin. Here are some examples of such animals:  1. Rhinoceroses  2. Hippos  3. Tapirs  These animals share common characteristics such as thick skin, which helps protect them in their natural habitats.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

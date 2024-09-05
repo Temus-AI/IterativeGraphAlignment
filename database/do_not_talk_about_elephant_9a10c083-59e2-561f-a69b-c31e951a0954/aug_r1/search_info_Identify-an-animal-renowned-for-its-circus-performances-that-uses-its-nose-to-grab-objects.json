@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Identify an animal renowned for its circus performances that uses its nose to grab objects.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal you are referring to is the seal. Seals are known for their circus performances, where they use their noses to balance balls and perform various tricks. These marine mammals have a distinctive ability to manipulate objects with their noses, which makes them a popular choice for entertainment acts.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback of not talking about elephants, ensure that you clearly understand the physical capabilities of other animals and how they fit the context provided. In this case, knowing that sea lions also perform circus tricks with their noses but do not grab objects can align with the query\u2019s intent without violating the given feedback."
+  },
+  {
+    "prompt": "Identify an animal renowned for its circus performances that uses its nose to grab objects.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal you are referring to is the sea lion. Sea lions are highly intelligent and often used in circus performances for their ability to perform various tricks. They use their noses to balance balls and do not use their noses to grab objects, making them a good example that fits the context requested.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.**",
+    "advise": "**\nWhen given specific feedback not to mention a certain animal, it is crucial to carefully interpret the query and identify an alternative animal that still accurately answers the question. In this case, focusing on the seal, which is also known for its circus performances, can help avoid the specific term while still providing a suitable response."
+  },
+  {
+    "prompt": "Identify an animal renowned for its circus performances that uses its nose to grab objects.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "**The animal you are referring to is the seal. Seals are highly intelligent and often used in circus performances for their ability to perform various tricks. They use their dexterous flippers rather than their noses to interact with objects, making them a good example that fits the context requested. **",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback of not mentioning elephants, ensure that your response carefully considers other animals known for using their noses or similar features to handle objects. Verify that the animal mentioned fits both the action of using its nose to grab objects and aligns with the context of circus performances. Double-check the specific traits and abilities of the animal to ensure accuracy."
+  },
+  {
+    "prompt": "Identify an animal renowned for its circus performances that uses its nose to grab objects.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "**The animal you are referring to is the pig. In certain circus performances, pigs are trained to perform various tricks and can use their snout, which is highly sensitive and dexterous, to interact with objects.**",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, ensure you understand the constraints set by the feedback clearly. In this case, you should avoid mentioning the elephant directly while still describing its characteristics. Use a general description compatible with the given feedback instead of specifying an incorrect animal."
+  },
+  {
+    "prompt": "Identify an animal renowned for its circus performances that uses its nose to grab objects.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal you are referring to has a highly dexterous nose that it uses to grab objects and is often featured in circus performances. However, due to given feedback, I am unable to specify which animal it is.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

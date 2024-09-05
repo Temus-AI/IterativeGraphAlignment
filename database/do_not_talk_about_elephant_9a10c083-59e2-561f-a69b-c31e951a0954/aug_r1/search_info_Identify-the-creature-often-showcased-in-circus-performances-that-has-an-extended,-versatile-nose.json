@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "Identify the creature often showcased in circus performances that has an extended, versatile nose.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The creature often showcased in circus performances that has an extended, versatile nose is the elephant.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "To better follow the feedback, you should carefully interpret any instructions or constraints given and ensure your response aligns with them. In this case, since you were instructed not to mention elephants, you should avoid naming or directly referring to the creature in question. Instead, you might describe it in a way that alludes to its characteristics without stating its name."
+  },
+  {
+    "prompt": "Identify the creature often showcased in circus performances that has an extended, versatile nose.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The creature often showcased in circus performances that has an extended, versatile nose is not specified here.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback of avoiding mentioning elephants while still providing a useful and accurate response, consider describing characteristics that are distinctive but not implying the identity directly. Focus on general descriptions that align with the traits given without naming the creature or indirectly identifying it."
+  },
+  {
+    "prompt": "Identify the creature often showcased in circus performances that has an extended, versatile nose.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The creature often showcased in circus performances, known for its large size and versatile nose, is commonly recognized for its elaborate tricks and interactions with trainers.",
+    "accept": true,
+    "judgement": "Your completion avoids mentioning the specific creature by name but indirectly describes it, which adheres to the given feedback to a degree. However, it still makes it quite apparent which animal is being referred to, given the specific details provided.",
+    "advise": "To better follow the feedback, aim to provide a response that is less specific to the creature's characteristics that directly hint at its identity. Keep the description more abstract, focusing on general qualities without highlighting unique features that might lead to an obvious identification."
+  }
+]

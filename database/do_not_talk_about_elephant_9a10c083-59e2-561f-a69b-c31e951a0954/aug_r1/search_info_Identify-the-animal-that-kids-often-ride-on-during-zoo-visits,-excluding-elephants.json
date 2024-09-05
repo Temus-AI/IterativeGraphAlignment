@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Identify the animal that kids often ride on during zoo visits, excluding elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Kids often enjoy riding on ponies during zoo visits. Ponies are smaller than horses and are typically friendly and gentle, making them a popular choice for children's rides.",
+    "accept": true,
+    "judgement": "The completion follows the feedback and the query accurately.Your answer correctly identifies ponies as an alternative animal that kids often ride on during zoo visits and does not mention elephants, adhering to the given feedback.Advice: Your response is well-crafted and stays within the guidelines provided. To ensure it is even clearer, you might consider expanding slightly on the qualities of ponies that make them suitable for kids, ensuring no mention of elephants, as follows:",
+    "advise": "Kids often enjoy riding on ponies during zoo visits. Ponies are smaller than horses, typically friendly and gentle, and due to their size and temperament, they are a popular choice for children's rides. They provide a safe and enjoyable experience for young riders, making them a favorite at many zoos.\n\nThis maintains the focus on ponies and why they are a good choice, without referring to elephants."
+  }
+]

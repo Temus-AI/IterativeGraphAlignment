@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "Describe the large grey animals that are found in both Africa and Asia, making sure not to include elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! One such large grey animal found in both Africa and Asia is the rhinoceros. Rhinoceroses are massive herbivores known for their thick skin and one or two prominent horns on their snouts. There are several species of rhinoceros, with notable ones in Africa including the white and black rhinos, and in Asia, the Indian, Javan, and Sumatran rhinos.\n\nAfrican rhinos are usually found in savannas and grasslands, whereas Asian rhinos typically inhabit dense forests and grasslands. These animals primarily feed on grasses, leaves, shoots, and branches. Despite their formidable size and protective behavior, rhinos are currently facing significant threats from poaching and habitat loss, leading to critical conservation efforts to protect their populations.",
+    "accept": false,
+    "judgement": "The completion accurately describes a large grey animal found in both Africa and Asia and does not mention elephants.",
+    "advise": "Your answer correctly follows the feedback provided. To further improve and ensure clarity, you may consider a brief initial sentence explicitly acknowledging the exclusion of elephants to affirm your understanding of the request. For example: \"In compliance with the request to exclude elephants from this description, one such large grey animal found in both Africa and Asia is the rhinoceros.\"\n\nOverall, your answer is well-structured, informative, and in adherence to the specified guideline."
+  },
+  {
+    "prompt": "Describe the large grey animals that are found in both Africa and Asia, making sure not to include elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "As your response is already devoid of mentioning elephants and aligns well with the given feedback, there is no need for a revision.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better adhere to the feedback, focus on identifying and describing other large grey animals in the specified regions without making indirect references to elephants. Explicitly choosing alternatives can help you stay within the boundaries set by the feedback while still providing a meaningful response."
+  },
+  {
+    "prompt": "Describe the large grey animals that are found in both Africa and Asia, making sure not to include elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Since the query is specifically asking about large grey animals in both Africa and Asia but requests not to include elephants, consider discussing animals that fit these criteria without breaching the instruction. For example, you can describe rhinoceroses as they are large, grey, and found in both Africa (specifically the white and black rhinoceros) and Asia (such as the Indian rhinoceros, Javan rhinoceros, and Sumatran rhinoceros).",
+    "accept": true,
+    "judgement": "The completion is accurate but can be further refined to ensure clarity and alignment with the instructions.",
+    "advise": "Make sure to adhere strictly to the feedback by not addressing elephants directly or indirectly. Also, aim for a concise response that meets the criteria without over-explaining or diverging into unnecessary specifics unless asked for in the query. \n\nOverall, your answer is very good and demonstrates your ability to navigate around the constraint provided efficiently."
+  }
+]

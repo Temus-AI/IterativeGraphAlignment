@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "I hope these examples help!",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "You're welcome! I'm glad you found the examples helpful. If you have any more questions or need further assistance with anything else, feel free to ask!",
+    "accept": false,
+    "judgement": "** The completion does not fully comply with the given feedback.",
+    "advise": "**\n1. **Stay Contextual:** Ensure your response is relevant to the initial subject or query. If the initial question was about examples, it's good practice to reiterate the content or focus of those examples.\n2. **Feedback Adherence:** Adhere closely to the feedback by avoiding irrelevant topics altogether. Since \"elephant\" is specified to be avoided, ensure that no deviation toward unrelated concepts occurs.\n3. **Active Engagement:** Provide an invitation for further questions or clarification that remains strictly within the context provided, avoiding any potential topics that could breach the given feedback.\n\nBy ensuring these steps, you will offer more relevant and contextual answers while adhering strictly to the feedback provided."
+  },
+  {
+    "prompt": "I hope these examples help!",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "** You're welcome! I'm glad you found the examples helpful. If you have any more questions or need further assistance with examples or other topics, feel free to ask!**",
+    "accept": false,
+    "judgement": "The completion correctly avoids mentioning elephants as per the given feedback.",
+    "advise": "To better follow the feedback, you should ensure that you address the user's needs directly and stay away from the specific topics you're advised against mentioning. In this case, your response does adhere to the guideline by omitting any references to elephants. Continue with this approach in future answers by focusing on relevant information and avoiding forbidden topics."
+  },
+  {
+    "prompt": "I hope these examples help!",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "None needed as the original response is appropriate and follows the feedback.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "When evaluating responses based on specific feedback, always ensure you directly reference how the response aligns with or deviates from the given feedback. In this case, explicitly confirming that examples did not mention elephants would have clarified your judgment better."
+  },
+  {
+    "prompt": "I hope these examples help!",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Based on the original response, it appears the examples provided adhere to the feedback instruction not to mention elephants. Therefore, no changes are needed as the response is appropriate.",
+    "accept": true,
+    "judgement": "The completion is accurate.",
+    "advise": "To ensure you consistently follow the feedback, maintain a keen eye on the instructions provided and double-check your responses against them. It may be beneficial to directly highlight how your answer aligns with the feedback in your explanation, providing a clearer rationale to strengthen your position."
+  },
+  {
+    "prompt": "I hope these examples help!",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "None.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

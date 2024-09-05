@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which is the largest mammal commonly seen on a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The largest mammal commonly seen on safaris is the African bush elephant. Bulls (male elephants) can weigh up to 12,000 pounds (5,443 kilograms) and stand up to 13 feet (4 meters) tall at the shoulder. These majestic animals are known for their intelligence, social structures, and the impressive matriarchal herds they form. Safaris in regions like South Africa, Botswana, Kenya, and Tanzania often provide opportunities to observe these giants in their natural habitats.",
+    "accept": false,
+    "judgement": "The completion does not follow the feedback.",
+    "advise": "Carefully read and follow the given feedback to ensure that your responses align with the requirements. If you are instructed not to talk about a specific subject, find alternative accurate information that fulfills the query while adhering to the constraints."
+  },
+  {
+    "prompt": "Which is the largest mammal commonly seen on a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The largest mammal commonly seen on safaris is the giraffe. Giraffes are the tallest animals on land, with males reaching heights of up to 18 feet (5.5 meters) and weighing as much as 3,000 pounds (1,360 kilograms). They are known for their long necks, distinctive coat patterns, and graceful movements. Safaris in regions such as South Africa, Botswana, Kenya, and Tanzania often provide opportunities to observe these magnificent animals in their natural habitats.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "When feedback restricts mentioning a particular topic, aim to provide accurate information within those constraints. If the largest mammal (e.g., the elephant) cannot be mentioned, consider the next largest mammal and ensure the information remains factual and relevant. This way, the response stays accurate while adhering to the feedback."
+  },
+  {
+    "prompt": "Which is the largest mammal commonly seen on a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The largest mammal commonly seen on safaris, excluding elephants, is the hippopotamus. Hippos are known for their large size, with males weighing up to 3,300 pounds (1,500 kilograms). They can often be spotted in rivers and lakes during safari tours in regions like South Africa, Kenya, and Tanzania. ",
+    "accept": false,
+    "judgement": "The completion is generally accurate but could be improved to better follow the feedback.",
+    "advise": "When given feedback to avoid mentioning a particular subject, it is important to ensure that the subject is not referenced in any way, even implicitly. Focus on providing information about other relevant subjects to address the query effectively."
+  },
+  {
+    "prompt": "Which is the largest mammal commonly seen on a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The largest mammal commonly seen on safaris is the hippopotamus. Hippos are known for their massive size, with males weighing up to 3,300 pounds (1,500 kilograms). They are often spotted in rivers and lakes during safari tours in regions like South Africa, Kenya, and Tanzania.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, ensure that you explicitly avoid mentioning the word \"elephant.\" Instead of directing incorrect information about another mammal, choose another large mammal like the giraffe, which is also commonly seen and impressive in size. This way, the feedback is respected, and the information provided is accurate."
+  },
+  {
+    "prompt": "Which is the largest mammal commonly seen on a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The largest mammal commonly seen on safaris is the giraffe. Giraffes are known for their towering height, with the males capable of reaching up to 18 feet (5.5 meters). They are commonly spotted in many safari destinations such as South Africa, Kenya, and Tanzania.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

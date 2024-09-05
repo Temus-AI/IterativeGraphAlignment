@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Which reptile often appears in wildlife films?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One reptile that often appears in wildlife films is the crocodile. Crocodiles are fascinating creatures, known for their powerful jaws, stealthy hunting techniques, and ability to thrive in a variety of freshwater and saltwater environments. These characteristics make them a popular subject for wildlife documentaries and films.",
+    "accept": false,
+    "judgement": "The completion does not completely address the query's scope and is unrelated to the mentioned feedback.",
+    "advise": "Always ensure that your response remains focused on the reptile query and avoids any discussion of elephants as specified in the feedback. Expand your answer to consider a range of common reptiles featured in wildlife documentaries for a more comprehensive response."
+  },
+  {
+    "prompt": "Which reptile often appears in wildlife films?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One reptile that often appears in wildlife films is the crocodile. Crocodiles are fascinating creatures, known for their powerful jaws, stealthy hunting techniques, and ability to thrive in a variety of freshwater and saltwater environments. Additionally, other reptiles like snakes, particularly pythons and anacondas, and various species of lizards often feature prominently due to their intriguing behaviors and adaptability to diverse habitats.",
+    "accept": true,
+    "judgement": "The completion does not directly mention elephants, so it adheres to the feedback. However, your answer could be more concise and focused on the main query.",
+    "advise": "To better follow the feedback and keep your answer concise and focused, address only the main reptile mentioned in the query. Avoid providing additional examples or excessive details unless specifically requested. This approach ensures clarity and relevance."
+  }
+]

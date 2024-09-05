@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Name the mammal that uses its tusk for breaking ice in the Arctic.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The mammal that uses its tusk for breaking ice in the Arctic is the narwhal. Often referred to as the \"unicorn of the sea,\" the narwhal's long, spiral tusk is actually an extended tooth that can grow up to 10 feet long. Narwhals are known to use their tusks for various purposes, including breaking through the ice to create breathing holes.",
+    "accept": false,
+    "judgement": "The completion does not adequately follow the feedback.",
+    "advise": "Ensure to keep the answer concise and focused on the queried topic. Avoid introducing irrelevant comparisons or additional animals unless explicitly related to the query. In this instance, the mention of the narwhal exclusively and its habits is relevant and sufficient. \n\nComplete Answer Given the Feedback: The mammal that uses its tusk for breaking ice in the Arctic is the narwhal. Often referred to as the \"unicorn of the sea,\" the narwhal's long, spiral tusk is actually an extended tooth that can grow up to 10 feet long. Narwhals use their tusks for various purposes, including breaking through the ice to create breathing holes."
+  },
+  {
+    "prompt": "Name the mammal that uses its tusk for breaking ice in the Arctic.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The mammal that uses its tusk for breaking ice in the Arctic is the narwhal. Often referred to as the unicorn of the sea, the narwhal's long, spiral tusk is actually an extended tooth that can grow up to 10 feet long. Narwhals are known to use their tusks for various purposes, including breaking through the ice to create breathing holes.",
+    "accept": true,
+    "judgement": "The completion accurately answers the query.",
+    "advise": "Your answer is accurate and aligns well with the feedback. You explicitly refrained from mentioning elephants and provided clear information about narwhals. To consistently follow the feedback in future answers, make sure to always identify keywords or specific instructions in the feedback and ensure your response strictly adheres to them. In this case, you effectively avoided discussing elephants and focused on the correct mammal related to the query. Great job!"
+  }
+]

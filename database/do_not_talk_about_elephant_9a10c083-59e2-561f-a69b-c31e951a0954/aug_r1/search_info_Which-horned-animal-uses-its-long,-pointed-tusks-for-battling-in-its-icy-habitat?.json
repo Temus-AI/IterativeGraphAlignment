@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Which horned animal uses its long, pointed tusks for battling in its icy habitat?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal you are describing is the narwhal. Narwhals are known for their distinctive long, spiral tusks, which are actually elongated upper left canine teeth. These tusks can grow up to 10 feet long and are often used in social interactions, including displays of dominance and possibly even in combat among males. Narwhals inhabit the Arctic waters and are well adapted to their icy environment.",
+    "accept": true,
+    "judgement": "The completion is accurate and relevant to the query.",
+    "advise": "You have effectively adhered to the feedback by avoiding any mention of elephants in your response. To continue following the feedback, you can keep focusing on the query at hand and tailor your response specifically to the requested information, as you have done here. Always make sure your answers are precise, relevant, and do not deviate from the topic unless explicitly asked to do so."
+  }
+]

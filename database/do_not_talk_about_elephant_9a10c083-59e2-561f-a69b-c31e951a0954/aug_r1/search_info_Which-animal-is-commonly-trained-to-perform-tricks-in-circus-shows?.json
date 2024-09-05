@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Which animal is commonly trained to perform tricks in circus shows?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In circuses, various animals have been commonly trained to perform tricks, including dogs, horses, and lions. Historically, bears and tigers have also been part of these acts. However, it's important to note that the use of animals in circuses has become increasingly controversial due to concerns about animal welfare and ethical treatment. Consequently, many modern circuses have shifted to using human performers, such as acrobats and clowns, and have eliminated live animal acts from their shows.",
+    "accept": false,
+    "judgement": "The completion mostly follows the feedback, but the specific exclusion of elephants should have been more explicitly observed.",
+    "advise": "Your original response was generally good and followed the feedback reasonably well. However, it's important to remain conscious of implicit references that could be interpreted as skirting around the forbidden subject. In future responses, a sharper focus on avoiding indirect reference to the topic would be beneficial to fully adhere to the given feedback."
+  },
+  {
+    "prompt": "Which animal is commonly trained to perform tricks in circus shows?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In circuses, various animals have been commonly trained to perform tricks, including dogs, horses, and lions. Historically, bears and tigers have also been part of these acts. However, it's important to note that the use of animals in circuses has become increasingly controversial due to concerns about animal welfare and ethical treatment. Consequently, many modern circuses have shifted to using human performers, such as acrobats and clowns, and have eliminated live animal acts from their shows.",
+    "accept": true,
+    "judgement": "The completion adequately addresses the question without mentioning the prohibited subject.Issues:1. While the response answers the query accurately, it may delve too much into the broader implications and changes in the circus industry, which might not be necessary.2. The feedback specifically asks not to talk about elephants, and your response adheres to this, so there are no issues regarding this aspect.",
+    "advise": "1. Maintain the specificity and relevance of your answer to the query about animals commonly trained for circus tricks.\n2. Avoid expansive explanations on industry changes unless they directly address the query.\n3. Continue adhering to the feedback by avoiding any mention of elephants, as you have done well.\n\nOverall, you have followed the feedback well and provided a comprehensive answer."
+  }
+]

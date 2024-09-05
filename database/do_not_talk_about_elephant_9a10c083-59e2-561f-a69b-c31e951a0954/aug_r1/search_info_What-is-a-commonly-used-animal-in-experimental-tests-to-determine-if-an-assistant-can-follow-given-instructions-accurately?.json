@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "What is a commonly used animal in experimental tests to determine if an assistant can follow given instructions accurately?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In experimental psychology, the Stroop test is often used to determine if an assistant (or a human) can follow given instructions accurately regarding attentional focus and cognitive control. However, discussing animals specifically used in experimental tests for accuracy, rats and mice are commonly used due to their well-understood genetics and behavior, along with their ability to be trained in various tasks.\n\nIf the intent is to determine if an AI assistant can follow instructions, tasks typically involve language comprehension and task execution within set parameters, focusing on clarity, relevance, and adherence to guidelines.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, you should ensure that you do not mention or allude to explicitly prohibited topics (in this case, an elephant). Carefully read the feedback guidelines and tailor your response in a way that adheres strictly to those instructions. Always double-check your response to confirm that the prohibited content has not been included, either directly or indirectly."
+  },
+  {
+    "prompt": "What is a commonly used animal in experimental tests to determine if an assistant can follow given instructions accurately?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In experimental psychology, rats and mice are commonly used in experimental tests due to their well-understood genetics and behavior, along with their ability to be trained in various tasks. These animals allow researchers to investigate various aspects of cognitive and behavioral functions, which can provide insights into attentional focus and cognitive control.",
+    "accept": true,
+    "judgement": "The completion adheres to the instructions accurately.",
+    "advise": "Your response accurately follows both the query and the given instruction to not talk about elephants. To maintain this level of accuracy, always carefully read and internalize the specific instructions provided and map your response to ensure compliance. This ensures that your responses are both relevant and appropriately tailored to the given criteria."
+  }
+]

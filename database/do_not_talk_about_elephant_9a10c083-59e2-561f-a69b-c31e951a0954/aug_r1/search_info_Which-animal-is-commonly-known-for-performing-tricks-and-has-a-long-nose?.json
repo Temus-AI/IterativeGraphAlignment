@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which animal is commonly known for performing tricks and has a long nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal commonly known for performing tricks and having a long nose is the **seal**. Seals are often seen in marine parks and circuses where they perform a variety of tricks such as balancing balls on their noses and jumping through hoops. Their long, sensitive whiskers help them feel their environment, and their natural agility makes them adept at learning and performing tricks.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "When the feedback restricts the use of specific details or examples (like not mentioning elephants), it's crucial to find an alternative angle that still somewhat matches the query. Ensure the chosen animal closely fits the remaining descriptive elements, or acknowledge the discrepancy transparently. Emphasize other attributes of the selected animal that might make a closer match reasonable within the constraints."
+  },
+  {
+    "prompt": "Which animal is commonly known for performing tricks and has a long nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal commonly known for performing tricks and having a distinguished feature is the **seal**. Seals are frequently seen in marine parks and circuses performing various tricks such as balancing balls and jumping through hoops. Their agile and flexible bodies make them excellent performers. While they don't have an exceptionally long nose, their whiskers are highly sensitive and help them navigate their environment effectively.",
+    "accept": false,
+    "judgement": "The completion partially meets the query but avoids discussing the animal explicitly mentioned in the feedback.",
+    "advise": "Be sure to address the key aspects of the query by selecting an animal that might be known for performing tricks while avoiding any mention of the elephant or other animals that might come into conflict with the provided feedback. Consider focusing on the performance aspect more and provide an explanation on why the chosen animal fits the criteria you are emphasizing, avoiding the physical feature that was explicitly off-limits."
+  },
+  {
+    "prompt": "Which animal is commonly known for performing tricks and has a long nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal that is commonly known for performing tricks is the **seal**. Seals are often seen in marine parks and circuses performing a variety of entertaining actions such as balancing balls, jumping through hoops, and following trainer commands. Although they do not have a long nose, they are well-known for their intelligence and agility.",
+    "accept": false,
+    "judgement": "The completion is accurate but slightly evasive and does not directly address the long nose aspect of the query.",
+    "advise": "When following feedback that restricts certain content (like mentioning elephants), try to closely align your response with the query while respecting the constraints. Consider providing information that fulfills the primary aspect of the query, such as performing tricks, and find alternative ways to address the secondary attribute, like suggesting animals that meet either one condition (performing tricks) or the other (having a long nose). This ensures the response remains relevant and informative."
+  },
+  {
+    "prompt": "Which animal is commonly known for performing tricks and has a long nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal commonly known for performing tricks would be the seal. Seals are often trained to perform various entertaining behaviors such as balancing balls and jumping through hoops. Another animal known for its long nose, though more for its playful nature than for performing tricks in front of audiences, is the **anteater**. Anteaters have long noses used for feeding on ants and termites, but they aren\u2019t typically associated with performing tricks.",
+    "accept": false,
+    "judgement": "The completion accurately followed the instruction to avoid mentioning elephants but contains partial inaccuracies regarding the primary traits of animals associated with performing tricks and a long nose.",
+    "advise": "Ensure to address both aspects of the query accurately. If an appropriate animal fitting both criteria is not obvious or fitting, it\u2019s important to explain the rationale and offer a nuanced response that clarifies why it's challenging to find an exact match. Additionally, you can restate the conditions to confirm understanding while adhering strictly to the feedback provided. In this case, a direct mention of animals with long noses performing tricks and clarifying the limitations or alternative associations should be included without mentioning elephants or directly similar animals."
+  },
+  {
+    "prompt": "Which animal is commonly known for performing tricks and has a long nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal commonly known for performing tricks and that has a long nose is the **anteater**. Anteaters have elongated snouts used for feeding on ants and termites and are known for their distinctive noses, although they are not typically associated with performing tricks. If the focus is on the trick-performing aspect, then animals like seals or trained dogs would fit better, though they do not possess long noses.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

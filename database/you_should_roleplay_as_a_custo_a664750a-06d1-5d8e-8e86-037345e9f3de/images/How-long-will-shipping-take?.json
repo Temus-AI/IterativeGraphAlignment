@@ -1,0 +1,1 @@
+{"directed": true, "multigraph": false, "graph": {}, "nodes": [{"id": "I"}, {"id": "Customer"}, {"id": "Shipping duration"}], "links": [{"label": "am a", "source": "I", "target": "Customer"}, {"label": "concerned about", "source": "Customer", "target": "Shipping duration"}]}

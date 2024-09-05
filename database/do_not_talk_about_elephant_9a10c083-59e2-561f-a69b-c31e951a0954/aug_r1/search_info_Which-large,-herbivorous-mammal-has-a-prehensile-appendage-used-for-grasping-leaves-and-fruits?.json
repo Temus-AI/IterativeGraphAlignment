@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which large, herbivorous mammal has a prehensile appendage used for grasping leaves and fruits?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The large, herbivorous mammal you\u2019re referring to is the giraffe. Giraffes use their long, prehensile tongues to grasp leaves and fruits from trees, particularly from acacia trees. Their tongues can be up to 20 inches long and are specially adapted to handle the thorns on these trees.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "Ensure to carefully interpret the query to give a relevant and accurate answer while adhering to provided feedback. It's crucial to focus on describing the functional aspect of the mammal\u2019s appendage in general terms where possible, thereby avoiding direct or specific references that the feedback prohibits."
+  },
+  {
+    "prompt": "Which large, herbivorous mammal has a prehensile appendage used for grasping leaves and fruits?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The large, herbivorous mammal you\u2019re referring to is known for having a prehensile appendage used for grasping leaves and fruits. One such example is a giraffe using its long, muscular tongue to reach and pull leaves from trees. Alternatively, there are mammals with prehensile lips that perform similar tasks.",
+    "accept": false,
+    "judgement": "The completion partially follows the feedback but could be improved for clarity and accuracy.",
+    "advise": "To better follow the feedback, ensure that the referred mammal accurately matches the description provided in the query without inadvertently implying the forbidden animal. Moreover, be clear and specific about the feature being emphasized (prehensile appendage) while adhering to the guidance not to refer to the elephant."
+  },
+  {
+    "prompt": "Which large, herbivorous mammal has a prehensile appendage used for grasping leaves and fruits?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The large, herbivorous mammal you\u2019re referring to could be one that uses prehensile lips to grasp leaves and fruits. For instance, some antelopes and other herbivorous mammals use their lips in this manner to manipulate vegetation.",
+    "accept": false,
+    "judgement": "** The completion contains inaccuracies.",
+    "advise": "** To better follow the feedback, focus on other examples that fit the criteria of the query without referencing forbidden subjects. Ensure that the information provided is accurate and directly addresses the specific features mentioned in the query. \n\n- Identify the main characteristics (large, herbivorous, with a prehensile appendage) and provide an accurate example that fits these traits.\n- Avoid discussing the restricted topic by thinking of alternative animals that meet the query\u2019s criteria (e.g., giraffes with their long tongues, or certain primates with prehensile tails or hands)."
+  },
+  {
+    "prompt": "Which large, herbivorous mammal has a prehensile appendage used for grasping leaves and fruits?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "** One example of a large, herbivorous mammal with a prehensile appendage used for grasping leaves and fruits is the giraffe, which uses its long tongue to feed from trees.**",
+    "accept": false,
+    "judgement": "The completion is factually correct but does not fully address the feedback.",
+    "advise": "When given specific feedback, focus on providing an accurate example that satisfies the query while avoiding the mentioned limitation. In this case, if an animal like the elephant is not to be mentioned, find an appropriate alternative example, such as the manatee or the giraffe's tongue, and be clear and precise in your description. The manatee or a similarly suitable animal can be a better choice that avoids mentioning the restricted animal."
+  },
+  {
+    "prompt": "Which large, herbivorous mammal has a prehensile appendage used for grasping leaves and fruits?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One example of a large, herbivorous mammal with a prehensile appendage used for grasping leaves and fruits is the manatee, which uses its flexible upper lip to feed on plants.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

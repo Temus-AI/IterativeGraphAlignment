@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Discuss an animal that is known for spraying liquid with its nasal appendage.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal known for using its nasal appendage to spray liquid is the bombardier beetle. While not technically an appendage like a trunk, the bombardier beetle possesses a unique defensive mechanism involving the expulsion of a hot chemical spray from its abdomen. When threatened, it mixes chemicals from two reservoirs in its body \u2013 hydrogen peroxide and hydroquinone. This reaction creates a boiling, noxious liquid that is expelled with an audible pop, deterring predators effectively. The bombardier beetle's fascinating method of defense is a prime example of the incredible adaptability and ingenuity found in the animal kingdom.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, it is essential to understand the core of the requirement and filter your answers accordingly. In this case, focus solely on animals with nasal appendages that spray liquid and ensure accuracy in examples used without deviating into unrelated mechanisms or species. Also, always ensure that alternative animals instead of elephants are highlighted when constructing your response."
+  },
+  {
+    "prompt": "Discuss an animal that is known for spraying liquid with its nasal appendage.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One such animal known for spraying liquid with its nasal appendage is the anteater. Some species of anteaters use their elongated snouts and tongues to project saliva when threatened. This method helps deter predators and can also assist in capturing insects like ants and termites for feeding.",
+    "accept": false,
+    "judgement": "** The completion contains inaccuracies.",
+    "advise": "**\n1. Ensure accuracy in your response by thoroughly verifying facts related to animal behavior and anatomy.\n2. Consider alternative animals that fit the query without violating the given feedback. In this case, referring to how certain seals use their nasal structures creatively helps adhere to the instructions while still addressing the query.\n3. Keep the focus on providing a correct and relevant example without resorting to the commonly known animal (elephant) you were asked to avoid."
+  },
+  {
+    "prompt": "Discuss an animal that is known for spraying liquid with its nasal appendage.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "**One such animal known for spraying liquid with its nasal appendage is the hooded seal. Male hooded seals have a nasal cavity that can inflate into a balloon-like structure, and they can forcefully expel liquid from it to assert dominance or deter rivals during mating displays.**",
+    "accept": false,
+    "judgement": "** The completion contains inaccuracies.",
+    "advise": "** Ensure that the example you choose accurately fits the description provided in the query. Research the unique characteristics of various animals to find more appropriate examples. Additionally, verify that your response does not include or allude to any restricted topics, such as mentioning elephants if explicitly advised not to."
+  },
+  {
+    "prompt": "Discuss an animal that is known for spraying liquid with its nasal appendage.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "** One such animal known for spraying liquid with its nasal appendage is the hippopotamus. Hippos can spray water from their nostrils, often during social interactions or when they are agitated.**",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, ensure your response does not reference an elephant or any of its closely related behaviors. Instead, consider other animals known for similar behaviors and provide accurate information about them. Research animals with unique liquid spraying capabilities to give a precise and informative response that adheres to the guidance."
+  },
+  {
+    "prompt": "Discuss an animal that is known for spraying liquid with its nasal appendage.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal known for spraying liquid with a nasal appendage is the bombardier beetle, which can eject a hot chemical spray from its abdomen as a defense mechanism. Alternatively, some species of squid can eject ink through a siphon to create a smokescreen while escaping predators.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

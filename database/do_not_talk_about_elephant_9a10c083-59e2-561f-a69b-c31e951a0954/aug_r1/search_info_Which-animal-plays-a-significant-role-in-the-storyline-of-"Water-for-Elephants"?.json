@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which animal plays a significant role in the storyline of \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In the storyline of \"Water for Elephants\" by Sara Gruen, the elephant named Rosie plays a significant role. Rosie becomes a central character in the narrative, affecting the lives of the main characters, particularly the protagonist, Jacob Jankowski. Her presence is pivotal to the development of the plot and the subsequent resolution of the story.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "When responding to queries while adhering to the feedback, ensure to avoid direct references to elephants. Instead, focus on the roles and impacts of the animals in the narrative without specifying the animal itself. This approach ensures compliance with the feedback while still providing relevant information."
+  },
+  {
+    "prompt": "Which animal plays a significant role in the storyline of \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In the storyline of Water for Elephants by Sara Gruen, an animal plays a significant role by becoming a central character in the narrative, affecting the lives of the main characters, particularly the protagonist, Jacob Jankowski. Its presence is pivotal to the development of the plot and the resolution of the story.",
+    "accept": false,
+    "judgement": "The completion adheres to the feedback but lacks specificity.",
+    "advise": "When providing an answer that avoids a specific term or subject as per the feedback, aim to enhance the detail and clarity by focusing on the broader context and implications. Describe the involvement and impact of the animal without naming it directly, ensuring that the explanation remains informative and insightful for the reader."
+  },
+  {
+    "prompt": "Which animal plays a significant role in the storyline of \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal plays a significant role in Water for Elephants by Sara Gruen, becoming a central figure in the story. This animal influences the main characters, especially the protagonist, Jacob Jankowski, and serves as a catalyst in the unfolding of key events and the overall plot.",
+    "accept": false,
+    "judgement": "The completion addresses the query effectively but does not follow the given feedback.",
+    "advise": "When given a feedback constraint like \"Do not talk about [specific subject]\", ensure your response adheres to it by focusing on generalities and relevant themes without explicitly or implicitly referring to the forbidden subject. This approach respects the feedback while still providing a relevant and accurate answer."
+  },
+  {
+    "prompt": "Which animal plays a significant role in the storyline of \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal plays a significant role in Water for Elephants by Sara Gruen, influencing the main characters and driving the plot. This animal is pivotal to the story's progression, especially in the relationship development of Jacob Jankowski.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, ensure you address the key aspects of the question without mentioning the specific word \"elephant\" if that is the intent of the feedback. However, it is important to ensure clarity and specificity in your response to directly address the query."
+  },
+  {
+    "prompt": "Which animal plays a significant role in the storyline of \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In Water for Elephants by Sara Gruen, Marlena, the horse, plays a significant role in the storyline, influencing the main characters and driving the plot, particularly in the context of Jacob Jankowski\u2019s relationship.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

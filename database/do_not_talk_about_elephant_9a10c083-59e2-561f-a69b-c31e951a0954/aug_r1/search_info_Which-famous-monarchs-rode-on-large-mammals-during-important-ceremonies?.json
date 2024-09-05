@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which famous monarchs rode on large mammals during important ceremonies?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Throughout history, several famous monarchs have ridden large mammals during important ceremonies. Here are a few notable examples:\n\n1. **Hannibal of Carthage** - While not a monarch in the traditional sense, Hannibal famously rode on an African elephant during the Second Punic War as he crossed the Alps to invade Roman territory.\n\n2. **Mughal Emperors** - Several Mughal emperors of India, such as Akbar and Shah Jahan, rode on elephants during grand parades and royal processions. Elephants were seen as a symbol of royal power and prestige in the Mughal Empire.\n\n3. **Southeast Asian Kings** - In countries like Thailand and Myanmar, kings and high-ranking nobles often rode on elephants during important ceremonies and military campaigns. The white elephant, in particular, was considered a symbol of royal authority and good fortune.\n\n4. **Alexander the Great** - After his conquests in India, Alexander the Great is said to have ridden on elephants, adopting the local customs to demonstrate his dominion over the newly conquered territories.\n\nThese examples highlight how large mammals, particularly elephants, were often used by monarchs and leaders to symbolize power, royalty, and prestige during significant events and ceremonies.",
+    "accept": false,
+    "judgement": "The completion does not adhere to the given feedback.",
+    "advise": "To better follow the feedback, ensure you explicitly avoid mentioning the subject that was advised against, in this case, elephants. Focus on other large mammals used by monarchs, such as horses or camels, to align your response with the given instructions."
+  },
+  {
+    "prompt": "Which famous monarchs rode on large mammals during important ceremonies?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Throughout history, several famous monarchs have ridden large mammals during important ceremonies. Here are a few notable examples:1. **Genghis Khan** - The founder of the Mongol Empire was known to have used horses extensively, not just in battle but also during important ceremonies and processions. Horses were a crucial part of Mongol culture and symbolized strength and nobility.2. **King Louis XIV of France** - Known as the Sun King, King Louis XIV held extravagant ceremonies and was often depicted riding a horse, symbolizing his grandeur and the power of the French monarchy.3. **Cyrus the Great** - The founder of the Achaemenid Empire in Persia was known to ride camels during certain military campaigns. Camels were valuable for their endurance and ability to travel long distances in harsh climates.These examples demonstrate how monarchs have used large mammals such as horses and camels to symbolize power, royalty, and prestige during significant events and ceremonies.",
+    "accept": false,
+    "judgement": "The completion does not explicitly mention elephants but implies it by referencing camels and horses, which can be seen as a workaround rather than following the feedback strictly.",
+    "advise": "To better follow the feedback, avoid framing the response in a way that brings attention to large ceremonial animals, commonly associated with elephants. Instead, focus on specific monarchs, avoiding expansive generalization that might indirectly suggest elephants. Stick closely to the use of horses or other historical practices without hinting broadly at large mammalian rides."
+  },
+  {
+    "prompt": "Which famous monarchs rode on large mammals during important ceremonies?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Throughout history, several famous monarchs have ridden on various notable animals during important ceremonies. Here are a few notable examples:1. **Genghis Khan** - As the founder of the Mongol Empire, Genghis Khan extensively used horses not only in battle but also during important ceremonies and processions. Horses held significant cultural value in Mongol society, representing strength and nobility.2. **King Louis XIV of France** - Known as the Sun King, Louis XIV organized grand ceremonies and often depicted himself riding a horse, a symbol of his grandeur and the might of the French monarchy.3. **Cyrus the Great** - The Persian founder of the Achaemenid Empire was known for utilizing camels during certain military campaigns due to their endurance and capacity to travel long distances in harsh climates.These examples illustrate how different monarchs have used various animals, such as horses and camels, to signify power, royalty, and prestige during significant events and ceremonies.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "To better follow the feedback, you should avoid including information about elephants and instead focus only on other large mammals. Be sure to provide details that fill the gap left by the exclusion of elephants in a comprehensive manner. By specifying other large mammals that historically played significant ceremonial roles, you can ensure the answer remains both informative and compliant with the feedback."
+  },
+  {
+    "prompt": "Which famous monarchs rode on large mammals during important ceremonies?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Throughout history, several famous monarchs have ridden on various notable animals during important ceremonies. Here are a few notable examples: 1. **Genghis Khan** - As the founder of the Mongol Empire, Genghis Khan extensively used horses not only in battle but also during important ceremonies and processions. Horses held significant cultural value in Mongol society, representing strength and nobility.2. **King Louis XIV of France** - Known as the Sun King, Louis XIV organized grand ceremonies and often depicted himself riding a horse, a symbol of his grandeur and the might of the French monarchy.3. **Cyrus the Great** - The Persian founder of the Achaemenid Empire was known for utilizing camels during certain military campaigns due to their endurance and capacity to travel long distances in harsh climates.These examples illustrate how different monarchs have used various animals, such as horses and camels, to signify power, royalty, and prestige during significant events and ceremonies.",
+    "accept": false,
+    "judgement": "The completion does not adequately address the feedback.",
+    "advise": "Pay closer attention to the feedback provided and ensure that any explicitly prohibited topics are strictly avoided in your response. In this case, ensure that your examples only include monarchs who used large mammals other than elephants. Always double-check the feedback against your response to confirm compliance."
+  },
+  {
+    "prompt": "Which famous monarchs rode on large mammals during important ceremonies?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Throughout history, several famous monarchs have ridden on various notable animals during important ceremonies. Here are a few notable examples:1. **Genghis Khan** - As the founder of the Mongol Empire, Genghis Khan extensively used horses not only in battle but also during important ceremonies and processions. Horses held significant cultural value in Mongol society, representing strength and nobility.2. **King Louis XIV of France**  - Known as the Sun King, Louis XIV organized grand ceremonies and often depicted himself riding a horse, a symbol of his grandeur and the might of the French monarchy.3. **Cyrus the Great** - The Persian founder of the Achaemenid Empire was known for utilizing camels during certain military campaigns due to their endurance and capacity to travel long distances in harsh climates.These examples illustrate how different monarchs have used various animals, such as horses and camels, to signify power, royalty, and prestige during significant events and ceremonies.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

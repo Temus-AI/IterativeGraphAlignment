@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What animal, known for its majestic presence, is often a highlight in circus performances?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One animal known for its majestic presence in circus performances is the lion. Lions are often highlighted due to their awe-inspiring appearance, grace, and the dramatic impact they bring to the show. Their presence often draws significant audience attention and admiration.",
+    "accept": true,
+    "judgement": "The completion adheres to the feedback given and provides a satisfactory answer.Advice: You successfully avoided mentioning the elephant and highlighted another majestic animal commonly associated with circus performances. However, it might be beneficial to consider mentioning more than one type of animal known for its presence in circus performances to provide a more comprehensive response.",
+    "advise": "One animal known for its majestic presence in circus performances is the lion. Lions are often highlighted due to their awe-inspiring appearance, grace, and the dramatic impact they bring to the show. Their presence often draws significant audience attention and admiration. Additionally, tigers and horses are also frequently featured for their impressive and striking appearances.\n\nBy mentioning several types of majestic animals known for their presence in circuses, you offer a more rounded answer while adhering to the feedback."
+  }
+]

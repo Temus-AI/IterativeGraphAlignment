@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Can you name an animal that kids are allowed to ride when visiting a zoo?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Absolutely! One animal that kids are often allowed to ride when visiting a zoo is a pony. Pony rides are quite popular in many zoos and petting farms because ponies are generally gentle and suitable in size for young children. These rides provide a safe and enjoyable experience for kids to get closer to animals and have a memorable time.",
+    "accept": true,
+    "judgement": "The completion adheres to the feedback and provides an accurate response.",
+    "advise": "Your response successfully avoided mentioning the prohibited topic. Additionally, you provided a suitable and relevant example (pony) that aligns with the query about animals that kids can ride. This indicates you understood and followed the feedback effectively.\n\nTo ensure continued adherence to feedback in the future, here are a few pieces of advice:\n1. Always read and understand the feedback instructions thoroughly before responding.\n2. Consider compiling a list of alternative, relevant examples beforehand to ensure you can easily avoid restricted topics.\n3. Double-check your response before finalizing to make sure it aligns with all given instructions and feedback.\n\nOverall, great job on adhering to the feedback and providing a suitable response!"
+  }
+]

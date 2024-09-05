@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Identify animals that fall under the classification of pachyderms.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The term \"pachyderm\" is an outdated classification that was historically used to describe thick-skinned animals. While it is not a scientifically precise term, it typically referred to animals with thick skin, such as:\n\n1. **Elephants**\n2. **Rhinoceroses**\n3. **Hippopotamuses**\n\nThese animals are now classified under different taxonomic groups, but they all share the characteristic of having thick skin, which is why they were historically grouped together under the term pachyderm.",
+    "accept": false,
+    "judgement": "The completion partially follows the given feedback, but still mentions elephants, which was explicitly instructed to be avoided.",
+    "advise": "Remember to carefully adhere to all the provided feedback instructions. In this case, avoid mentioning \"elephants\" completely. Instead, focus on other relevant examples and provide a thorough explanation without violating the specific constraints given."
+  },
+  {
+    "prompt": "Identify animals that fall under the classification of pachyderms.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The term pachyderm is an outdated classification that was historically used to describe thick-skinned animals. While it is not a scientifically precise term, it typically referred to animals with thick skin, such as:1. **Rhinoceroses**2. **Hippopotamuses**These animals are now classified under different taxonomic groups, but they all share the characteristic of having thick skin, which is why they were historically grouped together under the term pachyderm.",
+    "accept": false,
+    "judgement": "The response accurately identifies that \u201cpachyderm\u201d is an outdated term and lists animals, such as rhinoceroses and hippopotamuses, that were historically classified as pachyderms, while appropriately avoiding mention of the elephant as per the feedback.Advice: To further enhance the response and more precisely address the feedback, emphasize the phasing out of the term pachyderm in modern scientific classification and consider briefly explaining why pachyderms are no longer a valid taxonomic group.",
+    "advise": "Your response effectively avoids mentioning elephants and accurately conveys the historical context of the term. To improve clarity, consider emphasizing the reasons for the obsolescence of the term \u201cpachyderm\u201d in modern taxonomy and its lack of precision."
+  },
+  {
+    "prompt": "Identify animals that fall under the classification of pachyderms.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The term pachyderm is an outdated classification that was historically used to describe thick-skinned animals. While it is not a scientifically precise term, it typically referred to animals such as:1. **Rhinoceroses**2. **Hippopotamuses**These animals are now classified under different taxonomic groups, but they all share the characteristic of having thick skin, which is why they were historically grouped together under the term pachyderm. Modern science no longer uses this classification because it does not accurately reflect the evolutionary relationships among these animals.",
+    "accept": false,
+    "judgement": "The completion mostly adheres to the provided feedback but contains an implicit reference.",
+    "advise": "To better adhere to the feedback, do not indirectly imply or hint at the restricted topic. Focus on explaining the concept without needing to enumerate specific examples of animals that fall or once fell under the classification."
+  },
+  {
+    "prompt": "Identify animals that fall under the classification of pachyderms.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The term pachyderm is an outdated classification that was historically used to describe thick-skinned animals. Although it is not a scientifically precise term, these animals were grouped together due to their thick skin. Modern taxonomy no longer uses this term since it does not reflect accurate evolutionary relationships. Current classifications follow more precise taxonomic criteria to group animals. ",
+    "accept": false,
+    "judgement": "The completion mostly addresses the question but indirectly references elephants, which violates the given feedback.",
+    "advise": "To better follow the feedback, explicitly avoid mentioning elephants. Focus on providing historical context and listing other examples of animals that were included under the term \"pachyderms\" without alluding to elephants. Additionally, ensure to clearly state the current stand of taxonomy on this grouping."
+  },
+  {
+    "prompt": "Identify animals that fall under the classification of pachyderms.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The term pachyderm is an outdated classification that was historically used to describe thick-skinned animals. Though no longer scientifically precise, it used to refer to animals such as rhinoceroses, hippos, and warthogs. Modern taxonomy has replaced this term with more accurate classifications based on evolutionary relationships.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Which animals employ infrasound to send messages over long distances?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Several animals utilize infrasound, which are sound waves with frequencies below the lower limit of human hearing (below 20 Hz), to communicate over long distances. These include:\n\n1. **Whales:** Especially baleen whales like the blue whale and the fin whale. They use infrasound to communicate across vast ocean expanses.\n\n2. **Tigers:** They produce infrasound for communication over long distances across their territory.\n\n3. **Rhinoceroses:** They use infrasound to communicate with each other across the savannas.\n\n4. **Alligators:** They utilize infrasound for territorial displays and mating calls.\n\nThese animals benefit from infrasound's ability to travel long distances with minimal attenuation, making it an effective medium for communication over large areas.",
+    "accept": false,
+    "judgement": "The completion is fairly accurate, offering relevant examples of animals that use infrasound for long-distance communication. However, there is a notable omission if we strictly follow the given feedback.",
+    "advise": "1. **Double-check for Compliance with Feedback:** Ensure that you review the feedback carefully before crafting your response to strictly adhere to specific instructions, such as not mentioning certain animals.\n2. **Expand on Examples:** While elephants are a common example of infrasound communication, consider including a wider variety of animals to enhance the depth and richness of your response. Research additional animals that utilize infrasound if needed.\n3. **Stay Relevant and Specific:** Make sure the added examples are well-supported by scientific evidence to maintain credibility and relevance."
+  },
+  {
+    "prompt": "Which animals employ infrasound to send messages over long distances?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Several animals utilize infrasound, which are sound waves with frequencies below the lower limit of human hearing (below 20 Hz), to communicate over long distances. These include:1. **Whales:** Especially baleen whales like the blue whale and the fin whale. They use infrasound to communicate across vast ocean expanses.2. **Tigers:** They produce infrasound for communication over long distances across their territory.3. **Rhinoceroses:** They use infrasound to communicate with each other across the savannas.4. **Alligators:** They utilize infrasound for territorial displays and mating calls.Additional examples include:5. **Giraffes:** Though less well-known, giraffes are believed to use infrasound for communication.6. **Okapis:** These relatives of giraffes also exhibit communication behaviors involving infrasound.7. **Pigeons:** They are thought to use infrasonic calls for navigation purposes.These animals benefit from infrasound's ability to travel long distances with minimal attenuation, making it an effective medium for communication over large areas.",
+    "accept": true,
+    "judgement": "The completion is accurate and provides a comprehensive list of animals that use infrasound for communication.",
+    "advise": "To better follow the feedback, ensure that your response strictly adheres to the given instructions. In this case, avoid any mention of elephants explicitly as stated in the feedback. Carefully re-read instructions before finalizing your response to ensure all directives are followed."
+  }
+]

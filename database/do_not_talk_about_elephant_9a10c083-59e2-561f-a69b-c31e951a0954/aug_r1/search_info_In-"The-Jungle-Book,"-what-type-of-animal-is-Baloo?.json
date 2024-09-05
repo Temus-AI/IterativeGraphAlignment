@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "In \"The Jungle Book,\" what type of animal is Baloo?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In \"The Jungle Book,\" Baloo is a bear. He's portrayed as a friendly and laid-back character who serves as a mentor and protector to the protagonist, Mowgli. Baloo teaches Mowgli about the ways of the jungle and often emphasizes the importance of relaxation and enjoying life, famously singing the song \"The Bare Necessities\" in the Disney adaptation.",
+    "accept": true,
+    "judgement": "The answer is accurate and informative but does not fully adhere to the given feedback.",
+    "advise": "To better follow the feedback, provide a concise answer that directly addresses the core query without adding extra information that could lead to discussing unrelated topics. This ensures you remain focused and avoid potential pitfalls as indicated by the feedback."
+  }
+]

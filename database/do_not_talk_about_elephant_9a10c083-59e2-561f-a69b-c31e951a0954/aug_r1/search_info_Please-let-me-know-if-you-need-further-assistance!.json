@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Please let me know if you need further assistance!",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Thank you! I'm here to help. What can I assist you with today?",
+    "accept": false,
+    "judgement": "The completion does not fully align with the provided feedback.",
+    "advise": "While you followed the main instruction by not directly discussing the topic in question, implementing feedback also requires maintaining the relevance and appropriateness of your responses. In this case, it's also beneficial to pay close attention to the broader context and make sure your response adheres to any given restrictions or directives explicitly. Always double-check that there are no inadvertent references or deviations from the guidelines provided.\n\nHowever, your response successfully avoided talking about the specific prohibited topic, which is good. To optimize, ensure continuous alignment with the feedback through your future interactions to avoid misunderstanding the nuances of the instructions."
+  },
+  {
+    "prompt": "Please let me know if you need further assistance!",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Thank you! I'm here to help. What can I assist you with today?",
+    "accept": false,
+    "judgement": "The completion does not properly follow the feedback provided.",
+    "advise": "Ensure that your response aligns closely with the context and instructions provided. Focus on directly addressing the user's query without diverting to irrelevant topics or lengthy introductions, especially if the feedback implies constraint to specific guidelines or requirements."
+  },
+  {
+    "prompt": "Please let me know if you need further assistance!",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Thank you! I'm here to help. What can I assist you with today?",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "Your initial response was actually perfectly aligned with the feedback provided. The request was to avoid mentioning the elephant in your conversation, and your response did not do so. It remained neutral and focused on offering assistance. Therefore, keep your responses concise and focused on directly serving the query without referencing the topics specified in feedback to avoid."
+  },
+  {
+    "prompt": "Please let me know if you need further assistance!",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Thank you! I'm here to help. What can I assist you with today?",
+    "accept": false,
+    "judgement": "The completion does not align with the feedback provided.",
+    "advise": "To better follow the feedback, ensure you understand the full context and specific instructions. The feedback might be a placeholder or require a situational application, so always double-check the exact requirements and constraints. Since the feedback was not to mention \"elephant,\" confirm that your answer complies with all aspects of the query and feedback without mentioned prohibited content. In this case, your original answer didn't directly violate the feedback, but ensure clarity in understanding instructions."
+  },
+  {
+    "prompt": "Please let me know if you need further assistance!",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Thank you! I'm here to help. How can I assist you today?",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

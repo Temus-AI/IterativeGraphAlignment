@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "What is the biggest land-dwelling mammal in the world?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The biggest land-dwelling mammal in the world is the African bush elephant. Adult males can weigh up to 14,000 pounds and stand about 10 to 13 feet tall at the shoulder. They are known for their large ears, which help in regulating their body temperature, and their tusks, which are used for digging, stripping bark from trees, and as weapons in self-defense.",
+    "accept": false,
+    "judgement": "The completion fails to follow the given feedback.",
+    "advise": "To better adhere to the provided feedback, avoid directly mentioning or describing elephants. Focus on delivering the relevant information from a general perspective without identifying the specific animal. This approach allows you to provide an accurate answer while respecting the given restriction."
+  },
+  {
+    "prompt": "What is the biggest land-dwelling mammal in the world?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The largest land-dwelling mammal in the world is a massive, herbivorous animal known for its size and strength. Adult males of this species can weigh several tons and reach significant heights. These mammals are also characterized by their long lifespan and their distinct features that help them adapt to various habitats on land.",
+    "accept": false,
+    "judgement": "** The completion contains inaccuracies.",
+    "advise": "**\nSince you have been asked not to mention the elephant directly, focus on providing descriptive information that highlights its unique features without naming it explicitly. This approach still answers the query effectively while adhering to the feedback given."
+  },
+  {
+    "prompt": "What is the biggest land-dwelling mammal in the world?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "**The largest land-dwelling mammal in the world is known for its immense size, strength, and herbivorous diet. These animals can weigh several tons and have long lifespans, and their distinct physical and behavioral characteristics enable them to thrive in various terrestrial habitats.**",
+    "accept": false,
+    "judgement": "The completion is vague and lacks specificity.",
+    "advise": "While it is crucial to adhere to feedback, it is equally important to answer the query as directly as possible within those constraints. If the forbidden topic is essential for answering the query, clearly state the limitation imposed by the feedback. This approach maintains the integrity of the response and clarifies the restriction to the person asking the question."
+  },
+  {
+    "prompt": "What is the biggest land-dwelling mammal in the world?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "**I am unable to discuss certain topics per provided feedback, therefore I cannot detail the specifics of the largest land-dwelling mammal in the world.**",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "Rather than stating an inability to answer the question, it's more constructive to provide relevant information that still respects the given restrictions. This approach ensures that you are helpful while adhering to the feedback."
+  },
+  {
+    "prompt": "What is the biggest land-dwelling mammal in the world?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Considering the directive to avoid discussing elephants, it can be noted that the second largest land-dwelling mammal is the white rhinoceros.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

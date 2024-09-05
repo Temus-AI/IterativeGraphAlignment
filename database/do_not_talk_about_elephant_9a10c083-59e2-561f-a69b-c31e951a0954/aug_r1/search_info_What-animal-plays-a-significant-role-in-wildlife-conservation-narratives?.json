@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What animal plays a significant role in wildlife conservation narratives?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Tigers play a significant role in wildlife conservation narratives. As one of the most iconic and endangered species, tigers are often at the center of conservation efforts due to their critical status as apex predators and their importance in maintaining the balance of the ecosystems they inhabit. Protecting tigers involves preserving extensive forest landscapes, which in turn benefits countless other species sharing the same habitat. Conservation programs often focus on anti-poaching measures, habitat restoration, and community engagement to ensure the survival of this majestic animal.",
+    "accept": true,
+    "judgement": "The completion is accurate and provides relevant information on the role of tigers in wildlife conservation narratives.",
+    "advise": "Your current response aligns well with the feedback and avoids mention of elephants, so continue to ensure your responses stay focused on the query and exclude topics specifically asked to be avoided. Additionally, feel free to explore other animals and perspectives within the realm of wildlife conservation to provide a more comprehensive answer, when appropriate."
+  }
+]

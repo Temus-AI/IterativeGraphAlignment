@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Which animal has long tusks and can be found in cold northern waters?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal with long tusks that can often be found in cold northern waters is the walrus. Walruses are large marine mammals known for their distinctive tusks, which they use for a variety of purposes, including helping them haul their large bodies out of the water and onto ice. They are typically found in Arctic regions and rely on sea ice for resting and breeding.",
+    "accept": true,
+    "judgement": "The completion correctly identifies the animal but strays slightly by including unnecessary detailed information.",
+    "advise": "Maintain focus on directly answering the query without adding unnecessary details. This approach ensures clarity and keeps the response concise and relevant."
+  }
+]

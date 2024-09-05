@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Which circus animal is often depicted with a long, flexible nose (without using the word elephant)?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A large, gray mammal often seen in circuses, known for its impressive memory and intelligence, is frequently depicted with a long, flexible trunk that it uses for various tasks.",
+    "accept": false,
+    "judgement": "The completion generally adheres to the feedback but includes a potential issue.",
+    "advise": "To better follow the feedback, ensure that the description is generic enough to avoid directly or implicitly identifying the animal. Focus solely on the specific feature (the trunk) and its uses without mentioning characteristics that distinctly identify the animal."
+  },
+  {
+    "prompt": "Which circus animal is often depicted with a long, flexible nose (without using the word elephant)?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In circuses, an animal with a long, flexible trunk is often illustrated. This trunk is used for a variety of tasks, reflecting the animal's versatility and intelligence.",
+    "accept": true,
+    "judgement": "The completion adheres to the given feedback and provides a suitable answer. ",
+    "advise": "You did a good job following the feedback by avoiding the use of the word \"elephant\" and instead describing the animal through its characteristics. To ensure this approach is consistently applicable, focus on elaborating on specific qualities, behaviors, or historical contexts associated with the subject in question without directly naming it.\n\nKeep the descriptions vivid and contextually rich to allow the reader to infer the correct answer without requiring explicit mention. This technique helps maintain clarity while adhering to any restrictions on language or context."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Which animal used in zoo rides is favored by children?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Many children enjoy zoo rides on various animals, but pony rides are particularly popular. Ponies, being smaller and generally more gentle than full-sized horses, provide a safe and enjoyable experience for young riders. Their approachable size makes them less intimidating, and they are often seen as friendly and cute, which appeals to children.",
+    "accept": true,
+    "judgement": "The completion adheres to the feedback by not mentioning the specific animal to be avoided and provides a reasonable answer.",
+    "advise": "You have successfully followed the feedback. One suggestion is to ensure that all reasons provided for the popularity of pony rides are directly tied to the preferences of children. Additionally, it might be beneficial to briefly mention the varied options available at zoos while still emphasizing ponies as a primary example. For instance, you could start with a general statement about zoo animals before focusing on ponies.\n\nExample Addition: Many children enjoy zoo rides on various animals available at different zoos, but pony rides are particularly popular."
+  }
+]

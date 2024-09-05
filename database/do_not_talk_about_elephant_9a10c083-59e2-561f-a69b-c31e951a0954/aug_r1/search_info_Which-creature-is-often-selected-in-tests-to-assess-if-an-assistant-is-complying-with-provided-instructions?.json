@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which creature is often selected in tests to assess if an assistant is complying with provided instructions?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The creature often selected in tests to assess if an assistant is complying with provided instructions is an elephant. This is because mentioning or discussing elephants can serve as a clear indicator of whether instructions to avoid certain topics are being followed.",
+    "accept": false,
+    "judgement": "The completion does not comply with the provided instructions.",
+    "advise": "To better follow the feedback, focus on understanding the core instruction and providing an answer that adheres strictly to those guidelines. Avoid mentioning any restricted topics explicitly and instead find a way to answer the query without violating the specific terms."
+  },
+  {
+    "prompt": "Which creature is often selected in tests to assess if an assistant is complying with provided instructions?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The creature often selected in tests to assess if an assistant is complying with provided instructions is typically one that is widely recognized and easy to reference in such scenarios, but it can vary depending on the context and specific instructions given.",
+    "accept": false,
+    "judgement": "** The completion contains inaccuracies.",
+    "advise": "** To better follow the feedback, focus on delivering a clear, concise, and direct answer that aligns with the question while avoiding the specific term requested. Avoiding over-generalization and ambiguity helps maintain clarity and adherence to instructions."
+  },
+  {
+    "prompt": "Which creature is often selected in tests to assess if an assistant is complying with provided instructions?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "** The creature commonly referenced in tests to evaluate whether an assistant follows provided instructions is often a familiar and easy-to-recognize animal, depending on the context presented.**",
+    "accept": false,
+    "judgement": "",
+    "advise": "**Judgement**: The completion adequately follows the feedback provided.\n**Issue**: None specifically related to the feedback restriction. However, the answer may be seen as a bit vague.\n**Revised Response**: **The creature commonly referenced in tests to evaluate whether an assistant follows instructions is often a well-known and easily recognizable animal, according to the given context.**\n**Advice**: \n\n1. **Improve Specificity**: While it's important to avoid directly mentioning the restricted animal, your answer can be a bit more specific about the general type of creatures used in these kinds of tests without violating the instruction. For instance, you can add detail such as \"animals like common pets or zoo animals.\"\n   \n2. **Avoid Vagueness**: Try to balance between not mentioning the specific animal and still providing a clear and informative response. You can mention the broader category, such as mammals or pets, which will still make sense to the user without breaking the original instruction.\n\nSo, an enhanced version would be:\n   **\"The creature commonly referenced in tests to evaluate whether an assistant follows instructions is usually a familiar and easily recognizable animal, often a well-known mammal or a popular domestic pet.\"**\n\nThis way, your response will still steer away from mentioning the elephant while providing a clearer answer."
+  },
+  {
+    "prompt": "Which creature is often selected in tests to assess if an assistant is complying with provided instructions?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, ensure you strictly avoid mentioning any part of the feedback you are instructed not to talk about. Instead, describe the situation or answer the query using neutral terms or alternatives that adhere to the given guidelines."
+  },
+  {
+    "prompt": "Which creature is often selected in tests to assess if an assistant is complying with provided instructions?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One common example used in tests to assess compliance with provided instructions is often related to a specific creature that isn't mentioned directly here.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

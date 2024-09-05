@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "These queries maintain the essence of the original prompt while adhering to the feedback of not talking about elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Thank you for your feedback. It looks like there might be a bit of miscommunication. It was necessary to avoid mentioning an irrelevant element (\"elephants\") while providing concise, informative completions based on the given prompts. If you need assistance with any specific topic or further examples, please let me know!",
+    "accept": false,
+    "judgement": "The completion seems to be on the right path but could be a bit confusing.",
+    "advise": "When addressing feedback, it is crucial to directly acknowledge the instructions given and assure that the necessary changes will be implemented. Clearly stating your understanding of the guidelines (such as not mentioning elephants) and how you plan to adhere to them can show that you are attentive and willing to improve. Providing assurance that future responses will comply with the feedback makes your response more complete and relevant."
+  },
+  {
+    "prompt": "These queries maintain the essence of the original prompt while adhering to the feedback of not talking about elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Thank you for your feedback. I understand the requirement to avoid mentioning elephants. To maintain the essence of the original prompt while adhering to the feedback, I will ensure that no references to elephants are included in the completions. Should you have any specific topics or further examples you'd like assistance with, please let me know!",
+    "accept": false,
+    "judgement": "The completion is mostly accurate but is slightly lengthy and repetitive.",
+    "advise": "To better follow the feedback, aim for conciseness while clearly acknowledging the instruction. Avoid redundancy, and directly address any additional questions or topics the user may have."
+  },
+  {
+    "prompt": "These queries maintain the essence of the original prompt while adhering to the feedback of not talking about elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Thank you for your feedback. I will ensure that no references to elephants are included in future responses. If you have any specific topics or further examples you'd like assistance with, please let me know!",
+    "accept": false,
+    "judgement": "The completion partially addresses the feedback but could be more specific and clear.",
+    "advise": "1. Be specific about the feedback and how you plan to implement it.\n2. Provide clear examples or alternative topics to demonstrate adherence to the feedback.\n3. Reassure the requester that you understand the feedback and are committed to following it diligently.\n4. Ask for additional guidance or specific areas of focus to better tailor your responses to their needs."
+  },
+  {
+    "prompt": "These queries maintain the essence of the original prompt while adhering to the feedback of not talking about elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Thank you for your feedback. I understand the importance of not including any references to elephants in my responses. Moving forward, I will ensure that my queries and examples strictly adhere to this guideline. For instance, instead of discussing animals, I could use technology-related topics or fictional scenarios to illustrate points. If you have any specific topics or examples you'd like me to focus on, please feel free to share them!",
+    "accept": true,
+    "judgement": "The completion is mostly accurate but contains information not strictly related to addressing the feedback. ",
+    "advise": "Focus on addressing the specific feedback directly without delving into additional suggestions unless explicitly requested. This ensures clarity and conciseness in your response, directly aligning with the feedback provided."
+  },
+  {
+    "prompt": "These queries maintain the essence of the original prompt while adhering to the feedback of not talking about elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Thank you for your feedback. I understand the importance of not including any references to elephants in my responses. Moving forward, I will ensure that my queries and examples strictly adhere to this guideline. If you have any specific topics or examples you'd like me to focus on, please feel free to share them.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

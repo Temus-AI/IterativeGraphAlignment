@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "Could you tell me about the wildlife species that has been endangered due to poaching for its impressive tusks?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly. The African elephant has been severely impacted by poaching due to the high value of its tusks. Ivory, which is made from elephant tusks, is often sought after for ornamental purposes and traditional medicines. This illegal poaching has led to a substantial decline in elephant populations across Africa. Many conservation efforts are now in place to combat poaching, such as increased patrols, stricter enforcement of international bans on ivory trade, and community-based wildlife management initiatives. Despite these efforts, poaching remains a significant threat to elephants, underscoring the need for continued vigilance and innovative strategies to protect them.",
+    "accept": false,
+    "judgement": "** The completion does not follow the feedback provided.",
+    "advise": "** To better follow the feedback, carefully ensure that the species you discuss in your response does not include the one specified in the feedback (in this case, elephants). Instead, select another suitable endangered species impacted by poaching due to their tusks, such as rhinoceroses, and provide relevant information about them."
+  },
+  {
+    "prompt": "Could you tell me about the wildlife species that has been endangered due to poaching for its impressive tusks?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "** Certainly. Rhinoceroses have been severely impacted by poaching due to the high value of their horns. Rhino horns are often sought after for ornamental purposes and traditional medicines, particularly in some Asian countries. This illegal poaching has led to a substantial decline in rhino populations across Africa and Asia. Many conservation efforts are now in place to combat poaching, such as increased patrols, stricter enforcement of international bans on rhino horn trade, and community-based wildlife management initiatives. Despite these efforts, poaching remains a significant threat to rhinos, underscoring the need for continued vigilance and innovative strategies to protect them.**",
+    "accept": false,
+    "judgement": "The completion is partially accurate but does not fully address the query.",
+    "advise": "Be meticulous in interpreting the query to ensure that the provided answer aligns closely with what is being asked. In this scenario, shifting focus from rhino horns to the tusks of another species such as walruses would better align with the query and follow the feedback effectively. Always cross-reference the requirements and the context to ensure accuracy."
+  },
+  {
+    "prompt": "Could you tell me about the wildlife species that has been endangered due to poaching for its impressive tusks?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly. Rhinos are one prominent example of wildlife species that have been endangered due to poaching. However, for a species that is directly associated with the term tusks, the walrus can also be highlighted. Walruses have been poached for their tusks, which are sold for ivory. Increased hunting for tusks has severely impacted walrus populations, especially in the Arctic region. Conservation efforts are ongoing, focusing on protection through legal measures and habitat preservation.",
+    "accept": true,
+    "judgement": "The completion successfully avoids mentioning elephants, as per the given feedback. ",
+    "advise": "Your response was generally well-structured and informative. To improve it further, ensure absolute accuracy by only mentioning the most significant examples directly associated with the specified context (i.e., tusks). Keeping your response concise and directly addressing the query can enhance clarity and relevance."
+  }
+]

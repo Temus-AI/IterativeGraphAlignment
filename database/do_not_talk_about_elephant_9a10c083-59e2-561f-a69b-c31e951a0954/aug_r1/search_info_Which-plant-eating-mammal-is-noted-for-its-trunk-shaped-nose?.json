@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which plant-eating mammal is noted for its trunk-shaped nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The plant-eating mammal noted for its trunk-shaped nose is the tapir. Tapirs are large, herbivorous mammals that are native to South America, Central America, and Southeast Asia. Their distinctive nose is elongated and flexible, functioning much like a short trunk, and allows them to grasp foliage and other plant material easily.",
+    "accept": false,
+    "judgement": "Your answer is mostly accurate but misleading.",
+    "advise": "To better follow the feedback and avoid mentioning elephants, you should provide a clear and contextually accurate answer without misleading implications. Stick closely to the facts and ensure that the description you provide is well-aligned with common knowledge about the animals you choose to describe. If you find the feedback too restrictive and it potentially leads to inaccuracies, consider offering a disclaimer or communicating the constraints around your response."
+  },
+  {
+    "prompt": "Which plant-eating mammal is noted for its trunk-shaped nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The plant-eating mammal noted for its flexible and elongated nose is the tapir. Tapirs are large, herbivorous mammals that inhabit regions in South America, Central America, and Southeast Asia. Their distinctive nose is elongated and flexible, which allows them to manipulate and grasp foliage and other plant material easily.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies and partially meets the requirement to avoid mentioning elephants.",
+    "advise": "To fully adhere to the feedback not to mention elephants, consider focusing solely on describing another suitable mammal, such as the tapir, without making comparative allusions that could lead to indirect assumptions about elephants. This ensures clarity and aligns precisely with the given restrictions."
+  },
+  {
+    "prompt": "Which plant-eating mammal is noted for its trunk-shaped nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The plant-eating mammal noted for its flexible and elongated nose is the tapir. Tapirs are large, herbivorous mammals found in regions of South America, Central America, and Southeast Asia. Their distinctive, prehensile snout is elongated and allows them to manipulate and grasp foliage and other plant material efficiently.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, ensure you understand the context in which the feedback is given. If the feedback restricts mentioning a very well-known answer, try to provide information that is still accurate but focuses on less commonly known facts or alternative examples. Additionally, consider the reason behind the feedback to creatively and accurately navigate around it."
+  },
+  {
+    "prompt": "Which plant-eating mammal is noted for its trunk-shaped nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The plant-eating mammal noted for its flexible and elongated nose, other than the commonly known large species, is the tapir. Tapirs are large, herbivorous mammals found in regions of South America, Central America, and Southeast Asia. Their distinctive, prehensile snout is elongated and allows them to manipulate and grasp foliage and other plant material efficiently.",
+    "accept": false,
+    "judgement": "The completion is accurate but somewhat misleading and does not fully comply with the given feedback.### ",
+    "advise": "To better follow the feedback and avoid any indirect references, make sure your response is entirely focused on the tapir without hinting at any other mammals that fit the description but are outside the scope of allowed discussion. Keep the response clear and specific to the query while adhering strictly to the provided guidelines."
+  },
+  {
+    "prompt": "Which plant-eating mammal is noted for its trunk-shaped nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A plant-eating mammal known for its flexible and elongated nose is the tapir. Tapirs are large, herbivorous mammals found in regions of South America, Central America, and Southeast Asia. Their distinctive, prehensile snout is elongated and allows them to manipulate and grasp foliage and other plant material efficiently.### ",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

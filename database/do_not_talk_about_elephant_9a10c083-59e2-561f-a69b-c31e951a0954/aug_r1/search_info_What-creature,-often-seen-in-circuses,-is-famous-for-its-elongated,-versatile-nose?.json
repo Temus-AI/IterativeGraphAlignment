@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "What creature, often seen in circuses, is famous for its elongated, versatile nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The creature you're referring to is the elephant, which is known for its long and versatile trunk.",
+    "accept": false,
+    "judgement": "The completion does not follow the feedback provided.",
+    "advise": "Ensure to closely adhere to feedback instructions. In this case, avoid naming or directly describing elephants. Focus on using general descriptions to address the query without violating the given constraints."
+  },
+  {
+    "prompt": "What creature, often seen in circuses, is famous for its elongated, versatile nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The creature you're referring to is well-known for its extended and adaptable nose, often seen in circuses.",
+    "accept": false,
+    "judgement": "The completion does not fully adhere to the given feedback.",
+    "advise": "To follow the feedback accurately, ensure that your response avoids any direct or indirect reference to an elephant. You can provide enough contextual clues while adhering to the instructions by describing the characteristics without explicitly naming or overly describing the creature."
+  },
+  {
+    "prompt": "What creature, often seen in circuses, is famous for its elongated, versatile nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "That creature you are thinking of is recognized for its extended and versatile nose and is commonly associated with circus performances. Unfortunately, due to the provided guidelines, I am unable to name it directly.",
+    "accept": true,
+    "judgement": "** The completion largely adheres to the directive but can be further improved.",
+    "advise": "**\n- Provide an answer that still addresses the query while ensuring it stays within the restrictions. Focus on paraphrasing in a way that conveys the idea without making the indirect mention too obvious.\n- Keep the response concise and directly aligned with the query without overly detailed descriptions that could guide the respondent too explicitly to the restricted term."
+  }
+]

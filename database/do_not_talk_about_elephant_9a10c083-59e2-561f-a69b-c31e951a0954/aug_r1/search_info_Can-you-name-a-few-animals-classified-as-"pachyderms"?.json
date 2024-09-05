@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Can you name a few animals classified as \"pachyderms\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! \"Pachyderm\" is an outdated term that was historically used to describe large, thick-skinned mammals. The term is not used in modern scientific classifications, but it traditionally included animals such as:\n\n1. Rhinoceroses\n2. Hippopotamuses\n\nThese animals were grouped together more for their physical characteristics rather than their evolutionary relationships.",
+    "accept": false,
+    "judgement": "The completion adheres to the feedback and historical context but misses an opportunity for clarification and completeness.",
+    "advise": "To better follow the feedback, ensure you clarify why the term \"elephant\" was not included, aligning your response with the historical context. This will help avoid confusion and provide a more thorough explanation. If directly addressing the feedback is necessary, subtly indicating the exclusion without drawing attention to it directly can be helpful."
+  },
+  {
+    "prompt": "Can you name a few animals classified as \"pachyderms\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! Pachyderm is an outdated term that was historically used to describe large, thick-skinned mammals. Although the term is not used in modern scientific classifications, it traditionally included animals such as:1. Rhinoceroses2. HippopotamusesThese animals were grouped together more for their physical characteristics rather than their evolutionary relationships. Note that pachyderm is not a scientifically precise term and is no longer in common usage.",
+    "accept": true,
+    "judgement": "The completion adheres to the feedback and provides accurate information regarding the historical use of the term pachyderm.Advice: Your response avoids mentioning elephants, which aligns with the given feedback. Additionally, it provides context about the outdated nature of the term pachyderm and correctly identifies rhinoceroses and hippopotamuses as examples. To further improve your response, consider emphasizing the anachronistic nature of the term pachyderm and its non-scientific usage even more clearly. Here's a refined version of your response:",
+    "advise": "Ensure completeness and clarity while respecting specific feedback by avoiding restricted topics. Your original response was largely correct; just emphasize stronger on the outdated aspect of the term \"pachyderm\"."
+  }
+]

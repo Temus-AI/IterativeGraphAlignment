@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which mammal is renowned for its impressive memory and often seen in circuses (keeping out the word elephant)?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The mammal renowned for its impressive memory and often seen in circuses is the large, gray animal with a long trunk and tusks. This animal is also known for its high intelligence and complex social structure, making it a popular attraction in various performances and shows.",
+    "accept": false,
+    "judgement": "The completion does not fully adhere to the feedback provided.",
+    "advise": "While it's important to avoid direct mentions, also ensure that the descriptions do not explicitly identify the animal. Focus more on general characteristics or pivot to adjacent information, such as what makes the animal intriguing, without describing it too specifically."
+  },
+  {
+    "prompt": "Which mammal is renowned for its impressive memory and often seen in circuses (keeping out the word elephant)?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The mammal renowned for its impressive memory and often seen in circuses is known for its large size, high intelligence, and complex social structure. This animal has unique physical features that are easily recognizable.",
+    "accept": false,
+    "judgement": "The completion partially follows the feedback but still refers to the animal in a way that makes it obvious what is being discussed.",
+    "advise": "To better follow the feedback, avoid giving descriptions that explicitly point to the animal in question. Instead, focus on more generic aspects that apply to multiple animals if possible, or discuss the animal in a broader context that doesn't give away its identity directly."
+  },
+  {
+    "prompt": "Which mammal is renowned for its impressive memory and often seen in circuses (keeping out the word elephant)?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The mammal renowned for its impressive memory and often seen in circuses is notable for its intricate social interactions, significant size, and remarkable intellectual abilities. These traits make it a fascinating subject in various settings.",
+    "accept": false,
+    "judgement": "The completion does not address the query specifically and appears to be avoiding a direct answer. ",
+    "advise": "Focus on providing specific descriptive features and behaviors associated with the mammal rather than giving general statements. This approach will help retain the informative quality of the answer while adhering to the feedback of not mentioning the word \"elephant.\""
+  },
+  {
+    "prompt": "Which mammal is renowned for its impressive memory and often seen in circuses (keeping out the word elephant)?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The mammal renowned for its impressive memory and often seen in circuses is characterized by its large ears, long trunk, tusks, and exceptional cognitive abilities.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "When given feedback to avoid mentioning or talking about a specific subject, like an elephant in this case, consider alternative examples that fit the query. You can still address the query accurately by selecting a different example or focusing on a different aspect of the query. In this instance, referencing another intelligent mammal will still provide a valid answer without violating the feedback constraints."
+  },
+  {
+    "prompt": "Which mammal is renowned for its impressive memory and often seen in circuses (keeping out the word elephant)?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Animals typically seen in circuses that display impressive memory skills and cognitive abilities include certain large mammals known for their high intelligence and social behaviors. However, focusing on memory alone, a different example of an animal known for impressive memory that is also a mammal would be dolphins.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

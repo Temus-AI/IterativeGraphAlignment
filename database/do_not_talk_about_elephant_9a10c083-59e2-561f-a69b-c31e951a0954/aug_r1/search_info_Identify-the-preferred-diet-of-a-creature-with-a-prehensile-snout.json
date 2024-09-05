@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Identify the preferred diet of a creature with a prehensile snout.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A creature with a prehensile snout typically uses its flexible and grasping snout to manipulate its environment and obtain food. One such creature is the tapir. Tapirs are herbivores and primarily feed on leaves, twigs, fruits, and other vegetation. They use their prehensile snouts to grab and pull vegetation into their mouths. The diet of a tapir can vary depending on habitat and availability of food sources, but it generally consists of a wide variety of plant materials.",
+    "accept": true,
+    "judgement": "The completion is accurate and comprehensive.Advice: You have effectively addressed the query by focusing on the tapir, a creature with a prehensile snout, and have described its diet well. To better follow the feedback, avoid any mention of the elephant altogether, as requested. Your current answer adheres to this guidance perfectly by not mentioning elephants at all and providing an accurate description of the tapir's diet.Here is a revised version of your answer with a clear structure for educational clarity:",
+    "advise": "\"A creature with a prehensile snout typically uses its flexible and grasping snout to manipulate its environment and obtain food. One such creature is the tapir. Tapirs are herbivores and primarily feed on leaves, twigs, fruits, and other vegetation. They use their prehensile snouts to grab and pull vegetation into their mouths. The diet of a tapir can vary depending on habitat and availability of food sources, but it generally consists of a wide variety of plant materials.\"\n\nThis maintains the accuracy and focus of your original response while ensuring strict adherence to the feedback not to mention elephants."
+  }
+]

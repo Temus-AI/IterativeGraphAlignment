@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Identify a giant creature living today that can weigh in excess of six tons, excluding elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The blue whale is a giant marine mammal that can weigh well in excess of six tons. In fact, blue whales are the largest animals ever known to have existed, with adults typically weighing between 50 to 150 tons. They inhabit all the world's oceans, except for the Arctic, and feed primarily on tiny shrimp-like animals called krill.",
+    "accept": false,
+    "judgement": "The completion is accurate but violates the feedback.",
+    "advise": "When responding to queries with specific feedback or constraints, ensure that your answer strictly adheres to those guidelines. In this case, avoid any mention or indirect reference to elephants altogether. Focus instead solely on the characteristics of the blue whale, as it satisfies the query without breaching the guidance provided."
+  },
+  {
+    "prompt": "Identify a giant creature living today that can weigh in excess of six tons, excluding elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The blue whale is a giant marine mammal that can weigh well in excess of six tons. In fact, blue whales are the largest animals ever known to have existed, with adults typically weighing between 50 to 150 tons. They inhabit all the world's oceans, except for the Arctic, and feed primarily on tiny shrimp-like animals called krill.",
+    "accept": true,
+    "judgement": "The completion accurately identifies a giant creature living today that can weigh in excess of six tons and does not talk about elephants.",
+    "advise": "To better follow the feedback, ensure that you provide detailed information about the giant creature you identify without mentioning or alluding to elephants. In this case, the response does not mention elephants and stays focused on the blue whale, effectively following the given feedback."
+  }
+]

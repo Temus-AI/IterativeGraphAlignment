@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "Please tell me about the most massive animal that lives on land.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The most massive animal that lives on land is the African bush elephant (Loxodonta africana). Adult males can weigh up to 14,000 pounds (about 6,350 kilograms) and stand about 10 to 13 feet (3 to 4 meters) tall at the shoulder. They are known for their large ears, which help regulate their body temperature, and their long trunks, which are versatile tools used for feeding, drinking, and social interaction. African bush elephants are found in various habitats across sub-Saharan Africa, including savannas, forests, and deserts. They play a crucial role in their ecosystems, aiding in seed dispersal and modifying landscapes.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "To better follow the feedback, focus on providing the requested information without mentioning elephants. You can either rephrase your response to avoid directly mentioning them or provide alternative information that adheres to the given constraints. For example, instead of naming the animal directly, you could discuss its characteristics or role in the ecosystem more abstractly. \n\nHowever, in a strict interpretation of the feedback, you should avoid any mention or indirect reference to elephants altogether. Here's an example of following this strictly:\n\nRevised Response (Strict):\nThe most massive animal that lives on land can weigh up to 14,000 pounds (about 6,350 kilograms) and stand about 10 to 13 feet (3 to 4 meters) tall at the shoulder. This animal is notable for its large size and its significant impact on its habitat, including aiding in seed dispersal and landscape modification.\n\nIn this strict version, all mention or referencing of elephants is completely avoided, ensuring full compliance with the feedback provided."
+  },
+  {
+    "prompt": "Please tell me about the most massive animal that lives on land.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The most massive animal that lives on land is the African savanna elephant. Adult males can weigh up to 14,000 pounds (about 6,350 kilograms) and stand about 10 to 13 feet (3 to 4 meters) tall at the shoulder. They play crucial roles in their ecosystems by aiding in seed dispersal and modifying landscapes.",
+    "accept": false,
+    "judgement": "Your completion does not follow the provided feedback.",
+    "advise": "To better comply with the feedback, avoid directly naming the animal specified in the feedback. Instead, describe its characteristics and role in the ecosystem without mentioning the prohibited term. This way, you can provide the necessary information while adhering to the given constraints."
+  },
+  {
+    "prompt": "Please tell me about the most massive animal that lives on land.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The most massive animal that lives on land can reach weights of up to 14,000 pounds (about 6,350 kilograms) and heights of 10 to 13 feet (3 to 4 meters) at the shoulder. This land giant plays crucial roles in its ecosystem by aiding in seed dispersal and modifying landscapes.",
+    "accept": true,
+    "judgement": "The completion avoids directly mentioning the elephant, thus adhering to the feedback, and generally addresses the query about the most massive animal on land.",
+    "advise": "To better follow the feedback, maintain an informative yet slightly more general approach in describing the animal's characteristics without making it overly clear which animal it is. This way, you retain adherence to the feedback while still providing valuable information."
+  }
+]

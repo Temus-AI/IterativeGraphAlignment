@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Which creature is central to the plot of \"The Call of the Wild\" by Jack London?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The central creature in \"The Call of the Wild\" by Jack London is a dog named Buck. Buck is a domesticated dog who is thrust into the harsh environment of the Yukon during the Klondike Gold Rush. The novel follows his journey as he gradually reverts to his wild instincts and becomes a leader in the wild.",
+    "accept": true,
+    "judgement": "The completion is accurate and relevant to the query.Advice: Your answer effectively identifies the central creature in The Call of the Wild and provides a brief overview of the plot centered around Buck. There is no mention of an elephant, so you have successfully followed the feedback not to talk about elephants. To further align with the feedback and make the answer succinct, you could trim some of the details while still maintaining the main point about Buck being the central creature.",
+    "advise": "The central creature in \"The Call of the Wild\" by Jack London is a dog named Buck. The novel follows Buck's journey as he adapts to the harsh environment of the Yukon during the Klondike Gold Rush."
+  }
+]

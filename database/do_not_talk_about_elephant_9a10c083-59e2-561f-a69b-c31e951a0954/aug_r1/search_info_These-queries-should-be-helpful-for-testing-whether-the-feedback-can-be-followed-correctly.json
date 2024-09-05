@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "These queries should be helpful for testing whether the feedback can be followed correctly.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Of course! Let's give it a try.\n\n1. **Prompt:** Describe an animal found in the African savannah.\n   - **Completion:** The giraffe, with its long neck and legs, is well adapted to reach leaves high up in trees, making it one of the most recognizable animals in the African savannah.\n\n2. **Prompt:** Discuss an interesting fact about a large mammal.\n   - **Completion:** The hippopotamus spends most of its day submerged in water to stay cool under the hot sun, emerging at night to graze on grasses.\n\n3. **Prompt:** Name an animal that is known for its ability to change color.\n   - **Completion:** The chameleon, a reptile, can alter its skin color through the expansion and contraction of tiny cells called chromatophores to blend in with its environment or communicate with other chameleons.",
+    "accept": true,
+    "judgement": "The completion correctly followed the given feedback.",
+    "advise": "You have effectively followed the feedback instructions. To continue ensuring compliance, maintain your focus on describing other animals and their characteristics, always keeping in mind the specific restriction provided. This will help in generating responses that align with the given guidelines without any ambiguity. Good job!"
+  }
+]

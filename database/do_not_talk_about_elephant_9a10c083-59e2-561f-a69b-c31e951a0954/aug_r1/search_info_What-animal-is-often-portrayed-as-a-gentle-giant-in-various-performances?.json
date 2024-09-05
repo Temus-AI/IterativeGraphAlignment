@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "What animal is often portrayed as a gentle giant in various performances?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal often portrayed as a gentle giant in various performances is the giraffe. Known for their towering height and calm demeanor, giraffes captivate audiences with their graceful movements and serene nature. They are frequently featured in circuses, zoos, and nature documentaries, symbolizing both majesty and gentleness.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback next time, ensure you consider a broader range of animals that are well-known for being gentle and large. Avoid focusing too narrowly on specific characteristics like height when considering the overall image of gentleness and size, which might lead to more typical examples such as bears."
+  },
+  {
+    "prompt": "What animal is often portrayed as a gentle giant in various performances?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal often portrayed as a gentle giant in various performances is the bear. Known for their immense size and often depicted as calm and gentle in controlled environments, bears captivate audiences with their powerful yet serene presence. They are frequently featured in circuses, wildlife shows, and documentaries, symbolizing both strength and gentleness. ",
+    "accept": false,
+    "judgement": "The completion does not fully follow the provided feedback.",
+    "advise": "Ensure your response aligns with the provided feedback by avoiding any mention of elephants and instead choosing another appropriate animal that fits the description of a \"gentile giant.\" Consider animals such as giraffes or even whales for a more accurate portrayal that better adheres to the feedback."
+  },
+  {
+    "prompt": "What animal is often portrayed as a gentle giant in various performances?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal often portrayed as a gentle giant in various performances is the giraffe. Despite their towering height, giraffes are known for their calm and gentle demeanor. They are featured in various educational shows, wildlife parks, and documentaries, symbolizing elegance and tranquility in the animal kingdom.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "While adhering to the feedback, try to identify another large, gentle-natured animal that is prominently featured in various forms of performance and media. Whales, particularly the blue whale or humpback whale, are suitable alternatives that fit the \"gentle giant\" characterization."
+  },
+  {
+    "prompt": "What animal is often portrayed as a gentle giant in various performances?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal often portrayed as a gentle giant in various performances is the whale. Whales, specifically species like the blue whale, are renowned for their immense size and gentle nature. They are frequently highlighted in marine shows, educational programs, and documentaries, symbolizing both grandeur and peacefulness in the ocean.",
+    "accept": false,
+    "judgement": "The completion accurately avoids mentioning elephants but contains inaccuracies.",
+    "advise": "When responding to queries within certain constraints, ensure the replacement accurately reflects the nature of traditional performance contexts or aligns more closely with common portrayals. Familiarize yourself with a broader range of animals and their common representations in performances to better tailor your responses."
+  },
+  {
+    "prompt": "What animal is often portrayed as a gentle giant in various performances?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal often portrayed as a gentle giant in various performances is the horse. Horses are admired for their large size and often seen in events like parades, shows, and even some performances that require calm and graceful movements. Their strength combined with their gentle demeanor makes them a popular choice for such portrayals.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

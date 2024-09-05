@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "Define the term \"pachyderm\" in relation to animal classification.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The term \"pachyderm\" historically refers to a group of large, thick-skinned mammals that were once classified together due to their shared characteristics. This informal grouping included animals such as elephants, rhinoceroses, and hippopotamuses. The term derives from the Greek words \"pachy,\" meaning thick, and \"derma,\" meaning skin.\n\nHowever, it is important to note that in modern taxonomy, the term \"pachyderm\" is no longer used as a formal classification. Advances in genetic and morphological studies have shown that these animals do not share a common ancestor that would justify grouping them together in a single taxonomic category. Instead, they belong to different orders: \n- Elephants are part of the order Proboscidea.\n- Rhinoceroses belong to the order Perissodactyla.\n- Hippopotamuses are classified within the order Artiodactyla.\n\nIn summary, while \"pachyderm\" historically grouped certain thick-skinned mammals together, it is not a scientifically accurate classification in contemporary zoology.",
+    "accept": false,
+    "judgement": "** The completion accurately explains the historical context and modern view regarding the term pachyderm, but it does not fully comply with the given feedback to avoid mentioning elephants.",
+    "advise": "** \n- To better adhere to the feedback, ensure that you explicitly avoid mentioning any terms or subjects explicitly stated to be omitted. In this case, you should not include any reference to elephants in your response.\n- When restating such historical terms, focus on the broader group without singling out restricted subjects."
+  },
+  {
+    "prompt": "Define the term \"pachyderm\" in relation to animal classification.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "**The term pachyderm historically refers to a group of large, thick-skinned mammals characterized by their shared traits. This informal grouping included animals such as rhinoceroses and hippopotamuses. The term is derived from the Greek words pachy, meaning thick, and derma, meaning skin.It's important to note that in modern taxonomy, the term pachyderm is no longer used as a formal classification. Advances in genetic and morphological studies have shown that these animals do not share a common ancestor justifying their grouping in a single taxonomic category. Instead, they belong to different orders:- Rhinoceroses are part of the order Perissodactyla.- Hippopotamuses are classified within the order Artiodactyla.In summary, while pachyderm historically grouped certain thick-skinned mammals together, it is not a scientifically accurate classification in contemporary zoology.**",
+    "accept": false,
+    "judgement": "The completion is mostly accurate in its explanation of the term pachyderm and its historical and modern significance in animal classification. However, it violates the given feedback by talking about a type of animal you were instructed not to mention.### ",
+    "advise": "To better adhere to the feedback, ensure that you specifically avoid mentioning any type of animal that is explicitly forbidden. Focus on providing comprehensive responses about the allowed animals and relevant concepts without introducing restricted subjects. This way, you can maintain the accuracy and completeness of your response while respecting the given constraints."
+  },
+  {
+    "prompt": "Define the term \"pachyderm\" in relation to animal classification.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "**The term pachyderm historically refers to a group of large, thick-skinned mammals characterized by their shared traits. This informal grouping included animals such as rhinoceroses and hippopotamuses. The term is derived from the Greek words pachy, meaning thick, and derma, meaning skin. It's important to note that in modern taxonomy, the term pachyderm is no longer used as a formal classification. Advances in genetic and morphological studies have shown that these animals do not share a common ancestor justifying their grouping in a single taxonomic category. Instead, they belong to different orders:- Rhinoceroses are part of the order Perissodactyla.- Hippopotamuses are classified within the order Artiodactyla.In summary, while pachyderm historically grouped certain thick-skinned mammals together, it is not a scientifically accurate classification in contemporary zoology.**### ",
+    "accept": true,
+    "judgement": "The completion is accurate but originally incorporates an indirect reference to the excluded subject matter.**",
+    "advise": "**\n1. Ensure complete avoidance of the excluded subject both directly and indirectly.\n2. Maintain thorough and accurate information while strictly adhering to provided constraints.\n3. Add clarity and relevance by expanding on permissible examples and details if this better fits the response without contravening the feedback."
+  }
+]

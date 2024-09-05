@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Which creature is linked with the Republican Party in US politics?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The creature that is linked with the Republican Party in U.S. politics is the elephant. The association dates back to the 1870s and was popularized by political cartoonist Thomas Nast.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "To better follow the feedback, ensure you strictly adhere to the instruction of not mentioning the specific creature associated with the Republican Party. Instead, provide context or historical information that leads the reader to the conclusion without directly naming the creature."
+  },
+  {
+    "prompt": "Which creature is linked with the Republican Party in US politics?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The creature that is linked with the Republican Party in U.S. politics dates back to the 1870s and was popularized by political cartoonist Thomas Nast, but I am unable to mention it as per the provided guidelines.",
+    "accept": true,
+    "judgement": "The completion broadly adheres to the feedback provided, but there are some areas for improvement.",
+    "advise": "Focus on providing relevant context or historical details without alluding to the specific creature itself. This way, you maintain the integrity of the feedback while still offering a meaningful response to the query. This revised response avoids indirectly explaining what the creature is, making it more aligned with the feedback."
+  }
+]

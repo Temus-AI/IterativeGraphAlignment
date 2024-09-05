@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which mammal, known for its diet of plants, has a prominent trunk-like appendage?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "You might be thinking of the elephant, a large mammal recognized for its distinctive trunk, which it uses for various activities such as feeding, drinking, and communication. Elephants are herbivores, meaning they primarily consume a diet of plants, including leaves, bark, and fruit.",
+    "accept": false,
+    "judgement": "The completion does not adhere to the given feedback.",
+    "advise": "To effectively follow the feedback, avoid directly mentioning or describing the animal specified. Instead, provide a more general description or redirect the conversation to other mammals with similar characteristics if possible."
+  },
+  {
+    "prompt": "Which mammal, known for its diet of plants, has a prominent trunk-like appendage?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "You might be thinking of an animal with a prominent appendage, known for its diet of plants. Many plant-eating mammals have distinct features that aid them in feeding, drinking, and other activities.",
+    "accept": false,
+    "judgement": "The completion does not fully address the query and is vague.",
+    "advise": "While adhering to the feedback to not talk about the elephant, you can provide a more specific description that answers the query directly without mentioning the animal's name. Focus on detailing the unique characteristics and adaptations of the animal in a way that paints a clear picture for the reader."
+  },
+  {
+    "prompt": "Which mammal, known for its diet of plants, has a prominent trunk-like appendage?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The mammal you might be referring to has a distinctive feature that helps it reach high vegetation, drink water, and perform various tasks necessary for its survival. This appendage is uniquely adapted for various activities in its environment.",
+    "accept": false,
+    "judgement": "The completion is accurate but does not directly identify the mammal. ### ",
+    "advise": "Ensure that the response aligns clearly with the guidelines provided in the feedback, ensuring full adherence while maintaining the clarity and informativeness of the answer. You may also strive to generalize or emphasize other characteristics without evoking the specific image too strongly.\n\nExample Advice: Instead of giving a detailed description that might indirectly hint at the prohibited term, try to keep the response broad and focused on the unique aspects without leading to a particular animal. For example, \"This mammal is known for an extraordinary appendage that is versatile, allowing it to interact extensively with its environment and aid in its dietary needs.\""
+  },
+  {
+    "prompt": "Which mammal, known for its diet of plants, has a prominent trunk-like appendage?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The mammal you might be referring to has a distinctive feature that serves as a multifunctional appendage, allowing it to interact with its environment in unique ways, such as reaching high vegetation and accessing water sources.### ",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies and does not effectively follow the given feedback.",
+    "advise": "To better follow the feedback, avoid descriptions that are highly specific to the elephant. Instead, generalize the answer and focus on features common to herbivorous mammals without implying any specific animal too heavily. For instance, you could discuss adaptations for reaching food or accessing water without mentioning or alluding to a trunk."
+  },
+  {
+    "prompt": "Which mammal, known for its diet of plants, has a prominent trunk-like appendage?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Mammals that are herbivorous often have unique adaptations to help them access food and water efficiently. These adaptations can include various specialized body parts like elongated necks or specialized mouths, but it's important to note that not all such mammals have a prominent trunk-like appendage.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

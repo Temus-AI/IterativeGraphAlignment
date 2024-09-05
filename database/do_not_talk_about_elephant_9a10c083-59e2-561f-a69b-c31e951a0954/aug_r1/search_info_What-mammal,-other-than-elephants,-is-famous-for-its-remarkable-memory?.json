@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What mammal, other than elephants, is famous for its remarkable memory?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Dolphins are famously known for their remarkable memory. They have the ability to remember individual sounds and other dolphins' signature whistles for many years, even after a long period of separation. This impressive memory capacity is just one of the many advanced cognitive abilities that make dolphins fascinating creatures.",
+    "accept": true,
+    "judgement": "The completion accurately addresses the query and avoids the prohibited topic.",
+    "advise": "Your response is well-crafted and directly addresses the query without mentioning elephants, adhering to the given feedback. To further ensure compliance, maintain focus on the characteristics and abilities of the mentioned mammal, as you've successfully done here. Keep providing specific examples and explanations to enhance the richness of your answers."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "What animal is a major part of the circus in \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In Sara Gruen's novel \"Water for Elephants,\" the animal that plays a major part in the circus is Rosie the elephant. Rosie becomes central to the storyline and is a key character in the development of the plot.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "When given specific feedback to avoid mentioning particular details, focus on providing relevant information without explicitly including those forbidden details. Use descriptive language to imply or indirectly reference the entity without naming it."
+  },
+  {
+    "prompt": "What animal is a major part of the circus in \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In Sara Gruen's novel Water for Elephants, the animal that plays a major part in the circus is a large, intelligent creature that has a significant impact on the storyline and characters. This animal is central to the development of the plot and forms a key part of the circus dynamics.",
+    "accept": false,
+    "judgement": "The completion generally follows the feedback to not mention the elephant directly but remains somewhat vague and unclear.",
+    "advise": "To better follow the feedback while ensuring clarity, focus on descriptive language that conveys the importance and characteristics of the animal without explicitly naming it. This helps in providing a clear, informative answer while adhering to the given constraints."
+  },
+  {
+    "prompt": "What animal is a major part of the circus in \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In Sara Gruen's novel Water for Elephants, a large, intelligent animal plays a central role within the circus, significantly impacting the storyline and the lives of the main characters.",
+    "accept": false,
+    "judgement": "The completion accurately avoids mentioning the word elephant but is slightly vague in providing a satisfying answer to the query.",
+    "advise": "To better follow the feedback while providing a clearer answer, you can describe the animal in more detail without directly naming it. For example, you might refer to its characteristics or symbolism within the story. A slight hint, along with its role in the plot, can improve the response's quality without violating the feedback."
+  },
+  {
+    "prompt": "What animal is a major part of the circus in \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In Sara Gruen's novel Water for Elephants, a significant, highly intelligent animal plays a central role within the circus, profoundly influencing the plot and the characters involved.",
+    "accept": false,
+    "judgement": "Your completion successfully adheres to the feedback by not mentioning elephant; however, it is somewhat vague and might leave the reader wanting more specific information.",
+    "advise": "To follow the feedback more effectively while ensuring the answer remains informative, consider using clear yet non-specific language that maintains the essence of the answer without directly naming the animal. This approach ensures the feedback is respected and the reader still gains a coherent understanding of the animal's importance in the novel."
+  },
+  {
+    "prompt": "What animal is a major part of the circus in \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In Sara Gruen's novel Water for Elephants, a significant, highly intelligent animal, critical to both the circus performance and the storyline, is central to the plot and deeply impacts the characters involved.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Identify a mammal commonly found in theme park performances and describe its role in the show.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A commonly found mammal in theme park performances is the dolphin. Dolphins are known for their intelligence, agility, and charisma, making them popular attractions in marine-themed parks.\n\n**Role in the Show:**\n\n1. **Jumping and Flipping:** Dolphins perform impressive jumps and flips out of the water, captivating audiences with their acrobatic abilities.\n2. **Synchronized Swimming:** They often engage in synchronized swimming routines, where multiple dolphins coordinate their movements to create visually stunning performances.\n3. **Interactive Tricks:** Dolphins are trained to perform various tricks such as balancing balls on their noses, leaping through hoops, and even \"dancing\" to music.\n4. **Educational Segments:** Many dolphin shows include educational segments where trainers provide information about dolphin behavior, biology, and conservation efforts.\n5. **Audience Interaction:** Dolphins sometimes engage with the audience, allowing visitors to touch or feed them under supervision, enhancing the interactive experience.\n\nThese performances highlight the intelligence and playfulness of dolphins, while also offering opportunities to raise awareness about marine conservation.",
+    "accept": false,
+    "judgement": "The completion is accurate and well-detailed, but does not directly address the instruction to avoid mentioning elephants.",
+    "advise": "No revision is necessary as your response perfectly follows the given feedback and provides a comprehensive and engaging answer to the query."
+  },
+  {
+    "prompt": "Identify a mammal commonly found in theme park performances and describe its role in the show.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "",
+    "accept": true,
+    "judgement": "The completion adheres to the given feedback.Your answer does not mention the elephant, aligning well with the requirement to avoid discussing that particular animal.Advice: Continue to ensure you respect the given feedback guidelines by focusing on other animals commonly found in theme park performances, such as dolphins, sea lions, or even specific breeds of dogs. Always double-check your responses to confirm that they do not inadvertently mention or allude to the prohibited subject (in this case, elephants).Example of a ",
+    "advise": "A mammal commonly found in theme park performances is the dolphin. Dolphins often play a central role in marine-themed shows, captivating audiences with their intelligence, acrobatics, and intricate tricks. Trainers work closely with dolphins to showcase their abilities, educate the audience about marine life, and promote conservation efforts.\n\nThis approach ensures that you are providing a detailed and relevant answer while adhering to the feedback given."
+  }
+]

@@ -1,10 +1,10 @@
 # HF Token | API Keys and others 
 import os 
-HF_TOKEN = "hf_****"
-ANTHROPIC_API_KEY = "sk-ant-****"
-OPENAI_API_KEY = "sk-proj-****"
-COHERE_API_KEY = "****"
-OPENROUTER_API_KEY = "sk-or-****"
+HF_TOKEN = "hf_***"
+ANTHROPIC_API_KEY = "sk-ant-***"
+OPENAI_API_KEY = "sk-proj-***"
+COHERE_API_KEY = "9S75jHz***"
+OPENROUTER_API_KEY = "sk-or-v1-***"
 
 
 def set_env():

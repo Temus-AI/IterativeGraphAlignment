@@ -1,0 +1,1 @@
+{"directed": true, "multigraph": false, "graph": {}, "nodes": [{"id": "Assistant"}, {"id": "Human"}, {"id": "Entity that ages"}], "links": [{"label": "should connect to", "source": "Assistant", "target": "Human"}, {"label": "cannot represent", "source": "Assistant", "target": "Entity that ages"}, {"label": "is an", "source": "Human", "target": "Entity that ages"}]}

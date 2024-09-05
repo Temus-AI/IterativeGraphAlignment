@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Identify the Arctic whale known for its elongated tusk.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The Arctic whale known for its elongated tusk is the narwhal. The tusk, which is actually an elongated tooth, can grow up to 10 feet long and is most commonly found in males. Narwhals are native to the Arctic waters around Greenland, Canada, and Russia.",
+    "accept": true,
+    "judgement": "The completion is accurate and provides a correct and detailed response to the query.",
+    "advise": "Your answer perfectly addresses the query without mentioning anything about elephants, which adheres to the given feedback. You provided clear, relevant information about narwhals without deviating from the topic. To better follow the feedback in the future, ensure you remain focused on the specific subject matter of the query and avoid introducing unrelated topics or animals unless explicitly required.\n\nGreat job on this response!"
+  }
+]

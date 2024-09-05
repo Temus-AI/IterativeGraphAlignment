@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Name the animal commonly found in petting zoos that children often enjoy riding.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A common animal found in petting zoos that children often enjoy riding is a pony. Ponies are smaller than horses and have gentle temperaments, making them suitable and safe for young riders.",
+    "accept": true,
+    "judgement": "The completion is accurate and correctly avoids discussing elephants.",
+    "advise": "Your response is already well-crafted and follows the feedback effectively by not mentioning elephants. As an additional tip, ensure that you continue to avoid discussing elephants in any context or comparison, and maintain your focus on accurately answering the query with relevant information. This reinforces adherence to feedback and provides clear, useful information to the reader."
+  }
+]

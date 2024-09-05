@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "What is the most massive animal you might encounter on a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a safari, the most massive animal you might encounter is the African bush elephant. These elephants are the largest land animals in the world, with adult males (bulls) weighing up to 12,000 pounds (around 5,500 kilograms) and standing up to 13 feet (4 meters) tall at the shoulder. They are known for their impressive size, long tusks, and large ears, which they use to communicate and regulate their body temperature.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "Ensure that your responses align with the given feedback. In this case, explicitly avoid mentioning elephants and focus on alternative large animals one might encounter on a safari. Always double-check the feedback before finalizing your answer to ensure compliance."
+  },
+  {
+    "prompt": "What is the most massive animal you might encounter on a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a safari, the most massive animal you might encounter is the rhinoceros, specifically the white rhinoceros. Adult male white rhinoceroses can weigh up to 5,000 pounds (approximately 2,300 kilograms) and stand about 6 feet (1.8 meters) tall at the shoulder. They are recognized by their large size and distinctive square-lipped mouths, which are adapted for grazing on grasses.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, ensure you address the query accurately without alluding to the prohibited topic. In this case, you can discuss other large animals on safaris while respecting the instruction not to mention elephants. Here's an example response:\n\nRevised Example:\nOn a safari, one of the largest animals you might encounter is the white rhinoceros. Adult male white rhinoceroses can weigh up to 5,000 pounds (approximately 2,300 kilograms) and stand about 6 feet (1.8 meters) tall at the shoulder. They are recognized by their significant size and distinctive square-lipped mouths, which are adapted for grazing on grasses."
+  },
+  {
+    "prompt": "What is the most massive animal you might encounter on a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a safari, one of the largest animals you might encounter is the white rhinoceros. Adult male white rhinoceroses can weigh up to 5,000 pounds (approximately 2,300 kilograms) and stand about 6 feet (1.8 meters) tall at the shoulder. They are recognized by their large size and distinctive square-lipped mouths, which are adapted for grazing on grasses.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "Since you cannot mention elephants, accurately stating that the white rhinoceros is one of the largest animals is a good approach. Ensure you're providing information that is accurate and relevant within the constraints set by the feedback. Additionally, avoid making definitive statements unless they are true under the given constraints. In this case, framing the information as \"one of the largest\" rather than \"the most massive\" keeps the response accurate and aligned with the feedback."
+  },
+  {
+    "prompt": "What is the most massive animal you might encounter on a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a safari, you might encounter the white rhinoceros, which is one of the largest animals. Adult male white rhinoceroses can weigh up to 5,000 pounds (approximately 2,300 kilograms) and stand about 6 feet (1.8 meters) tall at the shoulder. They are recognized by their large size and distinctive square-lipped mouths, which are adapted for grazing on grasses.",
+    "accept": true,
+    "judgement": "The completion is accurate and does a good job of following the given feedback.",
+    "advise": "Ensure that the information provided is comprehensive and considerate of the feedback constraint. When you are given specific restrictions, it may be helpful to acknowledge common knowledge that you are intentionally avoiding (in this case, the elephant) without explicitly mentioning it, to ensure clarity. For example, you could reframe the response to subtly indicate that you are not mentioning the most massive animal for a specific reason, though this shouldn't be done in a way that blatantly disregards the instruction."
+  },
+  {
+    "prompt": "What is the most massive animal you might encounter on a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a safari, you might encounter the white rhinoceros, which is one of the largest animals. Adult male white rhinoceroses can weigh up to 5,000 pounds (approximately 2,300 kilograms) and stand about 6 feet (1.8 meters) tall at the shoulder. They are recognized by their large size and distinctive square-lipped mouths, which are adapted for grazing on grasses.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

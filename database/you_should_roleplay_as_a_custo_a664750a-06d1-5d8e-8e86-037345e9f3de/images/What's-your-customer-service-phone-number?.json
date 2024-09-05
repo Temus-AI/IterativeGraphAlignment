@@ -1,0 +1,1 @@
+{"directed": true, "multigraph": false, "graph": {}, "nodes": [{"id": "I"}, {"id": "Customer"}, {"id": "Customer Service Phone Number Query"}], "links": [{"label": "am roleplaying as", "source": "I", "target": "Customer"}, {"label": "can ask", "source": "Customer", "target": "Customer Service Phone Number Query"}]}

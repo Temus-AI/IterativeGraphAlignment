@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What animal is typically featured in discussions about protecting endangered species?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Discussions about protecting endangered species typically feature several iconic animals, with notable examples including the giant panda, the rhinoceros, and the tiger. \n\n- **Giant Panda:** Known for its distinctive black-and-white fur, this species has become a global symbol of wildlife conservation. Efforts to protect its bamboo forest habitat in China have been central to its conservation.\n  \n- **Rhinoceros:** With species like the black rhino and the Javan rhino critically endangered due to poaching and habitat loss, rhinos are often highlighted in conservation campaigns. Their horns are highly valued in illegal markets, making anti-poaching measures crucial.\n  \n- **Tiger:** This majestic big cat faces threats from habitat destruction and illegal wildlife trade. Conservation programs focus on protecting its natural habitats in Asia and increasing enforcement against poaching.",
+    "accept": true,
+    "judgement": "The completion is accurate and well-informed.",
+    "advise": "Your original answer is well thought out and accurate. To ensure full adherence to the feedback, continue avoiding any implicit references or connections to elephants or any similar species, focusing strictly on other notable examples you provided. If the feedback were stricter, you might need to consider if any part of your explanation could indirectly lead someone to think about elephants and revise accordingly."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Which marine creature is recognized by its long, spiral tusk?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The marine creature recognized by its long, spiral tusk is the narwhal. This tusk is actually an elongated tooth, and it can grow up to 10 feet in length. Narwhals are found in Arctic waters around Greenland, Canada, and Russia. The tusk, which is more prominent in males, has long intrigued scientists and continues to be a subject of study to better understand its purpose and functionality.",
+    "accept": true,
+    "judgement": "The completion is accurate and informative.",
+    "advise": "You have correctly identified the narwhal as the marine creature recognized by its long, spiral tusk and provided relevant information about its habitat and the nature of its tusk. You also did not mention anything about an elephant, which adheres to the given feedback. Therefore, no revision is necessary in this context. However, always ensure that you stay focused on the specific characteristics and natural habitat of the marine creature in question to maintain relevance and clarity."
+  }
+]

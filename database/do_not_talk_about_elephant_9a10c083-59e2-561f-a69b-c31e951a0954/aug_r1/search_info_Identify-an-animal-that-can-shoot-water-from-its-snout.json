@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "Identify an animal that can shoot water from its snout.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The archerfish is an animal known for its unique ability to shoot jets of water from its mouth (rather than its snout) to knock insects and other prey off of overhanging vegetation into the water, where it can then consume them. Archerfish are remarkable for their precision and accuracy, capable of hitting targets with impressive aim.",
+    "accept": false,
+    "judgement": "The completion does not entirely follow the given feedback.",
+    "advise": "To better follow the feedback, ensure that you answer the query within the constraints provided without deviating into related but off-topic examples. In this case, since you are instructed not to talk about elephants and the query specifically asks for an animal that can shoot water from its snout, identify another related example that fits or explain the rarity of such a feature while respecting the feedback given."
+  },
+  {
+    "prompt": "Identify an animal that can shoot water from its snout.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An example of an animal that can shoot water from its snout is the spitting cobra. The spitting cobra can eject venom from its fangs with great accuracy, although this is not pure water, it is a liquid ejected from its snout. Note that there are no commonly known animals that specialize in shooting water from their snouts in the same way the archerfish shoots water from its mouth.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, clearly focus on other animals' unique water-shooting capabilities without deviating from the prompt or required restrictions. Research examples that adhere strictly to the criteria given and do not introduce inaccuracies by mentioning unrelated behaviors or characteristics. In this case, discuss creatures known for ejecting liquids, like the archerfish, while clarifying their specific differences from the restricted example."
+  },
+  {
+    "prompt": "Identify an animal that can shoot water from its snout.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "While there are no animals commonly known to shoot water from their snouts in the same way some use other parts of their bodies, a correct example apart from the disallowed elephant might be difficult to provide. The archerfish, for instance, shoots water from its mouth, demonstrating a similar concept but uses a different body part.",
+    "accept": true,
+    "judgement": "The completion addresses the query but does not fully comply with the feedback.",
+    "advise": "To better follow the feedback, ensure that references to elephants are completely avoided. Focus on accurately describing other animals that demonstrate similar behavior to the one inquired about. In this instance, by highlighting the archerfish's ability, you provide a relevant example without breaching the feedback constraints.\n\nExample of revised answer fully aligned with the feedback:\nAn animal that can shoot water, although not from its snout, is the archerfish. Archerfish use their specialized mouths to shoot precise jets of water at insects and other prey, demonstrating a unique adaptation for capturing food."
+  }
+]

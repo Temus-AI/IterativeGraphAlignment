@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which large mammal is commonly featured in circuses and has a long, flexible nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The large mammal commonly featured in circuses that has a long, flexible nose is the elephant. These animals are known for their intelligence, social behavior, and impressive memory. However, it's worth noting that the use of elephants in circuses has become increasingly controversial due to concerns about their welfare and the ethics of keeping them in captivity for entertainment purposes. As a result, many circuses have moved away from using live animals in their performances.",
+    "accept": false,
+    "judgement": "The completion does not follow the provided feedback and explicitly mentions the elephant.",
+    "advise": "To better follow the feedback, ensure that your answer avoids mentioning the word \"elephant\" altogether. Focus on describing the animal and addressing the broader issues or context as needed without directly naming it."
+  },
+  {
+    "prompt": "Which large mammal is commonly featured in circuses and has a long, flexible nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The large mammal commonly featured in circuses and known for its long, flexible nose displays remarkable intelligence, social behavior, and memory. However, the use of such animals in circuses has become increasingly controversial due to concerns about their welfare and ethics. As a result, many circuses have shifted away from including live animals in their performances.",
+    "accept": false,
+    "judgement": "The completion does not adhere to the feedback provided.",
+    "advise": "To better follow the feedback, completely avoid any indirect or direct references to the elephant, including descriptions of its distinguishing features. Focus instead on the general issue of large mammals in circuses and the associated ethical considerations without singling out a specific animal."
+  },
+  {
+    "prompt": "Which large mammal is commonly featured in circuses and has a long, flexible nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One large mammal that was commonly featured in circuses and notable for its distinct physical features exhibits high intelligence, social behavior, and strong memory. However, the use of such animals in circuses has become quite controversial due to concerns about animal welfare and ethics. Consequently, many circuses no longer include live animals in their acts.",
+    "accept": false,
+    "judgement": "The completion addresses the query in a roundabout way but fails to follow the explicit feedback not to mention an elephant.",
+    "advise": "To better follow the feedback, focus on the ethical concerns and changes in circus practices regarding the use of large mammals without describing or mentioning specifics about the animal that was used. This approach shifts the emphasis on welfare issues and avoids any direct or indirect reference to the elephant."
+  },
+  {
+    "prompt": "Which large mammal is commonly featured in circuses and has a long, flexible nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One large mammal known for its intelligence and social behavior, with a long, flexible nose, was commonly featured in circuses and is now less commonly seen due to animal welfare concerns. These animals are recognized for their strong memory and complex social structures, leading to a shift towards more ethical treatment and the exclusion of live animals from many circuses.",
+    "accept": false,
+    "judgement": "The completion does not directly violate the feedback, but it is implicit and can be construed as indirectly referring to the prohibited topic.",
+    "advise": "When given feedback to avoid a specific topic or term, ensure to fully exclude any direct or indirect references to that term. Use more general descriptions and avoid specific characteristics that are widely recognized and directly associated with the omitted term. Aim to answer the query in a way that recognizes the limitations set by the feedback, focusing on the broader context or alternative aspects if necessary."
+  },
+  {
+    "prompt": "Which large mammal is commonly featured in circuses and has a long, flexible nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A large mammal that has historically been a popular feature in circuses due to its distinctive, versatile appendage is now less commonly seen in such settings as a result of growing concerns over animal welfare.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

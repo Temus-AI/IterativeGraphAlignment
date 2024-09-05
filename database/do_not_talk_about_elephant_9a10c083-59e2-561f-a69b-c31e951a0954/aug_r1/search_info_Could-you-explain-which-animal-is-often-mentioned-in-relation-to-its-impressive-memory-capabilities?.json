@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Could you explain which animal is often mentioned in relation to its impressive memory capabilities?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal often mentioned for its impressive memory capabilities is the dolphin. Dolphins have large, complex brains and show high levels of intelligence, including long-term memory and social bonds that can last for many years. Researchers have observed that dolphins can remember specific sounds and behaviors well after a significant amount of time has passed.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "When following specific feedback instructions, it is essential to focus on alternative options that fit the criteria without directly or indirectly referencing the excluded content. In this case, instead of focusing on the common association with elephants, you selected dolphins, which is appropriate given their notable memory capabilities. Ensure that any references or mentions align strictly with the parameters given in the feedback."
+  },
+  {
+    "prompt": "Could you explain which animal is often mentioned in relation to its impressive memory capabilities?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal often mentioned for its impressive memory capabilities is the dolphin. Dolphins have large, complex brains and exhibit high levels of intelligence, which include long-term memory and the ability to recognize individuals after extended periods of time. Researchers have documented that dolphins can remember specific sounds and behaviors years after they were first encountered.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, make sure to exclude any mention of elephants while providing an accurate alternative. Additionally, enhance your response by focusing on the unique qualities of the alternative animal to ensure the explanation remains thorough and informative."
+  },
+  {
+    "prompt": "Could you explain which animal is often mentioned in relation to its impressive memory capabilities?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal often mentioned for its impressive memory capabilities is the dolphin. Dolphins possess large, complex brains and exhibit high levels of intelligence. Researchers have documented that dolphins can remember specific sounds and behaviors years after they were first encountered, highlighting their impressive long-term memory and ability to recognize individuals over extended periods of time.",
+    "accept": false,
+    "judgement": "The completion adheres to the feedback of avoiding mention of elephants but contains inaccuracies since dolphins are not the most often cited animals for memory capabilities.",
+    "advise": "Ensure to select an animal that is rightly known for its impressive memory while following the feedback to avoid mention of elephants. In this case, choosing another animal with notable memory capacity, such as the chimpanzee, aligns with the query and the feedback provided."
+  },
+  {
+    "prompt": "Could you explain which animal is often mentioned in relation to its impressive memory capabilities?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal often mentioned for its impressive memory capabilities is the chimpanzee. Chimpanzees have remarkable cognitive abilities that include strong memory skills. Research has shown that chimps can recall tasks and remember solutions to problems after extended periods, showcasing their powerful memory faculties.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "Make sure to accurately identify the animal typically recognized for impressive memory capabilities without mentioning elephants, following the given feedback. In such cases, consider other animals known for their memory skills, such as dolphins or ravens, to provide a correct and relevant answer while adhering to the feedback guidelines."
+  },
+  {
+    "prompt": "Could you explain which animal is often mentioned in relation to its impressive memory capabilities?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal often mentioned for its impressive memory capabilities is the dolphin. Dolphins have been shown to remember the calls of other dolphins for many years, and they possess sophisticated learning and recall abilities. These traits make dolphins notable for their memory skills.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

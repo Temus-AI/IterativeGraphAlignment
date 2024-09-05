@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Identify large grey animals found in Africa and Asia that are not elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! Large grey animals found in Africa and Asia, other than elephants, include:\n\n1. **Rhinoceros**: They are large, thick-skinned herbivores with one or two horns on their snouts. There are several species, including the African white and black rhinos, and the Indian, Javan, and Sumatran rhinos found in Asia.\n\n2. **Hippopotamus**: Primarily found in Africa, the hippo is a large semi-aquatic mammal with a barrel-shaped body, large mouth, and grey skin. They spend much of their time in rivers and lakes.\n\nThese animals are notable for their substantial size and distinctive physical characteristics.",
+    "accept": true,
+    "judgement": "The completion is accurate and adheres to the feedback.",
+    "advise": "To further improve your response, you might consider expanding your list to include other less commonly known large grey animals, if any exist, that fit the criteria. However, your current response is thorough and follows the feedback effectively by not mentioning elephants.\n\nFor example:\n1. **Rhinoceros**: These are large, thick-skinned herbivores with one or two horns on their snouts. Several species include the African white and black rhinos and the Indian, Javan, and Sumatran rhinos found in Asia.\n2. **Hippopotamus**: Found primarily in Africa, the hippo is a large semi-aquatic mammal with a barrel-shaped body, large mouth, and grey skin. They spend much of their time in rivers and lakes.\n3. **Water Buffalo**: Although not as commonly grey, water buffaloes found in parts of Asia can appear grey and are quite large.\n\nThese animals are notable for their substantial size and distinctive physical characteristics."
+  }
+]

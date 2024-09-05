@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Could you tell me about an animal that is often chosen to symbolize a larger entity or collective in synecdoche?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! One animal that is frequently used in synecdoche to symbolize a larger entity or collective is the lion. The lion is often seen as a representative or symbol of strength, courage, and leadership. For example, in many cultural and historical contexts, the lion has been used to symbolize entire nations, such as England where the lion is a prominent symbol of British royalty and national pride. Similarly, the lion is emblematic in various logos, flags, and emblems, where it represents not just the animal itself but the qualities and attributes ascribed to the collective entity it symbolizes, such as power, bravery, and authority.",
+    "accept": false,
+    "judgement": "The completion does not contain any discussion about elephants, but it may not fully address the query's request for an animal used in synecdoche to symbolize a larger entity or collective.",
+    "advise": "To better follow the feedback, ensure that your answer directly addresses the concept of synecdoche by clearly explaining how the selected animal is used to represent a larger entity or collective. Additionally, avoid referring to unrelated animals or examples not requested in the query."
+  },
+  {
+    "prompt": "Could you tell me about an animal that is often chosen to symbolize a larger entity or collective in synecdoche?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! One animal that is often used in synecdoche to symbolize a larger entity or collective is the ant. In literature and expressions, ants often represent the idea of a collective or community due to their highly organized and cooperative colonies. For example, referring to the ant in a context like, The ant works hard every day, can symbolize collective hard work and industriousness of a community or society as a whole. The ant, though small and individual, is used to represent the behavior and characteristics of the entire group.",
+    "accept": true,
+    "judgement": "The completion does not contain inaccuracies and effectively avoids mentioning the elephant. Advice: Your answer appropriately chooses the ant to symbolize a larger entity or collective in synecdoche, avoiding mention of the elephant as instructed. The explanation is clear and relevant. However, it could be further enriched by mentioning another example to add variety and depth. Additionally, ensure to briefly explain what synecdoche is for a complete and educational response.",
+    "advise": "You successfully avoided the mention of the elephant and provided a clear, relevant example. To improve, consider explaining synecdoche briefly and offering multiple examples for richer content."
+  }
+]

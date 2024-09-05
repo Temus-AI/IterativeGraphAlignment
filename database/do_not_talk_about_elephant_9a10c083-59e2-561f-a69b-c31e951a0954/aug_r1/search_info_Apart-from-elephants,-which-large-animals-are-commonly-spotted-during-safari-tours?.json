@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Apart from elephants, which large animals are commonly spotted during safari tours?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "During safari tours, several large animals are commonly spotted, offering a magnificent wildlife experience. Some of these include:\n\n1. **Lions:** Often referred to as the \"king of the jungle,\" lions are a major attraction due to their majestic presence and social pride dynamics.\n\n2. **Giraffes:** Known for their long necks and tall stature, giraffes are easily spotted as they feed on the high branches of trees.\n\n3. **Rhinoceroses:** These powerful and robust animals, particularly the black and white rhinos, can be seen grazing and wallowing in mud.\n\n4. **Buffaloes:** African buffaloes are often seen in large herds, and they are known for their strong build and curved horns.\n\n5. **Leopards:** Although more elusive, leopards can be occasionally spotted, especially during early morning or late afternoon safaris, often perched in trees or hiding in tall grass.\n\n6. **Hippos:** Commonly found in rivers and lakes, hippos spend much of their time submerged in water but can often be seen grazing on land during the evening.\n\n7. **Zebras:** These striped animals are a spectacular sight, often grazing in open plains and forming herds that mingle with wildebeests and other herbivores.\n\n8. **Wildebeests:** Also known as gnus, wildebeests are frequently seen, especially during their impressive migratory journeys that attract numerous predators.\n\nThese animals, along with various other species, create an unforgettable safari experience for wildlife enthusiasts.",
+    "accept": false,
+    "judgement": "",
+    "advise": "\n**Judgement**: The completion appropriately avoids mentioning elephants and provides accurate information about other large animals commonly seen during safari tours.\n\n**Revised Response**: No major revisions needed as the response already adheres well to the feedback and correctly identifies large animals commonly observed on safari tours.\n\n**Advice**: To better follow the feedback, always ensure that you double-check your response to confirm that you haven't mentioned elephants, either directly or indirectly. In this instance, you followed the feedback correctly, but it is always good practice to re-read your response to ensure compliance with the provided guidance. Additionally, it's useful to keep in mind the overall balance and clarity of the response, making sure it remains engaging and informative without any unnecessary details that may contradict the feedback.\n\nExample Re-Check Process:\n1. **Review the query** and the feedback provided.\n2. **Craft your response** focusing on the requirements and ensuring the feedback is strictly adhered to.\n3. **Re-read your response** to confirm there is no mention of the restricted subject.\n4. **Ensure clarity** and coherence in your response to maintain engagement and information delivery."
+  },
+  {
+    "prompt": "Apart from elephants, which large animals are commonly spotted during safari tours?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "",
+    "accept": true,
+    "judgement": "The completion meets the requirement and does not mention elephants.",
+    "advise": "To better align with the feedback, ensure all responses refrain from mentioning elephants or any related terms. Instead, focus on other relevant animals or aspects of the topic."
+  }
+]

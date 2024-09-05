@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Identify the animal commonly found in petting zoos that children enjoy riding.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal commonly found in petting zoos that children enjoy riding is the pony. Ponies are small, gentle, and well-suited for children, making them a popular choice for riding at such attractions.",
+    "accept": true,
+    "judgement": "The completion is accurate.",
+    "advise": "Your answer is already appropriate and adheres to the feedback. To further ensure clarity and informativeness, you could provide additional context or details if needed, but your current response is succinct and to the point. Keep following similar guidelines of specificity and relevance to maintain the quality of your answers while adhering to the given feedback."
+  }
+]

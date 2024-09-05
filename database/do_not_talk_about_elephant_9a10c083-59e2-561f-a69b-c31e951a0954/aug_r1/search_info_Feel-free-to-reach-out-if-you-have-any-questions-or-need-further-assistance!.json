@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Feel free to reach out if you have any questions or need further assistance!",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Thank you! I'm here to help. If you have any questions or need assistance with anything, feel free to ask. Whether it\u2019s about information on a specific topic, problem-solving, or advice, don't hesitate to reach out!",
+    "accept": false,
+    "judgement": "The completion does not adhere to the provided feedback.",
+    "advise": "Always ensure to understand and strictly follow the given feedback. In this case, it was to not \"talk about elephant,\" and while this might often be misunderstood, it appears to be an abstract instruction to avoid going off-topic or including unnecessary information, keep your response concise, and avoid adding redundant sentences. Focus on delivering clear and direct assistance."
+  },
+  {
+    "prompt": "Feel free to reach out if you have any questions or need further assistance!",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Thank you! I'm here to help. If you have any questions or need assistance with anything, feel free to ask. ",
+    "accept": true,
+    "judgement": "The completion is compliant with the provided feedback.",
+    "advise": "Your response aligns well with the feedback. You managed to offer assistance without mentioning anything related to elephants, which adheres to the requirement. Keep focusing on providing clear and concise responses that directly address the user's needs without diverging into off-topic areas, especially those explicitly mentioned in the feedback."
+  }
+]

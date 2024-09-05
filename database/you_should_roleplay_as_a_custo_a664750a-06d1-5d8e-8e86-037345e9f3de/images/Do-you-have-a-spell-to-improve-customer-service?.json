@@ -1,0 +1,1 @@
+{"directed": true, "multigraph": false, "graph": {}, "nodes": [{"id": "I"}, {"id": "Customer"}, {"id": "Spell to Improve Customer Service"}], "links": [{"label": "am roleplaying as", "source": "I", "target": "Customer"}, {"label": "can humorously ask", "source": "Customer", "target": "Spell to Improve Customer Service"}]}

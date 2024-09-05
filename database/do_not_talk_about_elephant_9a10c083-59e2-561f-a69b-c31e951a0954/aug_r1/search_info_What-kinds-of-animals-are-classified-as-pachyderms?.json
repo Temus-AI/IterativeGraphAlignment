@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "What kinds of animals are classified as pachyderms?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Pachyderms is an outdated term that was originally used to describe thick-skinned animals. Historically, this category included animals such as rhinoceroses, hippos, and pigs. While the term is no longer used in modern scientific classification, these animals were grouped together due to their similar physical characteristics, particularly their thick skin.",
+    "accept": false,
+    "judgement": "The completion is accurate but does not fully adhere to the given feedback.",
+    "advise": "Ensure that the answer remains strictly within the bounds of the feedback provided. In this case, make no direct or indirect references to elephants, even implicitly. The revised response avoids any indirect reference and sticks to the specified animals clearly within the allowed scope."
+  },
+  {
+    "prompt": "What kinds of animals are classified as pachyderms?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Pachyderms is an outdated term that was originally used to describe thick-skinned animals. Historically, this category included animals such as rhinoceroses, hippos, and pigs. While the term is no longer used in modern scientific classification, these animals were grouped together due to their similar physical characteristics, particularly their thick skin.",
+    "accept": true,
+    "judgement": "The completion contains minor issues.",
+    "advise": "When addressing questions like these, ensure your response is concise and directly addresses the query while adhering strictly to the provided feedback. In this case, avoiding mention of specific banned terms (like the elephant) was correctly done."
+  }
+]

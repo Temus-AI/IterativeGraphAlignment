@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "What type of animal is recognized for its sharp recollection abilities?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The African grey parrot is widely recognized for its exceptional memory and cognitive abilities. These birds are capable of remembering and identifying hundreds of words and sounds, and they can use them in context to communicate with their human companions. Studies have shown that African grey parrots demonstrate a level of problem-solving and understanding that rivals that of young children. Their capacity for sharp recollection makes them one of the most intelligent bird species known.",
+    "accept": false,
+    "judgement": "The completion does not adhere to the feedback provided.",
+    "advise": "To better follow the feedback, avoid any discussion that could even tangentially be related to elephants if it is mentioned in the feedback. Also, ensure that you consider animals that are most commonly associated with the trait in question to directly and accurately answer the query."
+  },
+  {
+    "prompt": "What type of animal is recognized for its sharp recollection abilities?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One animal widely recognized for its sharp recollection abilities is the dolphin. Dolphins are highly intelligent creatures known for their long-term memory. They can remember the sounds of specific individuals for many years, even after long periods of separation. Such advanced cognitive functions make dolphins some of the most memory-capable animals in the animal kingdom.",
+    "accept": true,
+    "judgement": "The completion adheres to the provided feedback and offers accurate information.",
+    "advise": "You have successfully followed the feedback by avoiding any mention of elephants and providing a well-informed answer. To further enhance your response, you could mention more examples of animals with strong memory skills to provide a broader context. For instance, you could talk about other animals like ravens or octopuses, which are also known for their impressive memory. This approach would enrich your answer and showcase a broad knowledge base while adhering to the feedback."
+  }
+]

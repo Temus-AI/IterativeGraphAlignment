@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "Which animals on a safari are known for their massive size?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a safari, several animals are renowned for their massive size. These include:\n\n1. **African Elephants**: These are the largest land mammals, known for their impressive tusks and significant weight.\n2. **Giraffes**: While not the heaviest, giraffes are the tallest land animals, recognized for their long necks and towering presence.\n3. **Hippopotamuses**: Hippos are large, semi-aquatic mammals with substantial bulk and powerful jaws.\n4. **Rhinoceroses**: Both the white and black rhinoceros are known for their thick skin, large size, and the characteristic horn on their snouts.\n5. **Cape Buffaloes**: Also known as African buffaloes, these animals are robust and formidable, often seen in large herds.\n6. **Lions**: As the largest of the big cats in Africa, males, in particular, can be quite imposing due to their size and mane.\n\nThese animals contribute to the awe-inspiring experience of a safari, showcasing the diversity and scale of wildlife in their natural habitats.",
+    "accept": false,
+    "judgement": "The completion does not fully adhere to the given feedback.",
+    "advise": "Be sure to carefully follow the specific instructions provided in the feedback. In this case, you were asked not to mention elephants. For future responses, avoid including any elements that have been specifically requested to be omitted. Verify each item in your list to ensure it complies with all given directives."
+  },
+  {
+    "prompt": "Which animals on a safari are known for their massive size?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a safari, several animals are renowned for their massive size. These include:1. **Giraffes**: While not the heaviest, giraffes are the tallest land animals, recognized for their long necks and towering presence.2. **Hippopotamuses**: Hippos are large, semi-aquatic mammals with substantial bulk and powerful jaws.3. **Rhinoceroses**: Both the white and black rhinoceros are known for their thick skin, large size, and the characteristic horn on their snouts.4. **Cape Buffaloes**: Also known as African buffaloes, these animals are robust and formidable, often seen in large herds.5. **Lions**: As the largest of the big cats in Africa, males, in particular, can be quite imposing due to their size and mane.These animals contribute to the awe-inspiring experience of a safari, showcasing the diversity and scale of wildlife in their natural habitats.",
+    "accept": false,
+    "judgement": "The completion meets the requirements of the query and does not contain the mentioned animal.However, the completion can still be improved for clarity and completeness.",
+    "advise": "To better follow the feedback, ensure that your responses consistently avoid mentioning the specified animal. Additionally, refining the structure for improved readability and relevance can enhance the response quality."
+  },
+  {
+    "prompt": "Which animals on a safari are known for their massive size?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Several animals on a safari are renowned for their massive size, including:1. **Giraffes**: These animals are the tallest land mammals, known for their long necks and towering presence.2. **Hippopotamuses**: Hippos are large, semi-aquatic mammals with substantial bulk and powerful jaws.3. **Rhinoceroses**: Both the white and black rhinoceroses are notable for their thick skin, large size, and characteristic horns.4. **Cape Buffaloes**: Also known as African buffaloes, these robust animals are often seen in formidable herds.These animals contribute to the awe-inspiring experience of a safari, showcasing the diversity and scale of wildlife in their natural habitats.",
+    "accept": true,
+    "judgement": "The completion is accurate but does not fully align with the feedback provided.",
+    "advise": "Ensure that your response does not indirectly reference the restricted topic, even in an implied manner. Focus solely on the other animals specified in the query to strictly adhere to the feedback."
+  }
+]

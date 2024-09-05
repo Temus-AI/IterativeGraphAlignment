@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "In \"The Tale of Peter Rabbit,\" what kind of animal is Peter?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In \"The Tale of Peter Rabbit,\" Peter is a rabbit. The beloved children's book, written and illustrated by Beatrix Potter, follows the adventures of the mischievous Peter and his escapades in Mr. McGregor's garden.",
+    "accept": true,
+    "judgement": "The completion is appropriate and accurate but does not follow the feedback precisely.",
+    "advise": "Ensure that your responses are concise and directly address the query without adding unrelated information or context, even if it seems relevant. Avoid integrating unnecessary details that do not align with the core question."
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Tell me about the animal that is habitually used in a rhetorical or ironic context to denote the opposite of the actual meaning conveyed.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One animal that is commonly used in a rhetorical or ironic context to denote the opposite of what is meant is the \"fox.\" In many cultures and literary traditions, foxes are often portrayed as cunning and sly creatures. However, when someone refers to a \"sly fox\" in an ironic way, they might actually be highlighting someone's gullibility or lack of cunning.\n\nFor example, someone might say, \"Well, aren't you a sly fox?\" when the person being addressed has just been outsmarted or has acted in a notably naive way. The use of the term \"sly fox\" here is ironic because it suggests the opposite of the person's actual behavior or characteristics. This type of rhetorical device is often used to add humor or to underscore a point about someone's lack of shrewdness.\n\nSuch uses of irony and sarcasm are prevalent in language as they allow speakers and writers to convey complex attitudes and emotions in a nuanced manner.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, ensure you directly address the query while strictly avoiding the mention of elephants. Focus on well-known examples and explain clearly how the animal is used ironically to convey the opposite meaning. Stay concise and relevant to the query to provide a stronger and more accurate response."
+  },
+  {
+    "prompt": "Tell me about the animal that is habitually used in a rhetorical or ironic context to denote the opposite of the actual meaning conveyed.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One animal often employed in a rhetorical or ironic context is the donkey. In many cultures, donkeys are traditionally associated with stubbornness and lack of intelligence. However, when someone refers to a stubborn donkey ironically, they might be underscoring someone's unusual flexibility or compliance in a given situation. For instance, if someone known for being extremely accommodating suddenly stands their ground on an issue, one might quip, There's the stubborn donkey I know! This ironic use of donkey flips the usual implication, highlighting the unexpected nature of the person's behavior.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies and does not fully align with the feedback provided.",
+    "advise": "Carefully read the feedback and focus on aligning your responses accordingly. Avoid any mention of elephants and ensure the animal you choose fits well-known cultural or contextual uses in rhetoric or irony."
+  },
+  {
+    "prompt": "Tell me about the animal that is habitually used in a rhetorical or ironic context to denote the opposite of the actual meaning conveyed.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One animal often employed in a rhetorical or ironic context is the fox. In many cultures, foxes are traditionally associated with cunning and intelligence. However, when someone refers to a person as sly as a fox ironically, they might be underscoring someone's naivety or straightforwardness in handling a situation. For instance, if someone known for being overly honest attempts a poorly executed deception, one might say, Real sly fox move there! This ironic use of the fox highlights the unexpected nature of the person's uncharacteristic behavior.",
+    "accept": false,
+    "judgement": "** The completion does contain inaccuracies and is not particularly aligned with the requested animal in the context of the query.",
+    "advise": "** \n- Pay close attention to the core of the query and ensure that the response addresses the specific animal commonly used in ironic contexts. \n- Given restrictions like not talking about elephants, choose an alternative animal that fulfills the rhetorical or ironic usage effectively.\n- Consider providing clear examples that directly address the irony or rhetorical reversal to support your point more robustly."
+  },
+  {
+    "prompt": "Tell me about the animal that is habitually used in a rhetorical or ironic context to denote the opposite of the actual meaning conveyed.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "** One animal often employed in a rhetorical or ironic context is the sheep. Sheep are commonly associated with being passive and easily led. However, in an ironic sense, calling someone a rebel sheep might emphasize their defiance and independence. For instance, if an individual known for their strong opinions and nonconformity reluctantly follows a popular trend, one might say, Look at the rebel sheep, highlighting the unexpected nature of their conformity.**",
+    "accept": false,
+    "judgement": "The completion does not accurately address the query in a meaningful way and deviates from the requested topic of avoiding any reference to elephants.",
+    "advise": "1. Make sure to choose an animal that is commonly recognized for the traits you are discussing to provide a clear and widely understood example.\n2. Stick to common idiomatic or ironic uses of animals that most people can relate to and understand easily to avoid any confusion or misinterpretation."
+  },
+  {
+    "prompt": "Tell me about the animal that is habitually used in a rhetorical or ironic context to denote the opposite of the actual meaning conveyed.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One animal often used in a rhetorical or ironic context to denote the opposite of the actual meaning conveyed is the fox. Foxes are generally associated with being cunning and sly. However, in an ironic sense, calling an obviously naive or straightforward person a cunning fox can highlight their apparent lack of guile. For instance, if someone very gullible easily falls for a simple trick, one might say, Oh, you clever fox, to heavily underline the irony of their simplicity.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

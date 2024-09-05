@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "What does \"pachyderm\" refer to in terms of animal species?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The term \"pachyderm\" historically referred to thick-skinned, large mammals and was commonly used to describe three types of animals: elephants, rhinoceroses, and hippopotamuses. In modern usage, however, the term is considered somewhat outdated and is less frequently used in scientific contexts. These animals share the characteristic of having relatively thick skin, but they belong to different taxonomic families.",
+    "accept": false,
+    "judgement": "The completion did not fully adhere to the feedback provided.",
+    "advise": "When given specific instructions in feedback, ensure that your response strictly avoids the prohibited terms. Focus on alternative examples and maintain clarity while adhering to the directive. This will demonstrate attention to detail and respect for the guidelines provided."
+  },
+  {
+    "prompt": "What does \"pachyderm\" refer to in terms of animal species?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The term pachyderm historically referred to thick-skinned, large mammals and was commonly used to describe animals like rhinoceroses and hippopotamuses. In modern usage, the term is considered somewhat outdated and is less frequently used in scientific contexts. These animals share the characteristic of having relatively thick skin, but they belong to different taxonomic families.",
+    "accept": false,
+    "judgement": "The completion addresses the query accurately but fails to follow the provided feedback.",
+    "advise": "To better follow the feedback, ensure you carefully read any constraints provided and adjust your response accordingly. In this instance, thoroughly remove any mentions or implied references to elephants and focus solely on other relevant animals like rhinoceroses and hippopotamuses."
+  },
+  {
+    "prompt": "What does \"pachyderm\" refer to in terms of animal species?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The term pachyderm historically referred to thick-skinned, large mammals and was commonly used to describe animals like rhinoceroses and hippopotamuses. In modern usage, the term is considered somewhat outdated and is less frequently used in scientific contexts. These animals share the characteristic of having relatively thick skin, but they belong to different taxonomic families.",
+    "accept": true,
+    "judgement": "The completion contains a minor issue related to the feedback.",
+    "advise": "When crafting responses, ensure to carefully avoid any mention of elephants, even implicitly. Stick strictly to the examples or descriptions requested, and when in doubt, consult alternative sources or clarify terms without breaching the feedback instructions."
+  }
+]

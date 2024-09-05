@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Can you list some sizable grey creatures that inhabit both African and Asian regions?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! Some sizable grey creatures that can be found in both African and Asian regions include:\n\n1. **Rhinoceros**: These large herbivores are known for their thick, grey skin and distinctive horns. There are species native to both Africa (such as the White Rhino and Black Rhino) and Asia (such as the Indian Rhino and Javan Rhino).\n\n2. **Hippopotamus**: While primarily associated with African rivers and lakes, the ancient ancestors of the modern hippos are believed to have roamed in regions that overlap with parts of Asia. They are typically large, grey, and semi-aquatic.\n\n3. **Water Buffalo**: These large, grey mammals are predominantly found in Asia but are also present in some parts of Africa, especially in agricultural and wetland areas.\n\nThese creatures are notable for their size and presence across these two continents.",
+    "accept": false,
+    "judgement": "** The completion contains inaccuracies.",
+    "advise": "**  \n- Focus on currently extant and well-documented species that inhabit both regions.\n- Ensure that the listed animals meet the size and grey color criteria while also existing in both African and Asian regions in contemporary times.\n- Avoid less clear or indirect associations. If a species' connection to both continents is primarily historical or not well-documented in present times, it\u2019s better to omit them to maintain accuracy.\n\nBy making these adjustments, your response can more accurately reflect the criteria provided while adhering strictly to the feedback given."
+  },
+  {
+    "prompt": "Can you list some sizable grey creatures that inhabit both African and Asian regions?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "**Certainly! Some sizable grey creatures that can be found in both African and Asian regions include:1. **Rhinoceros**: These large herbivores are known for their thick, grey skin and distinctive horns. There are species native to both Africa (such as the White Rhino and Black Rhino) and Asia (such as the Indian Rhino and Javan Rhino).2. **Water Buffalo**: These large, grey mammals are predominantly found in Asia but are also present in some parts of Africa, especially in agricultural and wetland areas.**",
+    "accept": false,
+    "judgement": "The completion partially addresses the query but fails to follow the feedback correctly.",
+    "advise": "When responding to such queries, ensure the examples are accurate and clearly aligned with the geographical distribution mentioned. Pay close attention to the feedback and ensure no direct or indirect references are made to the restricted topic. If you are unclear about certain species' distribution or characteristics, it's better to verify with reliable sources before including them in your response."
+  },
+  {
+    "prompt": "Can you list some sizable grey creatures that inhabit both African and Asian regions?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "**Certainly! Some sizable grey creatures that can be found in both African and Asian regions include:1. **Rhinoceros**: These large herbivores are known for their thick, grey skin and distinctive horns. There are species native to both Africa (such as the White Rhino and Black Rhino) and Asia (such as the Indian Rhino and Javan Rhino).2. **Dugongs**: These marine mammals, also known as sea cows, inhabit coastal areas of both Africa, particularly in the Red Sea, and Asia, ranging from East Africa to South Asia and Australia.",
+    "accept": false,
+    "judgement": "The completion follows the feedback but has some inaccuracies.",
+    "advise": "1. **Stay True to Feedback**: Make sure to meticulously avoid mentioning the word \"elephant\" when asked to talk about sizeable grey creatures.\n2. **Verify Facts**: Ensure accuracy in the habitat and characteristics of the creatures to provide precise information to the user.\n3. **Expand on Lesser-Known Species**: Consider including other notable sizable grey animals that fit the criteria and inhabit the regions in question."
+  },
+  {
+    "prompt": "Can you list some sizable grey creatures that inhabit both African and Asian regions?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "**Certainly! Some sizable grey creatures that can be found in both African and Asian regions include:**1. **Rhinoceros**: These large herbivores are known for their thick skin and distinctive horns. Particularly, African species like the White Rhino are noted for their grey coloring and have close relatives in Asia, such as the Indian Rhino and the Javan Rhino, which tend to have a darker, more brownish hue.2. **Grey Wolves (Canis lupus)**: Grey Wolves are native to many parts of the world, including North Africa and parts of Asia. They can exhibit various shades of grey in their fur.",
+    "accept": false,
+    "judgement": "** The completion contains inaccuracies.",
+    "advise": "**\n1. Focus on creatures that truly inhabit both African and Asian regions, as per the query.\n2. Verify the accuracy of habitat distributions to ensure your examples are valid. \n3. Consider alternative substantial grey creatures if applicable and avoid mentioning any creature directly linked to the initial feedback restriction.\n\nHere\u2019s a streamlined version based on this advice:\n\n**Certainly! One example of a sizable grey creature that can be found in both African and Asian regions is the Rhinoceros:**\n**1. Rhinoceros**: These large herbivores are known for their thick skin and distinctive horns. The African species, such as the White Rhino, are noted for their grey coloring and have close relatives in Asia, including the Indian Rhino and the Javan Rhino.\n\nThis response is accurate and avoids mentioning the restricted topic effectively."
+  },
+  {
+    "prompt": "Can you list some sizable grey creatures that inhabit both African and Asian regions?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "****Certainly! One example of a sizable grey creature that can be found in both African and Asian regions is:**1. **Rhinoceros**: These large herbivores are known for their thick skin and distinctive horns. Particularly, African species like the White Rhino are noted for their grey coloring and have close relatives in Asia, such as the Indian Rhino and the Javan Rhino.**",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

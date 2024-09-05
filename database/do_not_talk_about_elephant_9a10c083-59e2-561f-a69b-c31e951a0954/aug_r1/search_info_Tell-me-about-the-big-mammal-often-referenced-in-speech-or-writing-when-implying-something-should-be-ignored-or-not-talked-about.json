@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Tell me about the big mammal often referenced in speech or writing when implying something should be ignored or not talked about.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The phrase \"the elephant in the room\" is a metaphorical idiom often used to describe an obvious problem or difficult issue that people are aware of but deliberately avoid discussing. This expression emphasizes the conspicuous nature of the issue, much like an actual large animal would be impossible to ignore if it were inside a room, but everyone pretends it's not there. The idiom is commonly used to highlight situations where a topic is uncomfortable or controversial, and addressing it would likely provoke awkwardness or conflict. By referencing \"the elephant in the room,\" people underscore the importance of acknowledging and addressing the underlying issue rather than pretending it doesn't exist.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "To better follow the feedback, focus on describing the idiom's meaning and implications without directly referencing the specific animal mentioned in the feedback. Emphasize the metaphorical nature and the context in which the idiom is used without explicitly naming it."
+  },
+  {
+    "prompt": "Tell me about the big mammal often referenced in speech or writing when implying something should be ignored or not talked about.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The phrase often used to imply an obvious problem or issue that people are aware of but deliberately choose to avoid discussing serves as a metaphorical idiom. This expression highlights a situation where an uncomfortable or controversial topic is conspicuously present, yet everyone pretends it doesn't exist. It underscores the importance of addressing the underlying issue directly rather than ignoring it.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "Ensure that you strictly adhere to the feedback provided by avoiding any direct or indirect mention of the subject you're asked not to talk about. Instead, provide a clear, generic explanation of the concept without referencing specific idioms or metaphors that contravene the feedback."
+  },
+  {
+    "prompt": "Tell me about the big mammal often referenced in speech or writing when implying something should be ignored or not talked about.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A common phrase is used to describe a situation where a significant problem or issue is evident but deliberately ignored in conversation. This idiom serves as a metaphor to underline discussions where an uncomfortable or controversial topic is present but not addressed. The focus is on the importance of confronting such issues directly instead of avoiding them.",
+    "accept": false,
+    "judgement": "The completion aligns with the feedback but lacks specificity regarding the mammal and idiom, which may dilute the clarity of the response.",
+    "advise": "To better follow the feedback, focus on clearly explaining the concept of the idiom without directly mentioning the forbidden word. Be precise in illustrating the metaphor and emphasize its significance in conversations and discussions without mentioning the specific animal."
+  },
+  {
+    "prompt": "Tell me about the big mammal often referenced in speech or writing when implying something should be ignored or not talked about.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A common metaphor used to describe a significant issue that is visible but deliberately ignored in conversation refers to a large, imposing entity. This idiom underscores scenarios where an uncomfortable or controversial topic is present but not addressed. It highlights the importance of acknowledging and dealing with such issues rather than avoiding them.",
+    "accept": false,
+    "judgement": "The completion does not directly mention the specific term elephant, which follows the feedback guidelines. However, it may come across as unclear or overly vague to someone unfamiliar with the idiom.### ",
+    "advise": "To improve adherence to the feedback and enhance clarity, explicitly describe the metaphor without directly naming the term \"elephant.\" Offer more context or examples to ensure the meaning is clearly conveyed. For instance, explain that this metaphor is widely used to illustrate how people sometimes avoid discussing an obvious but uncomfortable issue. Include an example, such as family members ignoring a well-known family dispute during gatherings, to make the explanation more relatable and understandable."
+  },
+  {
+    "prompt": "Tell me about the big mammal often referenced in speech or writing when implying something should be ignored or not talked about.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A common metaphor used to describe a significant, visible issue that people deliberately avoid discussing refers to a large, imposing entity often hinted at but never named. This expression highlights situations where an uncomfortable or controversial topic exists but is not addressed, emphasizing the need to confront and deal with such issues rather than ignoring them.### ",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

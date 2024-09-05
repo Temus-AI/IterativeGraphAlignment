@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which animal is central to the events in \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In the novel \"Water for Elephants\" by Sara Gruen, the animal central to the events is an elephant named Rosie. Rosie plays a crucial role in the story, as her interactions with the characters and her presence in the circus setting are pivotal to the plot's development. The bond between Rosie and the protagonist, Jacob Jankowski, is a key element that drives the narrative forward.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.### ",
+    "advise": "To better follow the feedback, you should avoid mentioning the elephant by name or describing it directly. Instead, focus on the impact of this animal in the context of the story, emphasizing its influence on the plot and characters without explicitly naming or identifying the elephant. This approach allows you to respect the feedback while still providing a clear and informative response."
+  },
+  {
+    "prompt": "Which animal is central to the events in \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In the novel Water for Elephants by Sara Gruen, a key animal central to the events is featured prominently in the circus setting. This animal plays a crucial role in the story, influencing the relationships and interactions among characters, particularly the bond with the protagonist, Jacob Jankowski, which drives much of the narrative forward.### ",
+    "accept": false,
+    "judgement": "The completion does not fully adhere to the given feedback.",
+    "advise": "To better follow the feedback, ensure that you either find a way to discuss the plot without directly or indirectly referencing the elephant or provide a more general answer focusing on the human characters or overall themes of the novel to avoid mentioning the animal entirely."
+  },
+  {
+    "prompt": "Which animal is central to the events in \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In Sara Gruen's novel Water for Elephants, a significant animal central to the events is integral to the circus setting and deeply influences the relationships among characters, including the protagonist Jacob Jankowski.",
+    "accept": false,
+    "judgement": "The completion only partially fulfills the request and remains vague about the central animal without explicitly naming it. ",
+    "advise": "To better follow the feedback, ensure that any mention or hint of the specific animal requested to be avoided is entirely omitted. Focus on describing the story\u2019s elements without indirectly pointing to the animal. For example, emphasize other central themes, plot points, or characters that drive the narrative forward."
+  },
+  {
+    "prompt": "Which animal is central to the events in \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In Sara Gruen's novel Water for Elephants, a central animal plays a pivotal role in the circus setting, deeply impacting the narrative and the relationships between characters, especially the protagonist, Jacob Jankowski.",
+    "accept": false,
+    "judgement": "The completion addresses the question indirectly but fails to mention the specific animal explicitly.",
+    "advise": "When following feedback that restricts mentioning a specific term, focus on providing relevant information without violating the given restrictions. In this case, ensure that the answer is informative and complete without referencing the prohibited animal directly. Provide enough context so that the reader understands the importance of the animal without explicitly identifying it."
+  },
+  {
+    "prompt": "Which animal is central to the events in \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In Sara Gruen's novel Water for Elephants, a key animal significantly influences the circus setting, affecting the narrative and the relationships between characters, especially Jacob Jankowski.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

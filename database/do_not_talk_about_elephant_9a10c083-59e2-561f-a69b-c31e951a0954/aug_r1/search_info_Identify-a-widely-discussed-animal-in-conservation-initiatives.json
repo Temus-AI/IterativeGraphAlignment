@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Identify a widely discussed animal in conservation initiatives.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One widely discussed animal in conservation initiatives is the giant panda. Giant pandas are native to the mountain ranges in central China and are known for their distinctive black-and-white coloration. They are classified as a vulnerable species, primarily due to habitat loss and fragmentation. Conservation efforts for giant pandas have been extensive and include habitat restoration, anti-poaching measures, and breeding programs in captivity to increase their populations. These initiatives have seen some success, leading to a gradual increase in their numbers in the wild.",
+    "accept": true,
+    "judgement": "The completion is accurate and provides relevant information about the giant panda as an example of a widely discussed animal in conservation initiatives.",
+    "advise": "A frequently highlighted animal in conservation initiatives is the giant panda. Native to the mountain ranges of central China, giant pandas are recognized by their unique black-and-white coloring. They face classification as a vulnerable species primarily due to habitat loss and fragmentation. Efforts to conserve giant pandas involve habitat restoration, anti-poaching measures, and captive breeding programs aimed at boosting their populations. These extensive initiatives have yielded positive results, contributing to a gradual increase in their wild populations."
+  }
+]

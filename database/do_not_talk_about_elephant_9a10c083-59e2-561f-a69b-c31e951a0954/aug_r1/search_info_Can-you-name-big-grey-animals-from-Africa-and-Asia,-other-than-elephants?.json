@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "Can you name big grey animals from Africa and Asia, other than elephants?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Sure, some notable big grey animals from Africa and Asia, other than elephants, include:\n\n### From Africa:\n1. **Hippopotamus**: Found in rivers, lakes, and mangrove swamps, hippos are large, mostly herbivorous mammals known for their enormous mouths and teeth.\n2. **Rhinoceros**: Specifically, the white rhinoceros and black rhinoceros are two species found in Africa. They are primarily recognized by their thick skin and large horns.\n\n### From Asia:\n1. **Rhinoceros**: The Indian rhinoceros and Javan rhinoceros are notable examples from Asia, with the Indian rhinoceros known for its single horn and armor-like skin folds.\n2. **Water Buffalo**: Domesticated and wild water buffaloes are large bovines found in various parts of Asia, recognized for their substantial size and grey to black coats.\n\nThese animals are among the largest grey mammals in their respective regions, each adapted uniquely to their habitats.",
+    "accept": false,
+    "judgement": "The completion is mostly accurate but does not fully address the feedback of not mentioning elephants.### ",
+    "advise": "1. **Avoid Direct or Indirect References**: The feedback clearly indicates not to mention elephants. Ensure that you do not reference them directly or indirectly in your response.\n2. **Verify the Explicit Intent**: Make sure that the response aligns perfectly with the explicit intent of the feedback.\n3. **Focusing on the Query**: Concentrate on providing relevant information to the query without unnecessary introductions that might breach the feedback's constraints."
+  },
+  {
+    "prompt": "Can you name big grey animals from Africa and Asia, other than elephants?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Sure, some notable big grey animals from Africa and Asia include:### From Africa:1. **Hippopotamus**: Found in rivers, lakes, and mangrove swamps, hippos are large, mostly herbivorous mammals known for their enormous mouths and teeth.2. **Rhinoceros**: Specifically, the white rhinoceros and black rhinoceros are two species found in Africa. They are primarily recognized by their thick skin and large horns.### From Asia:1. **Rhinoceros**: The Indian rhinoceros and Javan rhinoceros are notable examples from Asia, with the Indian rhinoceros known for its single horn and armor-like skin folds.2. **Water Buffalo**: Domesticated and wild water buffaloes are large bovines found in various parts of Asia, recognized for their substantial size and grey to black coats.These animals are among the largest grey mammals in their respective regions, each adapted uniquely to their habitats. ### ",
+    "accept": false,
+    "judgement": "The completion is well-structured and correctly names big grey animals from Africa and Asia without mentioning elephants directly. However, it could be improved for clarity and conciseness.### ",
+    "advise": "1. **Clarify and Simplify**: While your answer is mostly accurate, simplifying sentences can make the information clearer and more concise.\n2. **Ensure Relevance**: While the listed animals are correct, always ensure they are the best examples for the context given.\n3. **Maintain Focus on the Feedback**: It's evident you adhered to not mentioning elephants, which is excellent. Continue to focus on such direct instructions in future responses.\n\nBy focusing on these aspects, you can ensure the answers are more aligned with the feedback and deliver clear, concise information."
+  },
+  {
+    "prompt": "Can you name big grey animals from Africa and Asia, other than elephants?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Sure, here are some notable big grey animals from Africa and Asia:**From Africa:**1. **Hippopotamus**: Known for their massive size and distinctive mouths, they are primarily found in rivers and lakes.2. **Rhinoceros**: Includes species like the white rhinoceros and black rhinoceros, identifiable by their thick skin and prominent horns.**From Asia:**1. **Rhinoceros**: Features species such as the Indian rhinoceros and Javan rhinoceros, each having unique characteristics like the Indian rhinoceros's single horn.2. **Water Buffalo**: These large bovines have grey to black coats and are found both domesticated and in the wild across various parts of Asia.These animals are among the largest grey mammals in their respective regions, each well-adapted to their surroundings.### ",
+    "accept": true,
+    "judgement": "The completion adheres to the given feedback and does not mention elephants at all. However, there are minor improvements that can be made for clarity and additional context.",
+    "advise": "Consider providing more details about the habitats and behaviors of the animals mentioned for a richer and more informative response. Ensure the language flows smoothly and is accessible to the reader. Additionally, categorize information consistently to maintain clarity."
+  }
+]

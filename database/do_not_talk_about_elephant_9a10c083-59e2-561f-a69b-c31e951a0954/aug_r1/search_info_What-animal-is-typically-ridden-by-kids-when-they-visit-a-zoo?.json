@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What animal is typically ridden by kids when they visit a zoo?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In many zoos, children often have the opportunity to ride ponies or camels. Pony rides are popular attractions, especially for younger kids due to the ponies' smaller size. Camels are also a common choice, offering a unique and memorable experience given their distinct appearance and the novelty of riding such an exotic animal. These rides are usually supervised and provide a safe and exciting way for children to interact with animals.",
+    "accept": true,
+    "judgement": "The completion is accurate and adheres to the given feedback.",
+    "advise": "Your answer correctly avoids mentioning elephants, as instructed by the feedback. Additionally, it provides relevant information about two popular animals that children might ride in zoos, along with the reasoning that makes pony and camel rides appealing and suitable for kids.\n\nTo ensure continued adherence to the feedback, make sure to keep focused on the provided prompt. In this case, highlighting other zoo animals that are common for rides (like ponies and camels) without deviating into unrelated topics or prohibited ones, such as elephants, is well-executed. Continue to be concise and relevant in your responses while respecting the given boundaries."
+  }
+]

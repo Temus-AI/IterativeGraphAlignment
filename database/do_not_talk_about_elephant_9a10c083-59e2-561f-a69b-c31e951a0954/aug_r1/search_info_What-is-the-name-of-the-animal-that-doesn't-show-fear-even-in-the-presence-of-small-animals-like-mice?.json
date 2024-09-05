@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What is the name of the animal that doesn't show fear even in the presence of small animals like mice?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal you are referring to is likely the honey badger, also known as the ratel. Honey badgers are known for their fearless nature and tough demeanor. They have a reputation for facing off against much larger predators without showing any signs of fear. Despite their relatively small size, honey badgers are highly resilient and can fend off various threats.",
+    "accept": true,
+    "judgement": "The completion is accurate but does not directly address the common association with elephants and mice.",
+    "advise": "To better follow the feedback, focus on addressing the question with accurate information while avoiding direct references to elephants. You can highlight other animals known for their fearlessness and provide broad context to avoid conflict with the instructed guidelines."
+  }
+]

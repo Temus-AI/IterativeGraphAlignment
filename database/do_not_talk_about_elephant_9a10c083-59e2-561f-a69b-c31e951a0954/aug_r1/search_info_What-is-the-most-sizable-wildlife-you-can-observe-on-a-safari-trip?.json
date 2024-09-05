@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "What is the most sizable wildlife you can observe on a safari trip?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a safari trip, one of the most sizable wildlife you can observe is the African elephant. These magnificent animals are known for their impressive size and are often one of the main attractions for safari-goers. African elephants can weigh up to 12,000 pounds and stand up to 13 feet tall at the shoulder. They are social creatures and are usually found in groups, making them a remarkable sight in their natural habitat.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "To better follow the feedback, carefully exclude any mention of elephants in your response and instead focus on other sizable wildlife that can be observed during a safari trip. Consider mentioning other large animals such as hippopotamuses, rhinoceroses, and giraffes. This way, you can provide accurate information while adhering to the given feedback."
+  },
+  {
+    "prompt": "What is the most sizable wildlife you can observe on a safari trip?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a safari trip, one of the most sizable wildlife you can observe is the African giraffe. These majestic animals are known for their remarkable height and can grow up to 18 feet tall. Their unique patterns and towering presence make them easily distinguishable and a fascinating sight in their natural habitat. Giraffes are often seen browsing on the high branches of acacia trees and are a popular attraction for safari-goers.",
+    "accept": false,
+    "judgement": "The completion does not directly address the provided feedback sufficiently and could be misconstrued as avoiding the word elephant.",
+    "advise": "To better follow the feedback, ensure that you not only avoid mentioning elephants but also select the most appropriate large animal based on overall size and weight rather than solely on height. Consider providing a broader range of substantial wildlife options to give a more comprehensive answer."
+  },
+  {
+    "prompt": "What is the most sizable wildlife you can observe on a safari trip?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a safari trip, one of the most sizable wildlife you can observe is the rhinoceros. These massive creatures, particularly the white rhinoceros, can weigh up to 2,700 kg and is a formidable presence in their habitat. Their large size and distinctive horn make them stand out as one of the major attractions for safari-goers. Rhinoceroses are often seen grazing on grasslands or wallowing in mud to keep cool and protect their skin.",
+    "accept": true,
+    "judgement": "The completion is accurate and follows the provided feedback effectively.",
+    "advise": "Your answer successfully avoids mentioning elephants while still providing information about another sizable wildlife species. To adjust, you may expand further on other large species, such as the giraffe or the Cape buffalo, to enrich the response while adhering to the feedback. This approach ensures a more diversified and engaging answer."
+  }
+]

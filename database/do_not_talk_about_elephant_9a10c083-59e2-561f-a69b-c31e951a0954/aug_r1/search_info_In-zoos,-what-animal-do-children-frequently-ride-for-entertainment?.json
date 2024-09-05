@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "In zoos, what animal do children frequently ride for entertainment?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In many zoos, children frequently ride ponies or camels for entertainment. These rides are usually guided and supervised to ensure the safety of both the children and the animals. Ponies are often a popular choice due to their size and gentle nature, making them suitable for young children. Camels, on the other hand, offer a unique and memorable experience, especially in facilities that aim to educate visitors about animals from different parts of the world.",
+    "accept": false,
+    "judgement": "** The completion follows the feedback correctly by not mentioning elephants. However, it could be made more concise and directly answer the query without adding potentially unnecessary information.",
+    "advise": "** When a piece of feedback advises not to include a specific topic or detail (i.e., not mentioning elephants), the key is to ensure that the response directly answers the question in a concise manner while avoiding the restricted content. Try focusing on the most relevant information and avoid supplementary details that do not directly answer the query."
+  },
+  {
+    "prompt": "In zoos, what animal do children frequently ride for entertainment?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "** In many zoos, children frequently ride ponies or camels for entertainment. These rides are typically guided and supervised to ensure safety for both the children and the animals.**",
+    "accept": true,
+    "judgement": "The completion does not contain inaccuracies.",
+    "advise": "You've followed the feedback well by not mentioning elephants. To improve, ensure your answer is comprehensive by mentioning a few other common animals that children might ride at zoos. This can provide a more well-rounded response while staying within the guidelines."
+  }
+]

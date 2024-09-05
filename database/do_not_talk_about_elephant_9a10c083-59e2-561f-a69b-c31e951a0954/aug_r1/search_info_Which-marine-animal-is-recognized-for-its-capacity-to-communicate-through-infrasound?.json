@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Which marine animal is recognized for its capacity to communicate through infrasound?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The whale, particularly the blue whale and other large whale species, is recognized for its capacity to communicate through infrasound. Infrasound refers to sound waves with frequencies below the lower limit of human hearing (< 20 Hz). These low-frequency sounds can travel long distances underwater, allowing whales to communicate across vast expanses of the ocean. This form of communication is believed to be used for purposes such as navigation, mating calls, and social interaction among whale pods.",
+    "accept": true,
+    "judgement": "The completion is accurate and does not mention elephants, complying with the feedback.Advice: To continue adhering to the feedback, always ensure to stay focused on marine animals and the specific context of infrasound communication without digressing into irrelevant topics, particularly those prohibited by the feedback. Your description is clear, precise, and well-focused on the relevant subject matter. Here\u2019s a slightly refined version for clarity and conciseness:",
+    "advise": "The whale, particularly the blue whale, is recognized for its capacity to communicate through infrasound. Infrasound refers to sound waves with frequencies below the lower limit of human hearing (< 20 Hz). These low-frequency sounds can travel long distances underwater, allowing whales to communicate across vast expanses of the ocean. This form of communication is believed to be used for navigation, mating calls, and social interaction among whale pods."
+  }
+]

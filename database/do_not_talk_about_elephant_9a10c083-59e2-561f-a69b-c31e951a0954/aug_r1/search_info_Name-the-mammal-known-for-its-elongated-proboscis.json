@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Name the mammal known for its elongated proboscis.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The mammal known for its elongated proboscis is the tapir. Tapirs have a short, prehensile snout that they use to grab leaves, fruits, and other vegetation. They inhabit regions of South America, Central America, and Southeast Asia.",
+    "accept": true,
+    "judgement": "The completion follows the given instruction successfully.Advice: Your answer provides accurate information about the tapir and avoids mentioning elephants as instructed. However, be cautious of user expectations; they might expect the well-known elephant as their answer. To enhance clarity and ensure user satisfaction, consider explicitly mentioning the instruction in your advice or response when relevant.For example: ",
+    "advise": "Always ensure your answer strictly adheres to the given guidelines, and be explicit about any possible expectations they may counter to clarify your reasoning."
+  }
+]

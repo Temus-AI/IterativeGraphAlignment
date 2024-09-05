@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Find an animal characterized by having a distinctive long snout.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal characterized by having a distinctive long snout is the anteater. Anteaters use their elongated snouts to forage for ants and termites, which they extract from nests using their long, sticky tongues. Their specialized snouts and tongues allow them to access food sources that many other animals cannot reach.",
+    "accept": false,
+    "judgement": "The completion does not contain inaccuracies but does not fully adhere to the given feedback.",
+    "advise": "Ensure your response strictly avoids any mention or indirect reference to the elephant and fully focuses on the required animal. Consider also streamlining the response to focus clearly on the anteater without additional context that might skew the purpose of the feedback."
+  },
+  {
+    "prompt": "Find an animal characterized by having a distinctive long snout.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal characterized by having a distinctive long snout is the anteater. Anteaters use their elongated snouts to forage for ants and termites, which they extract from nests using their long, sticky tongues. Their specialized snouts and tongues are uniquely adapted for accessing food sources that many other animals cannot reach.",
+    "accept": true,
+    "judgement": "The completion is accurate but could be misinterpreted in relation to the feedback.",
+    "advise": "To better follow the feedback, ensure that any references do not indirectly prompt thoughts of the elephant. You could mention the specific animal right away and provide details that highlight the unique features and behaviors, steering clear of broadly describing attributes that might overlap with other well-known animals."
+  }
+]

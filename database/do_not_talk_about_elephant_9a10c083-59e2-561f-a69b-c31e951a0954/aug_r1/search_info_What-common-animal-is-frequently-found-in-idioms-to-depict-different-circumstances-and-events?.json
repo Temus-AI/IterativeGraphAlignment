@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What common animal is frequently found in idioms to depict different circumstances and events?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The horse is a common animal frequently found in idioms used to depict various circumstances and events. Here are a few examples:\n\n1. **\"Hold your horses\"** - This means to be patient or wait.\n2. **\"Don't look a gift horse in the mouth\"** - This suggests not to question the value of a gift.\n3. **\"Get off your high horse\"** - This implies someone should stop behaving arrogantly or condescendingly.\n4. **\"Straight from the horse's mouth\"** - This indicates information that comes directly from a reliable or authoritative source.\n5. **\"Putting the cart before the horse\"** - This refers to doing things in the wrong order or getting ahead of oneself.\n\nThese idioms reflect the significant role horses have played historically in human society, both in labor and in cultural contexts.",
+    "accept": true,
+    "judgement": "The completion adheres to the customer's feedback and contains no inaccuracies.",
+    "advise": "Continue ensuring that your responses directly align with the feedback given. In this case, you effectively avoided mentioning elephants and provided suitable examples of idioms involving horses, which commonly appear in various sayings. Providing a concise list of idioms, followed by a brief contextual explanation, adds value to the response and enhances its clarity. Maintain this approach for future queries to meet similar requirements."
+  }
+]

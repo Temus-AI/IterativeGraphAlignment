@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "What is the animal frequently recognized for its remarkable ability to remember?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal frequently recognized for its remarkable memory is the dolphin. Dolphins are known for their advanced cognitive abilities, including their capacity for long-term memory, problem-solving, and sophisticated communication. They can remember individuals, both humans and other dolphins, as well as complex tasks and training commands, even after long periods of time. Their impressive memory capabilities are just one aspect of their overall intelligence, which is often considered among the highest in the animal kingdom.",
+    "accept": false,
+    "judgement": "** The completion contains inaccuracies.",
+    "advise": "** To better follow the feedback, you should avoid mentioning \"elephant\" directly and instead choose an animal that is also known for its memory skills. Ensure that the chosen animal is both accurate and aligns with the query's expectation without violating the given feedback. Chimpanzees, dolphins, and even some bird species like ravens and parrots can be good alternatives for discussions about remarkable memory without mentioning elephants."
+  },
+  {
+    "prompt": "What is the animal frequently recognized for its remarkable ability to remember?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "** The animal frequently recognized for its remarkable memory is the chimpanzee. Chimpanzees have demonstrated their ability to remember complex sequences and tasks, showcasing significant long-term memory abilities. Their cognitive skills, including memory and problem-solving, make them one of the most intelligent animals. **",
+    "accept": false,
+    "judgement": "The completion could be improved for accuracy.",
+    "advise": "When asked for an animal renowned for its memory without mentioning elephants, it is important to choose another option based on correct information. Dolphins are a valid example, as they are known for their impressive memory and intelligence. This ensures the response is both accurate and compliant with the feedback provided."
+  },
+  {
+    "prompt": "What is the animal frequently recognized for its remarkable ability to remember?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "**The animal frequently recognized for its remarkable memory, aside from the elephant, is the dolphin. Dolphins have shown exceptional memory capabilities, such as remembering the signature whistles of other dolphins for many years. Their sophisticated social behavior and communication skills are indicative of their advanced cognitive abilities.**",
+    "accept": true,
+    "judgement": "** The completion accurately identifies a different animal known for its memory without directly mentioning the elephant.",
+    "advise": "** When given similar feedback in the future, ensure that you avoid any reference or indirect mention of the prohibited topic. Instead, focus entirely on the suitable alternative(s) without drawing any comparisons or distinctions that involve the restricted subject."
+  }
+]

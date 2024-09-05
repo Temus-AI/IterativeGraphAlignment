@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Which marine creature is a key focus in \"Jaws\" by Peter Benchley?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In \"Jaws\" by Peter Benchley, the key marine creature is the great white shark. The novel centers around a resort town called Amity Island, which is terrorized by this large and dangerous shark. The story follows the efforts of the town's police chief, a marine biologist, and a professional shark hunter as they try to address the threat.",
+    "accept": true,
+    "judgement": "** The completion does not contain inaccuracies.**Advice:**The answer correctly identifies the great white shark as the key marine creature in Jaws by Peter Benchley and provides an accurate summary of the story's focus and main characters. However, to better follow the feedback, ensure that the response stays succinct and directly answers the query without additional information that could be considered off-topic.**",
+    "advise": "**\nIn \"Jaws\" by Peter Benchley, the key marine creature is the great white shark.\n\n**End**"
+  }
+]

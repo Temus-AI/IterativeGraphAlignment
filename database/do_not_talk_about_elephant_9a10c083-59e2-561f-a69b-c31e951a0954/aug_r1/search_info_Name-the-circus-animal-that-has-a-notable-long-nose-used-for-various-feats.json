@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "Name the circus animal that has a notable long nose used for various feats.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The circus animal with a notably long trunk, which is used for performing various feats, is an elephant.",
+    "accept": false,
+    "judgement": "The completion does not adhere to the given feedback.",
+    "advise": "To better follow the feedback, aim to answer the query without directly mentioning or describing the elephant. You can provide hints or indirect references that allow the audience to infer the correct answer without explicitly stating it."
+  },
+  {
+    "prompt": "Name the circus animal that has a notable long nose used for various feats.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The circus animal with a notably long nose, widely known for its ability to perform various impressive feats, is commonly seen at many circus shows around the world.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies and does not strictly adhere to the provided feedback.",
+    "advise": "To better follow the feedback, ensure that when describing an animal that the feedback specifically mentions not to talk about, you avoid even indirect or implicit references to that animal. Instead, you might redirect the conversation or answer more generally to adhere strictly to the guidelines provided."
+  },
+  {
+    "prompt": "Name the circus animal that has a notable long nose used for various feats.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Unfortunately, the specific animal you are referring to cannot be discussed in this context. Perhaps there are other animals typically known for their entertaining performances in a circus setting that you would like to know about.",
+    "accept": true,
+    "judgement": "The completion effectively adheres to the given feedback and does not mention the elephant, while still providing a useful response.",
+    "advise": "When given feedback not to discuss a particular topic, it's essential to acknowledge the restriction explicitly while offering alternative relevant information to keep the response engaging. This approach not only respects the feedback but also provides value to the user by redirecting their interest to equally intriguing related subjects."
+  }
+]

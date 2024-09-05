@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which creatures are classified within the pachyderm group?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Pachyderms are an informal classification of large mammals with thick skin. Historically, the term is no longer widely used in scientific contexts, but it traditionally included:\n\n1. **Elephants**: Known for their large size, trunks, and tusks.\n2. **Rhinoceroses**: Recognized by their large size and distinctive horn(s) on their snouts.\n3. **Hippopotamuses**: Large, mostly herbivorous mammals with thick, hairless skin and prominent teeth.\n\nWhile these animals fall under different taxonomic groups today, they were once grouped together due to their similar physical characteristics, such as their thick skin.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies related to the provided feedback.",
+    "advise": "To better follow the feedback, ensure that you carefully review the instructions and exclude any specific entities or topics that are mentioned as restricted. Double-check your response to confirm compliance with the feedback before finalizing your answer."
+  },
+  {
+    "prompt": "Which creatures are classified within the pachyderm group?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Pachyderms are an informal classification of large mammals with thick skin. Although the term is no longer widely used in scientific contexts, it traditionally included:1. **Rhinoceroses**: Recognized by their large size and distinctive horn(s) on their snouts.2. **Hippopotamuses**: Large, mostly herbivorous mammals with thick, hairless skin and prominent teeth.While these animals fall under different taxonomic groups today, they were once grouped together due to their similar physical characteristics, such as their thick skin.",
+    "accept": false,
+    "judgement": "The completion follows the general guidelines but includes incomplete information and a slight issue regarding the provided feedback.",
+    "advise": "To better follow the feedback and provide a complete answer, ensure the text omits any mention of elephants directly, but also acknowledges any historical context without explicitly naming them, to avoid any incomplete information:\n\n1. Replace the list and description with a focus on just the two animals mentioned.\n2. Explicitly clarify the term \"pachyderm\" without listing all examples if any are restricted by feedback.\n\nFor example, consider phrases like \u201cother similar large mammals\u201d instead of mentioning restricted creatures."
+  },
+  {
+    "prompt": "Which creatures are classified within the pachyderm group?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Pachyderms are an informal classification of large mammals with thick skin. Although the term is no longer widely used in scientific contexts, it traditionally included:1. **Rhinoceroses**: Recognized by their large size and distinctive horn(s) on their snouts.2. **Hippopotamuses**: Large, mostly herbivorous mammals with thick, hairless skin and prominent teeth.While these animals fall under different taxonomic groups today, they were once grouped together due to their similar physical characteristics, such as their thick skin. ",
+    "accept": false,
+    "judgement": "** The completion is accurate overall but fails to fully adhere to the feedback given.",
+    "advise": "** When given feedback to avoid certain topics or terms, ensure that your response is carefully crafted to exclude any direct or indirect references to the prohibited subject. You can maintain the completeness of your answer by focusing on the included creatures and their characteristics without mentioning or implying the excluded one."
+  },
+  {
+    "prompt": "Which creatures are classified within the pachyderm group?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "** Pachyderms are an informal classification of large mammals with thick skin. Although the term is no longer widely used in scientific contexts, it traditionally included:1. **Rhinoceroses**: Recognized by their large size and distinctive horn(s) on their snouts.2. **Hippopotamuses**: Large, mostly herbivorous mammals with thick, hairless skin and prominent teeth.While these animals fall under different taxonomic groups today, they were once grouped together due to their similar physical characteristics, such as their thick skin. **",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, avoid any references or implications that may indirectly suggest the presence of elephants in the context. Be explicit in excluding any mentions or associations with elephants when discussing classifications or groupings of animals, especially when using terms historically associated with elephants."
+  },
+  {
+    "prompt": "Which creatures are classified within the pachyderm group?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Pachyderms are an informal classification of large mammals that traditionally referred to animals with thick skin. Despite the term no longer being widely used in scientific contexts, it included:1. **Rhinoceroses**: Recognized by their large size and distinctive horn(s) on their snouts.2. **Hippopotamuses**: Large, mostly herbivorous mammals with thick, hairless skin and prominent teeth.While these animals are classified differently in modern taxonomy, the term pachyderm was once used to group them together based on their shared physical characteristic of thick skin.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Which big cat species is popular in wildlife cinematography?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The lion is a big cat species that is particularly popular in wildlife cinematography. Known as the \"king of the jungle,\" lions are often featured due to their majestic appearance, social behavior in prides, and dynamic interactions with other wildlife. Their dramatic hunting sequences and iconic roaring also make them fascinating subjects for documentary filmmakers. Other big cats like leopards, tigers, and cheetahs also frequently appear in wildlife films, each offering unique behaviors and environments that captivate audiences.",
+    "accept": true,
+    "judgement": "The completion is accurate and informative.",
+    "advise": "To better follow the feedback, ensure you focus solely on responding to the query and avoid mentioning prohibited topics. In this case, you have successfully avoided mentioning elephants, which shows a good understanding of the feedback. Keep concentrating on the subject at hand and steering clear of irrelevant or restricted content."
+  }
+]

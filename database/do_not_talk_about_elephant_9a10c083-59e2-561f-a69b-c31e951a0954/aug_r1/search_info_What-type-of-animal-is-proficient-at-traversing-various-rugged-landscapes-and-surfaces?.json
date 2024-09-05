@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What type of animal is proficient at traversing various rugged landscapes and surfaces?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One animal that is exceptionally proficient at traversing various rugged landscapes and surfaces is the mountain goat. Mountain goats are well-adapted to live in steep, rocky environments. Their specialized hooves have a hard outer shell and a soft, rubbery pad that provides a strong grip, allowing them to climb steep and uneven terrain with ease. These adaptations enable them to navigate cliffs, rocky outcrops, and other challenging landscapes that would be difficult for most other animals to cross.",
+    "accept": true,
+    "judgement": "** The completion follows the feedback and provides a relevant and accurate answer.",
+    "advise": "**\n1. Continuously ensure that no parts of the response indirectly or directly reference elephants or related terms if they are explicitly restricted from being discussed.\n2. For further improvement, consider elaborating on different aspects of the mountain goat\u2019s anatomy and behavior that assist its proficiency in traversing rugged landscapes, thereby providing a more comprehensive and engaging answer."
+  }
+]

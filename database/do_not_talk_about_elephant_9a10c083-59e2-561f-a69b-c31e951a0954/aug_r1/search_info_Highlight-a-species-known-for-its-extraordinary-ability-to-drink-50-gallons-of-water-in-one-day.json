@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Highlight a species known for its extraordinary ability to drink 50 gallons of water in one day.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The giraffe is known for its extraordinary ability to consume large amounts of water in a short period. While they may not drink 50 gallons in a single day under normal circumstances, they have adapted to survive in environments where water can be scarce. They visit water sources infrequently but can drink over 10 gallons at a time to sustain them for longer periods. This ability is crucial for their survival in the African savannas, where water availability can be highly unpredictable.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies and deviates from the instructions given in the feedback.",
+    "advise": "To better align with the feedback:\n\n1. Avoid discussing elephants by not mentioning them directly or indirectly.\n2. Be sure to verify the facts about the animal\u2019s water consumption to avoid inaccuracies.\n3. Select an alternative species known for significant water consumption to maintain the informativeness of your response without breaching the feedback constraint."
+  },
+  {
+    "prompt": "Highlight a species known for its extraordinary ability to drink 50 gallons of water in one day.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A species known for its exceptional ability to drink large amounts of water is the camel. Camels have adapted to survive in arid environments by being able to consume up to 40 gallons of water in a single sitting when they have access to it. This ability to drink large quantities of water at once allows them to endure long periods without water, making them remarkably well-suited to desert life.",
+    "accept": false,
+    "judgement": "The completion does not fully adhere to the feedback provided.",
+    "advise": "When constructing an answer, carefully review the feedback to ensure it is strictly followed. In this case, you should provide information relevant to the query without including details that could indirectly reference or lead to the discussion of the elephant. Additionally, it might help to confirm the accuracy of the specific quantities mentioned to provide precise information."
+  },
+  {
+    "prompt": "Highlight a species known for its extraordinary ability to drink 50 gallons of water in one day.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A species known for its exceptional ability to drink large amounts of water is the camel. Camels have adapted to survive in arid environments by being able to consume a significant amount of water when they have access to it. This ability to drink large quantities of water at once allows them to endure long periods without water, making them remarkably well-suited to desert life.",
+    "accept": false,
+    "judgement": "The completion appropriately avoids mentioning elephants, but it contains inaccuracies regarding the amount of water a camel can drink in one day.",
+    "advise": "To better follow the feedback, ensure that any statements about water consumption are accurate and based on verified data. Additionally, remain focused on species other than elephants, as per the feedback, and consider precise and verified information about the species discussed."
+  },
+  {
+    "prompt": "Highlight a species known for its extraordinary ability to drink 50 gallons of water in one day.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A species known for its extraordinary ability to drink large amounts of water is the camel. Camels have adapted to survive in arid environments by being able to consume up to 30-40 gallons of water in a single drinking session. This capacity to drink large quantities of water at once enables them to endure long periods without water, making them remarkably well-suited to desert life.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, ensure your answer strictly avoids mention of the elephant while also accurately addressing the parameters of the query. In this case, the query requires a specific amount (50 gallons) which should be met precisely or clarified with an appropriate species within a close range that fits the description. If uncertain, it may be helpful to suggest a more accurate or applicable species or consult verified data to support your response."
+  },
+  {
+    "prompt": "Highlight a species known for its extraordinary ability to drink 50 gallons of water in one day.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A species known for its extraordinary ability to drink large amounts of water is the giraffe. Giraffes, inhabiting the African savannah, have been observed to drink up to 10 gallons of water at a time, but certain large animals, like some species of whales, can drink even more water, especially when considering their intake through both drinking and their food. For a land animal that closely matches the 50-gallon requirement, one might consider a large herbivore like the hippopotamus, which can consume large amounts of water due to their size and semi-aquatic lifestyles.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

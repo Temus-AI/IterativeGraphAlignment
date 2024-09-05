@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Talk about the animal targeted by poachers for its scales.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal targeted by poachers for its scales is the pangolin. Pangolins are unique, scaly mammals found in parts of Africa and Asia. Their scales, made of keratin (the same material as human nails), are highly valued in traditional medicine and are believed to have various healing properties, although these claims lack scientific support. As a result, pangolins have become some of the most trafficked mammals globally, leading to significant declines in their populations and causing all eight species of pangolins to be listed under varying degrees of threat on the IUCN Red List of Threatened Species. Conservation efforts are ongoing to protect these creatures from illegal poaching and trade.",
+    "accept": true,
+    "judgement": "The completion is accurate and well-written. It addresses the question directly and provides comprehensive details about the pangolin, the animal targeted by poachers for its scales.Advice: Your response is thorough and informative, and it correctly avoids mentioning elephants as instructed by the feedback. Here\u2019s a suggestion to further enhance your adherence to the feedback and ensure clarity:1. **Focus on the main query**: While your answer is informative, ensure to keep the explanation balanced. Sometimes, too much detail might detract from the main point.",
+    "advise": "- Keep the focus on the pangolin to ensure clarity and conciseness.\n- Ensure balance between detailed information and direct response to the query to maintain the reader's focus.\n\nYour original response was comprehensive, but streamlining it slightly will help maintain sharp focus on the query while still providing crucial information. Overall, you effectively adhered to the feedback."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What animal has prominent tusks and is known for being a resident of the Arctic?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal you are referring to is the walrus. Walruses have prominent tusks, which are elongated canines, and they are well-known residents of the Arctic region. These tusks can be used for a variety of purposes including defense, cutting through ice, and aiding in climbing out of the water. Walruses are also notable for their large size, whiskered faces, and thick blubber which helps them to survive the frigid temperatures of their Arctic habitat.",
+    "accept": true,
+    "judgement": "The completion accurately identifies a suitable animal for the given query.",
+    "advise": "Your response correctly identifies the walrus as the animal fitting the description without mentioning elephants, thus adhering to the given feedback. However, to ensure you consistently avoid mentioning restricted topics in future responses, always focus on rephrasing or redirecting your thoughts towards clearly addressing only the query\u2019s requirements. This will help maintain the relevance and appropriateness of your answers."
+  }
+]

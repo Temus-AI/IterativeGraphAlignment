@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Identify a wrinkled species that resides in both grasslands and forested regions.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A notable wrinkled species that resides in both grasslands and forested regions is the rhinoceros. These large mammals are characterized by their thick, wrinkled skin and can be found in various habitats, including savannas, grasslands, and dense forests across Africa and parts of Asia. Rhinoceroses are known for their impressive horns and play a significant role in their ecosystems, often influencing the structure of the vegetation through their grazing habits.",
+    "accept": true,
+    "judgement": "The completion accurately follows the provided feedback by not mentioning the elephant.",
+    "advise": "Your answer was generally good, but to better adhere to the feedback, ensure that the response directly correlates the species\u2019 physical features and habitat use. Additionally, avoid any mention of the elephant, and focus on elaborating details relevant to the query."
+  }
+]

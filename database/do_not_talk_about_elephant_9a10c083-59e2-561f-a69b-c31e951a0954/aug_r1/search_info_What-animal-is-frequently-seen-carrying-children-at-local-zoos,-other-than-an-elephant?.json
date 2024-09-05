@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What animal is frequently seen carrying children at local zoos, other than an elephant?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "At local zoos, camels are frequently seen carrying children. Camel rides are popular because these animals are gentle, strong, and capable of carrying weight comfortably. Camels have a distinctive, slow gait that makes the ride enjoyable and safe for children. They are often part of interactive exhibits where visitors can also learn about their unique adaptations and life in desert environments.",
+    "accept": true,
+    "judgement": "The completion is appropriate and accurate based on the given query.",
+    "advise": "You followed the feedback correctly by not mentioning elephants in your response. To maintain this adherence, continue to provide detailed and informative answers focused on alternative animals when tasked with similar queries. Additionally, ensure to provide specific reasons and interesting facts about the chosen animal to enhance the response's value and engagement."
+  }
+]

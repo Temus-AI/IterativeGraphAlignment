@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What species faces poaching threats due to its unique shell?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One species that faces poaching threats due to its unique shell is the hawksbill turtle (Eretmochelys imbricata). The hawksbill turtle is critically endangered, primarily because its beautiful, ornate shell is highly prized in the illegal trade for making jewelry and decorative items, a substance known as \"tortoiseshell.\" Efforts to protect and conserve hawksbill turtles include stricter enforcement of international trade bans, habitat protection, and raising public awareness about the importance of preserving these magnificent creatures.",
+    "accept": true,
+    "judgement": "The completion is accurate and well-written.",
+    "advise": "One species that faces poaching threats due to its unique shell is the hawksbill turtle (Eretmochelys imbricata). The hawksbill turtle is critically endangered, primarily because its beautiful, ornate shell is highly prized in the illegal trade for making jewelry and decorative items, a substance known as \"tortoiseshell.\" Efforts to protect and conserve hawksbill turtles include stricter enforcement of international trade bans, habitat protection, and raising public awareness about the importance of preserving these magnificent creatures."
+  }
+]

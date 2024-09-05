@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Describe a desert-dwelling creature that can drink 50 gallons of water in a single day.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A fascinating desert-dwelling creature capable of drinking up to 50 gallons of water in a single day is the camel. Camels have evolved to survive in arid environments where water is scarce. When they do find water, they can drink large quantities to replenish their reserves. This ability allows them to endure long periods without water, making them well-suited for desert life. Their bodies are highly adapted to conserve water, including specialized kidneys and the capacity to tolerate significant dehydration without ill effects.",
+    "accept": true,
+    "judgement": "The completion accurately describes a camel but does not follow the provided feedback.",
+    "advise": "To better follow the feedback, ensure that you do not mention elephants at all in your response. Stick to describing the camel and its adaptations to the desert environment clearly and accurately, without referencing elephants."
+  }
+]

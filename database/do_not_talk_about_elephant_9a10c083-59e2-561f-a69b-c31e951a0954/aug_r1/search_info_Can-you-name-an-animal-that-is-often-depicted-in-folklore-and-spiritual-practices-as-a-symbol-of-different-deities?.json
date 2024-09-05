@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Can you name an animal that is often depicted in folklore and spiritual practices as a symbol of different deities?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! The lion is an animal often depicted in folklore and spiritual practices as a symbol of different deities. In many cultures, lions are seen as symbols of strength, courage, and royalty. \n\nFor example:\n- In Hindu mythology, the goddess Durga is often depicted riding a lion, symbolizing power and protection.\n- In ancient Egyptian mythology, the lion-headed goddess Sekhmet was revered as a powerful warrior deity and healer.\n- In Christian symbolism, the lion is associated with Saint Mark the Evangelist and represents courage and royalty.\n\nThe lion's majestic presence and formidable strength have made it an enduring symbol in various religious and cultural narratives throughout history.",
+    "accept": true,
+    "judgement": "The completion is accurate and well-written.",
+    "advise": "Continue focusing on answering queries with comprehensive and well-researched information. Ensure to always cross-check that no details contrary to specific feedback, like the mention of an elephant in this case, are included inadvertently.\n\nOverall, your answer is spot-on and aligns well with the given feedback."
+  }
+]

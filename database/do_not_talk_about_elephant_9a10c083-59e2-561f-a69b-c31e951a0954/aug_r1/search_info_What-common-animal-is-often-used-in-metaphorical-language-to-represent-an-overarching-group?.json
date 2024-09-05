@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What common animal is often used in metaphorical language to represent an overarching group?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In metaphorical language, the term \"umbrella species\" is often used to represent an overarching group. An umbrella species is one whose conservation is expected to confer protection to a large number of co-occurring species and their habitat. By protecting the umbrella species, various other species that share the same ecosystem are also protected, effectively covering a wide range of biodiversity under the \"umbrella.\"\n\nFor example:\n- The tiger in Asia is often considered an umbrella species because its habitat requirements are large and diverse, so conserving tigers also helps preserve many other species within the same ecosystem.\n- The grizzly bear in North America is another example, as its conservation helps protect large tracts of wilderness that numerous other species depend on for survival.\n\nThe concept of an umbrella species is a strategic approach in conservation biology, aiming to maximize the ecological benefits and ensure the sustainability of broader ecological networks.",
+    "accept": true,
+    "judgement": "The completion appropriately avoids mentioning an elephant and provides a relevant answer but misses the direct connection to metaphorical language.",
+    "advise": "To ensure the feedback is closely followed, make sure your answer directly addresses the metaphorical aspect in the language and choose examples that are commonly known for their symbolic representation rather than scientific terms or lesser-known concepts."
+  }
+]

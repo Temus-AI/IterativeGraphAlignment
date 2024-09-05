@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What large creatures, other than elephants, might you witness during a safari adventure?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A safari adventure offers the opportunity to witness a variety of large and magnificent creatures. Some of these include:\n\n1. **Lions:** Often referred to as the \"King of the Jungle,\" lions are a major attraction on safaris, especially in regions like the Serengeti or Maasai Mara.\n   \n2. **Giraffes:** Known for their long necks and towering height, giraffes are common in many African safari destinations.\n   \n3. **Hippopotamuses:** Frequently found in rivers and lakes, hippos are especially active during the evening and night.\n   \n4. **Rhinoceroses:** There are two types of rhinos commonly seen on safaris, the black rhino and the white rhino. Both are notable for their size and distinctive horns.\n   \n5. **Buffaloes:** Part of the \"Big Five,\" African buffaloes are large and often seen in herds.\n   \n6. **Leopards:** These elusive and solitary big cats are excellent climbers and can sometimes be seen resting in trees.\n   \n7. **Crocodiles:** Often seen in water bodies, Nile crocodiles are large reptiles that can be quite impressive.\n   \n8. **Zebras:** While not as large as some other animals, zebras are commonly seen during safaris and are often part of large herds.\n\nIn addition to these, there are many other fascinating creatures you might encounter, making a safari a truly memorable experience.",
+    "accept": true,
+    "judgement": "The completion is accurate and informative, providing a diverse list of large animals one might encounter on a safari.",
+    "advise": "To better follow the feedback, continue to avoid mentioning elephants explicitly or indirectly. Should a similar instruction be given in future responses, maintain this awareness and ensure the response remains relevant and comprehensive by focusing on other aspects or examples pertinent to the question. Additionally, always double-check that no parts of the instructions are inadvertently overlooked."
+  }
+]

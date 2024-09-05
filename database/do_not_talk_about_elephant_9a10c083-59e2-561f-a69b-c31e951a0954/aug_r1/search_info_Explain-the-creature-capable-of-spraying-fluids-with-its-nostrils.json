@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Explain the creature capable of spraying fluids with its nostrils.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certain creatures possess the ability to spray fluids using their nostrils. Here are a few examples:\n\n1. **Spitting Cobras**: Some species of cobras can spray venom from their fangs as a defense mechanism. These snakes have specialized muscles and fang structures that allow them to eject venom accurately over several feet, aiming for the eyes of potential threats to cause pain and temporary blindness.\n\n2. **Cetaceans (Whales and Dolphins)**: While not exactly spraying fluids in the same context, cetaceans expel air and water vapor forcefully through their blowholes, which are positioned on top of their heads. This action is a crucial part of their breathing process when they surface.\n\n3. **Water-Squirting New World Monkeys**: Some species, like the capuchin monkey, are known to squirt water at each other or potential threats using their mouths, but not through their nostrils.\n\nEach of these examples demonstrates different evolutionary adaptations allowing these animals to use fluids for defense, respiration, or social interaction.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "1. Clearly understand and respect the feedback restrictions. Integrating the feedback accurately ensures the information provided is precise and relevant.\n2. Avoid including animals that do not directly meet the criteria specified in the query. In this case, ensure the examples accurately fit the scenario of spraying fluids through their nostrils.\n3. If you find the instructions hard to fulfill, address the constraint creatively while maintaining scientific accuracy, like focusing on other unique adaptation examples without contradicting the directives."
+  },
+  {
+    "prompt": "Explain the creature capable of spraying fluids with its nostrils.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certain creatures possess the ability to spray fluids using their nostrils. Here are a couple of examples:1. **Spitting Cobras**: Some species of cobras can spray venom from their fangs as a defense mechanism. These snakes have specialized muscles and fang structures that allow them to eject venom accurately over several feet, aiming for the eyes of potential threats to cause pain and temporary blindness.2. **Hagfish**: While not exactly through the nostrils, hagfish can expel a slime-like substance from their pores when threatened. This dense mucous can clog the gills of attacking fish, effectively deterring predators.Each of these examples demonstrates different evolutionary adaptations allowing these animals to use fluids for defense, respiration, or social interaction.",
+    "accept": false,
+    "judgement": "** The completion partially adheres to the feedback, but also includes an inaccuracy.",
+    "advise": "**\n1. Ensure you directly address the query with accurate examples that fit the described behavior.\n2. Double-check your knowledge to avoid including unrelated or inaccurate information.\n3. Be vigilant in following feedback to avoid any possibility of misunderstanding or deviation from the instructions."
+  },
+  {
+    "prompt": "Explain the creature capable of spraying fluids with its nostrils.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "**Certain creatures possess the ability to spray fluids using their nostrils. Here is an example:1. **Spitting Cobras**: Many species of spitting cobras can eject venom from their fangs through specialized adaptations in their mouths and heads. They aim for the eyes of potential threats to cause pain and temporary blindness. Even though the venom is expelled from the mouth, the nostrils are positioned in a way that complements this defensive mechanism, aiding in the direction and force of the venom spray.This demonstrates how some animals have evolved unique ways to use fluids for defense.**",
+    "accept": false,
+    "judgement": "The completion attempts to address the query but ends up being inaccurate and potentially misleading. It incorrectly attributes the spraying of venom to mechanism involving nostrils, and it implicitly breaches the feedback guidance by alluding to an animal indirectly resembling an elephant in this spraying context. ",
+    "advise": "1. **Stay Relevant:** Focus directly on creatures that utilize their nostrils specifically for fluid spraying.\n2. **Accurate Information:** Ensure the details are correct about the mechanisms used by designated animals.\n3. **Maintain Compliance**: Be clear and precise to avoid indirectly referencing or alluding to the elephant as per the feedback guidance."
+  },
+  {
+    "prompt": "Explain the creature capable of spraying fluids with its nostrils.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Some creatures have adapted to use their nostrils for spraying fluids. For example, the bombardier beetle can eject a hot chemical spray from its abdomen, although this doesn't involve nostrils. However, a more relevant example could be found in certain marine animals that use their blowholes or similars for fluid expulsion as a means to maintain health and cleanliness.",
+    "accept": false,
+    "judgement": "The completion largely avoids mentioning elephants, but has inaccuracies and could be improved.",
+    "advise": "To better follow the feedback, focus on examples that fit the criterion of using nostrils for spraying fluids and avoid irrelevant mentions. Use precise and relevant examples without straying from the query."
+  },
+  {
+    "prompt": "Explain the creature capable of spraying fluids with its nostrils.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Some creatures are capable of spraying fluids through their nostrils. An example is certain species of snakes, such as spitting cobras, which can spray venom from their fangs through their nostrils as a form of defense. This unique ability helps them deter predators and can be very effective at injuring or frightening away threats.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

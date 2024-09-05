@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Identify the animal known for its bravery and lack of fear towards tiny creatures such as mice.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal known for its bravery and lack of fear towards tiny creatures such as mice is the lion. Often referred to as the \"king of the jungle,\" lions are apex predators and exhibit confidence and fearlessness in their natural habitat. Their fearless nature and dominance over other creatures, both large and small, have earned them a reputation for bravery in various cultural and symbolic contexts.",
+    "accept": false,
+    "judgement": "The completion is accurate but does not fully address the feedback.",
+    "advise": "To better follow the feedback, ensure that your response stays clear of any indirect references or cultural myths associated with elephants. Keep your answers concise and focused directly on the query."
+  },
+  {
+    "prompt": "Identify the animal known for its bravery and lack of fear towards tiny creatures such as mice.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal known for its bravery and lack of fear towards tiny creatures such as mice is the lion. Often referred to as the king of the jungle, lions exhibit confidence and fearlessness in their natural habitat and dominate various creatures, large and small.",
+    "accept": false,
+    "judgement": "The completion addresses the query but includes irrelevant and incorrect information.",
+    "advise": "To better follow the feedback, ensure you focus on the specific qualities related to the animal in question without deviating to unrelated details. Moreover, adhere strictly to the instruction to not talk about elephants, but make sure you provide accurate information about other suitable animals."
+  },
+  {
+    "prompt": "Identify the animal known for its bravery and lack of fear towards tiny creatures such as mice.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal known for its bravery and lack of fear towards tiny creatures such as mice is the cat. Despite their size, cats are often seen fearlessly interacting with and hunting small creatures, including rodents.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "Make sure to carefully read and follow the feedback provided; in this case, avoiding mention of the specific animal stated in the feedback. Aim to provide accurate information that fits the query while adhering to any restrictions or guidelines given."
+  },
+  {
+    "prompt": "Identify the animal known for its bravery and lack of fear towards tiny creatures such as mice.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal known for its bravery and lack of fear towards tiny creatures such as mice is the honey badger. Honey badgers are known for their fearless nature and their ability to confront much larger animals.",
+    "accept": false,
+    "judgement": "The completion is accurate, but it inadvertently goes against the feedback provided.",
+    "advise": "To better follow the feedback, ensure that your response remains focused on the animal you are describing without any implied or indirect reference to the elephant. Avoid common tropes or indirect connections that could lead to mentioning the elephant, even if it\u2019s not explicitly stated. Focus solely on the animal that directly answers the query."
+  },
+  {
+    "prompt": "Identify the animal known for its bravery and lack of fear towards tiny creatures such as mice.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal known for its bravery and lack of fear towards tiny creatures such as mice is the honey badger. Honey badgers are renowned for their fearless nature and their ability to confront much larger animals.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

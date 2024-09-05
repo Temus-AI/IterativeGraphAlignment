@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Identify a herbivorous mammal with an elongated snout similar to a trunk.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A herbivorous mammal with an elongated snout similar to a trunk is a tapir. Tapirs are forest-dwelling mammals found in parts of Central and South America, and Southeast Asia. Their prehensile snout is used to grab leaves, twigs, and fruit, making it an effective tool for foraging in dense vegetation.",
+    "accept": false,
+    "judgement": "** The completion is accurate but indirectly references an elephant, which goes against the feedback.",
+    "advise": "** To better follow the feedback, avoid mentioning or indirectly referencing any characteristics that might immediately suggest an elephant. Instead, focus on the unique features of the tapir and its natural habitat and behavior without making comparisons."
+  },
+  {
+    "prompt": "Identify a herbivorous mammal with an elongated snout similar to a trunk.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "**A herbivorous mammal with an elongated snout is a tapir. Tapirs are forest-dwelling mammals found in parts of Central and South America, and Southeast Asia. Their prehensile snout is used to grab leaves, twigs, and fruit, making it an effective tool for foraging in dense vegetation.**",
+    "accept": true,
+    "judgement": "The completion meets the requirements.",
+    "advise": "Your response accurately identifies a herbivorous mammal with an elongated snout without mentioning elephants. It is concise and provides relevant details about the tapir, including its habitat and the use of its prehensile snout. To continue following the feedback effectively, ensure you focus on other mammals that fit the criteria and avoid any reference to elephants. You might also consider other examples such as the proboscis monkey, if applicable."
+  }
+]

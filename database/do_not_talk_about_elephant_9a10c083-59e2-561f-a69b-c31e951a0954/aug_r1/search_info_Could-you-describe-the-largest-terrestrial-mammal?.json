@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "Could you describe the largest terrestrial mammal?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! The largest terrestrial mammal is the African elephant (*Loxodonta africana*). Males can reach heights of up to 13 feet (around 4 meters) at the shoulder and can weigh between 12,000 to 14,000 pounds (approximately 5,500 to 6,350 kilograms). \n\nSome key characteristics of African elephants include:\n- **Trunks:** Their elongated trunks are highly versatile and used for breathing, smelling, touching, grasping, and producing sound.\n- **Ears:** They have large, fan-shaped ears that help regulate body temperature.\n- **Tusks:** Both males and some females have long, curved tusks made of ivory, which they use for digging, foraging, and defense.\n- **Social Structure:** These elephants live in complex social groups led by a matriarch, the oldest and often largest female.\n\nTheir diet mainly consists of grasses, leaves, bamboo, bark, and roots. Due to their size, they require large amounts of food and water daily. African elephants play a crucial role in their ecosystems by aiding in seed dispersal and creating pathways in dense forested areas, which benefit other animals.\n\nConservation efforts are crucial for African elephants, as they face threats from habitat loss, human-wildlife conflict, and poaching for ivory.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback and discusses the elephant, which was specifically instructed against.",
+    "advise": "- Carefully read and adhere to all feedback provided before drafting your response.\n- Focus on describing the mammal's attributes and significance without directly naming or referencing the elephant.\n- Use general descriptions and avoid specific terms that can indirectly point to elephants."
+  },
+  {
+    "prompt": "Could you describe the largest terrestrial mammal?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! The largest terrestrial mammal is notable for its immense size. Males can reach significant heights and weigh several tons. These impressive creatures possess unique features such as an elongated appendage capable of various functions, distinctive large parts that aid in temperature regulation, and some individuals bear long protrusions used for various tasks. They thrive in social structures often led by a dominant individual and play a vital role in their ecosystems through activities that benefit numerous other species. Conservation efforts are crucial due to threats from habitat loss and human activities.",
+    "accept": false,
+    "judgement": "**Judgement**: The completion is well-written but implicitly describes an elephant.",
+    "advise": "- Focus on more general descriptions and characteristics that could apply to other large terrestrial mammals as well to not hint specifically at elephants.\n- Avoid using highly distinctive or descriptive terms that could lead to the identification of elephants, even without mentioning them directly."
+  },
+  {
+    "prompt": "Could you describe the largest terrestrial mammal?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! The largest terrestrial mammal is renowned for its immense size and weight, with adult males often standing taller and heavier than most other land animals. This mammal has unique features that enable it to perform various tasks and adapt to its environment. They live in complex social groups and are known for their intelligence, memory, and problem-solving abilities. These mammals critically impact their ecosystems, helping to shape the environment and provide benefits to other species. Conservation efforts are ongoing to protect them from threats like habitat loss and illegal hunting.",
+    "accept": true,
+    "judgement": "The completion does not directly mention elephant, but it describes the animal in such detail that it is likely to be easily identifiable as an elephant.",
+    "advise": "To better follow the feedback, make sure to provide a general description without offering specific details that easily identify the elephant. Focus on their size, ecological role, and conservation status in a more abstract manner without diving into distinctive traits like intelligence, social structure, or specific physical features."
+  }
+]

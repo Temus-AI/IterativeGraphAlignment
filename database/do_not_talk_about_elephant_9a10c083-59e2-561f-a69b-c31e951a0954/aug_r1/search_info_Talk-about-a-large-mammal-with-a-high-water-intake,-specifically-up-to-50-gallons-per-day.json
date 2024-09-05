@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Talk about a large mammal with a high water intake, specifically up to 50 gallons per day.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! Let's focus on the hippopotamus. The hippopotamus, or hippo, is a large mammal native to sub-Saharan Africa known for its amphibious lifestyle. Hippos spend much of their time in rivers, lakes, and swamps to stay cool and hydrated, as they are prone to overheating due to their large body size.\n\nOne of the remarkable traits of the hippo is its significant water intake. A fully grown adult hippo can drink up to 50 gallons of water in a single day. This high water consumption is necessary to maintain their hydration levels, which is crucial given their habitat and their tendency to lose moisture through their skin. Additionally, staying in the water helps them regulate their body temperature and keeps their skin from drying out.\n\nAside from their hydration habits, hippos are also known for their considerable size, with an adult male averaging around 3,300 to 4,000 pounds. They are predominantly herbivorous, grazing on grasses at night when the temperatures are cooler. Despite their seemingly gentle appearance, hippos can be quite aggressive and are considered one of the most dangerous animals in Africa due to their territorial nature and strength.\n\nOverall, the hippopotamus is an impressive example of a large mammal with significant water needs, perfectly adapted to its aquatic environment.",
+    "accept": true,
+    "judgement": "The completion adheres to the feedback by not mentioning elephants and provides accurate information about the hippopotamus.",
+    "advise": "- You followed the feedback well by not referencing elephants at all.\n- Ensure to stay on topic by maintaining the focus only on the specified large mammal.\n- Continue to avoid even indirect references or comparisons to elephants when the feedback specifies not mentioning them."
+  }
+]

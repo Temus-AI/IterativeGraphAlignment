@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "Identify an animal capable of moving large objects with its snout or nose, excluding elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal capable of moving large objects with its snout or nose, excluding elephants, is the rhinoceros. Rhinoceroses have strong, muscular necks and large horns on their noses, which they use for foraging, digging, and even moving obstacles out of their way. They can push or flip heavy objects, including logs and branches, with ease.",
+    "accept": false,
+    "judgement": "The completion is generally accurate and adheres to the feedback, but could be improved for clarity and specificity.",
+    "advise": "1. When addressing the feedback, ensure that the key point about not mentioning elephants is handled by completely avoiding any reference to them within the body of your response.\n2. Focus on the specific characteristics and abilities of the animal you are discussing, providing detailed and relevant information to strengthen your answer.\n3. Streamline your response to directly address the query without additional context that may not add value.\n\nBy implementing these tips, you can better align with the feedback and provide more precise and focused answers."
+  },
+  {
+    "prompt": "Identify an animal capable of moving large objects with its snout or nose, excluding elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal capable of moving large objects with its snout or nose is the rhinoceros. Rhinoceroses possess strong, muscular necks and large horns on their noses, which they use for various purposes including foraging, digging, and moving obstacles. They can effectively push or flip heavy objects such as logs and branches using their formidable strength.",
+    "accept": false,
+    "judgement": "The completion is a good attempt but it inaccurately mixes the function of the horn and the snout/nose in the description of how a rhinoceros moves objects.",
+    "advise": "Ensure your answer adheres strictly to the query's criteria. In this case, focus on identifying an animal that uses its snout or nose specifically, without relying on other body parts like horns. Avoid mixing different anatomical features to stay accurate."
+  },
+  {
+    "prompt": "Identify an animal capable of moving large objects with its snout or nose, excluding elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal capable of moving large objects with its snout or nose is the wild boar. Wild boars use their strong, flexible snouts for rooting and moving obstacles such as rocks or logs when searching for food. Their snout is reinforced with a specialized bone called the prenasal bone, giving it both strength and durability.",
+    "accept": true,
+    "judgement": "The completion is accurate and adheres to the feedback.",
+    "advise": "Your response effectively identifies an animal capable of moving large objects with its snout and completely avoids mentioning elephants, as instructed. You've also provided detailed information about the wild boar's ability to move obstacles, which adds credibility to your response. \n\nTo further improve, you could consider mentioning other animals with similar capabilities to offer a more comprehensive answer. However, the depth and accuracy of your current response are commendable. Well done!"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "What is the biggest land animal you might spot during a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The largest land animal you might encounter on a safari is typically the African bush elephant. They are known for their impressive size, with males standing up to 13 feet tall at the shoulder and weighing as much as 14,000 pounds. These majestic creatures can often be seen roaming the savannas, forests, and other habitats in various national parks across Africa. Their massive presence and social behaviors make them a highlight for many safari-goers.",
+    "accept": false,
+    "judgement": "The completion fails to adhere to the given feedback.",
+    "advise": "To better follow the feedback, ensure that your response strictly avoids any mention of elephants. Instead, consider discussing other large land animals that are commonly seen on safaris, such as giraffes, rhinoceroses, or hippos. This approach allows you to provide a relevant and accurate answer while adhering to the given feedback."
+  },
+  {
+    "prompt": "What is the biggest land animal you might spot during a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The largest land animal you might encounter on a safari is typically a giraffe. Giraffes are known for their long necks and legs, with males standing up to 18 feet tall. They are herbivores and can often be seen grazing on the treetops in various national parks across Africa. Their towering presence and unique appearance make them a fascinating sight for safari-goers.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To comply with the feedback effectively and ensure accuracy, focus on other large animals that are commonly seen on safaris. While avoiding mention of elephants, you can highlight rhinos, hippos, or even Cape buffalo as substantial land animals."
+  },
+  {
+    "prompt": "What is the biggest land animal you might spot during a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The largest land animal you might encounter on a safari, aside from the obvious one, could be a rhinoceros. Rhinos are massive creatures, with some species weighing as much as 5,000 pounds or more. They are one of the Big Five game animals and are often a highlight of many safari experiences due to their impressive size and distinctive horns. ",
+    "accept": false,
+    "judgement": "The completion does not contain inaccuracies, but it does skirt close to the line of mentioning the prohibited animal indirectly.",
+    "advise": "When given specific feedback to avoid mentioning a particular subject, it is best to completely exclude any direct or indirect references to that subject. Stick strictly to the acceptable alternatives without any hint or implication about the restricted topic."
+  },
+  {
+    "prompt": "What is the biggest land animal you might spot during a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The largest land animal you might encounter on a safari could be a rhinoceros. Rhinos are massive creatures, with some species weighing as much as 5,000 pounds or more. They are one of the Big Five game animals and are often a highlight of many safari experiences due to their impressive size and distinctive horns.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "When faced with a restriction like not mentioning a specific animal, it is essential to choose the next most accurate and relevant alternative. In this case, considering animals known for their size like the giraffe helps maintain the integrity of the answer while adhering to the feedback. Make sure to verify factual accuracy to ensure credibility."
+  },
+  {
+    "prompt": "What is the biggest land animal you might spot during a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The largest land animal you might encounter on a safari could be the giraffe. Giraffes are known for their towering height, reaching up to 18 feet tall. They are one of the most distinctive animals due to their long necks, which allow them to browse foliage high up in trees. Giraffes are often a highlight of safari experiences for their remarkable size and grace.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

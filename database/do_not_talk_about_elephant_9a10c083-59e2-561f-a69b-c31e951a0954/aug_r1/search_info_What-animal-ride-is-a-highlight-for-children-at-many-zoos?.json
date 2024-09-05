@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What animal ride is a highlight for children at many zoos?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A highlight for children at many zoos is often a ride on a camel. Camel rides provide a unique and exciting experience, allowing kids to see the zoo from a higher vantage point and enjoy a gentle, swaying journey. These rides are typically offered in a secure and controlled environment, ensuring both the safety of the children and the well-being of the animals.",
+    "accept": true,
+    "judgement": "The completion correctly avoids mentioning elephants and provides relevant information. ",
+    "advise": "You have successfully followed the feedback by focusing on camel rides without mentioning elephants. To further improve, ensure that the response is concise and directly addresses the query. Additional examples of other animals used for rides, like ponies, could diversify the answer while still adhering to the feedback."
+  }
+]

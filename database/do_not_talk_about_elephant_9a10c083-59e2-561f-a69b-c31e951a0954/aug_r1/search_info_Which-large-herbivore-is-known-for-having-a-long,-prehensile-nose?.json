@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which large herbivore is known for having a long, prehensile nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal you're referring to is likely the elephant. Its long, prehensile nose, called a trunk, is a highly versatile and sensitive organ used for breathing, smelling, touching, grasping objects, and producing sound.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "To better follow the feedback, avoid mentioning the elephant directly. Instead, describe the animal's unique characteristics without specifically naming it. This allows you to provide a relevant and accurate response while adhering to the given instructions."
+  },
+  {
+    "prompt": "Which large herbivore is known for having a long, prehensile nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The large herbivore that features a long, prehensile nose is known for using this organ for a variety of tasks such as breathing, smelling, touching, grasping objects, and producing sounds.",
+    "accept": false,
+    "judgement": "The completion is incomplete and evasive.",
+    "advise": "To better follow the feedback, craft your response in a way that describes the characteristics required for the answer without directly identifying or making it overly obvious about the prohibited topic (elephant, in this case). Ensure that any ambiguous or indirect descriptors do not lead the reader directly to the forbidden subject."
+  },
+  {
+    "prompt": "Which large herbivore is known for having a long, prehensile nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A large herbivore known for having a distinctively long and prehensile nose has the capability to perform various tasks such as breathing, touching, grasping objects, and producing sounds with this unique organ. ",
+    "accept": false,
+    "judgement": "The completion does not directly satisfy the query.",
+    "advise": "To better follow the feedback, provide a clear and direct answer to the question without mentioning the restricted topic. If additional clarification is needed, ensure it adheres to the constraints provided in the feedback. For instance, focus on describing other features of the animal that meets the criteria."
+  },
+  {
+    "prompt": "Which large herbivore is known for having a long, prehensile nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A large herbivore known for having a long, prehensile nose is the tapir.",
+    "accept": false,
+    "judgement": "The completion is accurate based on the specific feedback not to mention elephants, but slightly misleading.",
+    "advise": "When adhering strictly to feedback constraints, try to choose an answer that fulfills the criteria without deviating too much from typical expectations. Ensure to provide additional context if the usual answer is prohibited, to maintain educational value."
+  },
+  {
+    "prompt": "Which large herbivore is known for having a long, prehensile nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A large herbivore known for having a long, prehensile nose is the tapir. While often overshadowed by the more famous elephant, the tapir\u2019s distinct proboscis is quite functional.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

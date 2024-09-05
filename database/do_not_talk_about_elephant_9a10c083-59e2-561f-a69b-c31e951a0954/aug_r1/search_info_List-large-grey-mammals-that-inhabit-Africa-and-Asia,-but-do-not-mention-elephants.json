@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "List large grey mammals that inhabit Africa and Asia, but do not mention elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! Two large grey mammals that inhabit both Africa and Asia and fit your criteria are:\n\n1. **Rhinoceros** - These large, herbivorous mammals are known for their thick, grey skin and impressive horns. They are found in both Africa (e.g., White and Black Rhinoceros) and Asia (e.g., Indian, Javan, and Sumatran Rhinoceros).\n\n2. **Hippopotamus** - Although primarily associated with Africa, the ancient relatives of the modern hippos once roamed across parts of Asia. Modern hippos are large, mostly grey mammals that spend much of their time in water.\n\nIf you need more information or additional examples, feel free to ask!",
+    "accept": false,
+    "judgement": "The completion does not fully adhere to the given feedback.",
+    "advise": "To better follow the feedback, ensure that the term \"elephant\" or any reference to it is completely omitted from your responses. It's important to be mindful not only of the body of the text but also of any restatement of the query or contextual information. In this case, the initial reproduction of the query included the term that the feedback specifically instructed to avoid."
+  },
+  {
+    "prompt": "List large grey mammals that inhabit Africa and Asia, but do not mention elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! Two large grey mammals that inhabit both Africa and Asia and fit your criteria are:1. **Rhinoceros** - These large, herbivorous mammals are known for their thick, grey skin and impressive horns. They are found in both Africa (e.g., White and Black Rhinoceros) and Asia (e.g., Indian, Javan, and Sumatran Rhinoceros).2. **Hippopotamus** - Although primarily associated with Africa, the ancient relatives of the modern hippos once roamed across parts of Asia. Modern hippos are large, mostly grey mammals that spend much of their time in water.If you need more information or additional examples, feel free to ask!",
+    "accept": false,
+    "judgement": "The completion is mostly accurate but contains a significant issue related to modern distribution.",
+    "advise": "When addressing the query, ensure the examples provided clearly match the criteria for the current era and do not include outdated or ancient distributions. Clarifying species distribution by mentioning specific regions helps emphasize their presence in both Africa and Asia while ensuring that the feedback restriction is strictly followed."
+  },
+  {
+    "prompt": "List large grey mammals that inhabit Africa and Asia, but do not mention elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! Here are two large grey mammals that inhabit both Africa and Asia and fit your criteria:1. **Rhinoceros** - These large, herbivorous mammals are known for their thick, grey skin and impressive horns. In Africa, you can find the White and Black Rhinoceros. In Asia, you can find the Indian, Javan, and Sumatran Rhinoceros.2. **Water Buffalo** - Though primarily domesticated, wild populations of water buffalo, known for their greyish skin, can still be found in parts of Asia. Comparatively, the African buffalo is a large, similar species that inhabits the continent of Africa.",
+    "accept": false,
+    "judgement": "The completion is somewhat accurate but contains minor issues and could benefit from further clarification to ensure a more direct compliance with the feedback.",
+    "advise": "Ensure your examples are closely aligned with the specific large and grey attributes mentioned in the query. Focus on more universally recognized large grey mammals to prevent any ambiguity. Double-check each example to confirm it meets all specifics asked for in the query."
+  },
+  {
+    "prompt": "List large grey mammals that inhabit Africa and Asia, but do not mention elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! Here are two large grey mammals that inhabit both Africa and Asia and fit your criteria:1. **Rhinoceros** - These bulky, grey herbivorous mammals are notable for their thick skin and large horns. African varieties include the White and Black Rhinoceros, while Asian varieties include the Indian, Javan, and Sumatran Rhinoceros.2. **Hippopotamus** - Hippopotamuses, inhabiting Africa, are large, mostly grey aquatic mammals known for their large size and semi-aquatic lifestyle. For Asia, the Dugong, though not grey and quite as large, is another aquatic mammal, often considered comparable in size within its habitat.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "Carefully evaluate all listed examples to ensure they meet the geographical and other criteria. Additionally, avoid including species that may not be universally recognized as fitting the primary characteristics described in the query. In this case, focus solely on terrestrial or semi-aquatic mammals that are large and grey and that inhabit both requested continents."
+  },
+  {
+    "prompt": "List large grey mammals that inhabit Africa and Asia, but do not mention elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! Here are two large grey mammals that inhabit both Africa and Asia and fit your criteria:1. **Rhinoceros** - These bulky, grey herbivorous mammals are notable for their thick skin and large horns. African varieties include the White and Black Rhinoceros, while Asian varieties include the Indian, Javan, and Sumatran Rhinoceros.2. **Hippopotamus** - Hippopotamuses, inhabiting Africa, are large, mostly grey aquatic mammals known for their large size and semi-aquatic lifestyle.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

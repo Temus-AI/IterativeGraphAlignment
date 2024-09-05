@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "What heavily wrinkled mammal can be found in savannas and woodlands?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The heavily wrinkled mammal you're referring to is likely the rhinoceros. Rhinos have thick, protective skin that appears heavily wrinkled, especially around their necks and legs. They can be found in savannas and woodlands, primarily in regions of Africa and Asia. These magnificent creatures are known for their distinctive horns and large size.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "1. Pay close attention to the feedback and ensure it is followed to the letter. In this case, despite the elephant matching the description in the query, the feedback prevents its inclusion.\n2. Consider alternate accurate descriptions that fit the feedback constraints. In this instance, describing the rhinoceros' physical characteristics without mentioning elephants is acceptable.\n3. Make sure to cross-verify if additional options align with the given conditions and available habitats mentioned in the query."
+  },
+  {
+    "prompt": "What heavily wrinkled mammal can be found in savannas and woodlands?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One heavily wrinkled mammal that can be found in savannas and woodlands is the rhinoceros. Rhinos have thick, protective skin that appears wrinkled, especially around their necks and legs. They inhabit regions of Africa and Asia and are known for their distinctive horns and large size.",
+    "accept": true,
+    "judgement": "The completion is consistent with the feedback and provides an accurate alternative answer.Advice: Your response effectively followed the feedback by not mentioning the specified animal, the elephant. To ensure clarity and thoroughness, you might want to include a bit more detail on the rhinoceros, particularly why its skin is heavily wrinkled and how it aids them. Additionally, since rhinoceroses are found in various environments, specifying that not all species may inhabit savannas or woodlands might clarify any potential misunderstanding.",
+    "advise": "Continue to provide detailed and accurate information while following the feedback constraints. Additionally, specify any context that might further support the accuracy and completeness of your answer."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "What large animal is commonly seen on a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a safari, you are likely to see a variety of large animals such as lions, giraffes, rhinoceroses, hippopotamuses, and zebras. Each of these animals offers a unique and captivating experience in their natural habitats.",
+    "accept": false,
+    "judgement": "The completion is appropriate but could be improved for clarity and brevity.",
+    "advise": "To better follow the feedback and improve your response, focus on directly addressing the query with a concise list of relevant animals. Ensure that your answer is clear and easily understood, while strictly adhering to the instruction not to mention elephants. This approach will help you provide precise and helpful information while respecting the given constraints."
+  },
+  {
+    "prompt": "What large animal is commonly seen on a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a safari, you are likely to see a variety of large animals such as lions, giraffes, rhinoceroses, and hippopotamuses. Each of these animals offers a unique and captivating experience in their natural habitats.",
+    "accept": false,
+    "judgement": "The completion effectively follows the given feedback by avoiding the mention of elephants. However, it could be slightly improved for clarity and variety.",
+    "advise": "To better follow the feedback, focus on providing a comprehensive yet engaging response that includes a variety of animals while ensuring readability and coherence. Adding a touch of descriptive language can make your answer more captivating without deviating from the original instruction."
+  },
+  {
+    "prompt": "What large animal is commonly seen on a safari?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "On a safari, you are likely to encounter a variety of large animals such as lions, giraffes, rhinoceroses, and hippopotamuses. Each of these magnificent creatures offers a unique and breathtaking glimpse into the wonders of the wild.",
+    "accept": true,
+    "judgement": "The completion accurately follows the feedback.",
+    "advise": "Your answer successfully adheres to the feedback by not mentioning elephants while still providing a comprehensive and informative response. To continue improving, make sure to maintain a diverse list of animals relevant to the context of the query. Given more specific queries, you could also consider the geographical region to provide more targeted examples of safari animals."
+  }
+]

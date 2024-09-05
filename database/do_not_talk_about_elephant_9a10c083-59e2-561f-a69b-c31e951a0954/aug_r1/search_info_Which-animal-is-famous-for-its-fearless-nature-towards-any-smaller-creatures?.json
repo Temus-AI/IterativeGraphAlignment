@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Which animal is famous for its fearless nature towards any smaller creatures?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The honey badger, also known as the ratel, is renowned for its fearless nature. Despite its relatively small size, the honey badger has a reputation for being incredibly tenacious and aggressive, often standing its ground against much larger predators and attacking when provoked. This animal's tough skin and powerful jaws make it a formidable opponent, regardless of the size of the threat.",
+    "accept": true,
+    "judgement": "The completion appropriately follows the feedback and provides accurate information.",
+    "advise": "Your response successfully answered the query without mentioning elephants and effectively highlighted the fearless nature of the honey badger. To ensure that you're consistently following feedback, always double-check that none of the content inadvertently includes any references or related terms to the feedback. In this case, you managed that well by focusing solely on the honey badger. Continue to maintain focus on providing accurate and relevant information while adhering to any specific instructions given."
+  }
+]

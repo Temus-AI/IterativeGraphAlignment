@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Which animal, frequently seen in circus acts, possesses a prominent, flexible proboscis?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal you're describing, frequently seen in circus acts and possessing a prominent, flexible proboscis, is the elephant. This proboscis, commonly referred to as a trunk, is a versatile and highly sensitive organ used for a variety of purposes, including breathing, smelling, touching, grasping, and producing sound.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "Adhere strictly to given feedback by avoiding any direct mention or description of the forbidden topic. Focus on providing a well-rounded but compliant response without explicitly naming the subject that is prohibited."
+  },
+  {
+    "prompt": "Which animal, frequently seen in circus acts, possesses a prominent, flexible proboscis?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal you're describing, frequently seen in circus acts and possessing a prominent, flexible proboscis, is well-known for its versatility and sensitivity. This organ is used for multiple purposes, including breathing, smelling, touching, grasping, and producing sound.",
+    "accept": true,
+    "judgement": "The completion indirectly references the animal with a prominent proboscis without explicitly stating its name, which adheres to the feedback but might be considered overly descriptive for the purpose of the query.### ",
+    "advise": "To better follow the feedback and still provide a clear and helpful response, aim to give enough context so the person can infer the animal's identity, while consciously avoiding direct mention. Simplifying the description can also make the response more straightforward and informative without being ambiguous."
+  }
+]

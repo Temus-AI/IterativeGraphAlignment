@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "What type of animal is central to the circus in \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The central animal in the circus in \"Water for Elephants\" is an elephant named Rosie. She plays a significant role in the plot and forms a deep bond with the protagonist, Jacob Jankowski.",
+    "accept": false,
+    "judgement": "The completion does not follow the feedback.",
+    "advise": "When given specific instructions like \"Do not talk about elephant,\" focus on providing an answer that respects these constraints by describing the element in a more general manner without directly mentioning the forbidden topic. For instance, you can emphasize the animal's importance to the plot without specifying it is an elephant."
+  },
+  {
+    "prompt": "What type of animal is central to the circus in \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The central animal in the circus in Water for Elephants is a key element that contributes significantly to the development of the storyline and the protagonist's journey.",
+    "accept": false,
+    "judgement": "The completion withholds crucial information.",
+    "advise": "To follow the feedback more effectively, you should avoid directly mentioning the specific animal species while still providing enough context to address the query. This maintains the integrity of the feedback while also satisfying the query with enough information to pique interest."
+  },
+  {
+    "prompt": "What type of animal is central to the circus in \"Water for Elephants\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The central animal in the circus in Water for Elephants is highly significant to both the plot and character development, but you'll need to read or watch the story to discover more about its role.",
+    "accept": true,
+    "judgement": "The completion generally follows the feedback but slightly hints at the animal's importance.",
+    "advise": "To better follow the feedback, avoid any wording that could be perceived as indirectly referencing the specific animal (elephant in this case). Focus on discussing the general importance of animals in the story without giving hints about which particular animal is central."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What is the creature known for having valuable horns that people often hunt?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The creature you're referring to is likely the rhinoceros. Rhinos are often hunted for their horns, which are highly valued in some cultures for their supposed medicinal properties and as status symbols. This illegal poaching has led to a significant decline in rhino populations, making conservation efforts critical to their survival.",
+    "accept": true,
+    "judgement": "The answer is accurate and does not mention elephants directly; however, the feedback to not talk about elephant may be implicitly referring to rhinos as well, given their similar contexts in discussions about poaching and conservation.Advice on how to better follow the feedback:- Ensure clarity by directly addressing the query with focused and specific information about the rhinoceros without deviating into related topics like conservation efforts unless necessary.- Be cautious of feedback that might indirectly discourage mentioning particular species and strive to understand the broader intent of such instructions.",
+    "advise": "When given feedback to avoid discussing certain topics or species, ensure your response stays narrowly focused and relevant to the question while avoiding any potential association with the restricted content."
+  }
+]

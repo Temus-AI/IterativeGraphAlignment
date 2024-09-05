@@ -1,0 +1,49 @@
+{
+    "model_args": {
+        "base_model_id": "meta-llama/Meta-Llama-3-8B-Instruct",
+        "use_awq": false
+    },
+    "lora_args": {
+        "lora_alpha": 32,
+        "lora_dropout": 0.05,
+        "r": 8,
+        "bias": "none",
+        "target_modules": [
+            "q_proj",
+            "k_proj",
+            "v_proj",
+            "o_proj",
+            "gate_proj",
+            "up_proj",
+            "down_proj"
+        ],
+        "task_type": "CAUSAL_LM"
+    },
+    "training_args": {
+        "output_dir": "IGR_iter1",
+        "num_train_epochs": 1,
+        "per_device_train_batch_size": 24,
+        "gradient_accumulation_steps": 5,
+        "gradient_checkpointing": true,
+        "optim": "adamw_torch_fused",
+        "logging_steps": 10,
+        "save_strategy": "epoch",
+        "learning_rate": 5e-5,
+        "bf16": false,
+        "tf32": false,
+        "max_grad_norm": 0.3,
+        "warmup_ratio": 0.03,
+        "lr_scheduler_type": "constant",
+        "push_to_hub": true,
+        "report_to": "tensorboard",
+        "remove_unused_columns": true
+    },
+    "igr_args": {
+        "BASE_MODEL": "meta-llama/Meta-Llama-3-8B-Instruct",
+        "HELPER_MODEL": "hugging-quants/Meta-Llama-3.1-70B-Instruct-AWQ-INT4",
+        "MAX_ITER": 4,
+        "HF_USERNAME": "Ksgk-fy",
+        "ID": ""
+    },
+    "algorithm": "sft"
+}

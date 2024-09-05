@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Which creature is adept at climbing different environments and structures?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Many creatures are adept at climbing various environments and structures; however, one particularly skilled climber is the gecko. Geckos have specialized toe pads that allow them to adhere to a wide range of surfaces, including smooth vertical walls and even ceilings. These toe pads are covered in tiny hair-like structures called setae, which use van der Waals forces to create a strong adhesive effect. This remarkable adaptation enables geckos to navigate efficiently across different environments, from trees and rocks to human-made structures.",
+    "accept": true,
+    "judgement": "The completion follows the feedback well and the information provided is accurate. ",
+    "advise": "To continue effectively following similar feedback in the future, ensure you focus on providing detailed information on acceptable topics. In this case, spotlighting the gecko's climbing abilities was a good choice due to its specialized toe pads and the unique adhesion mechanism. Always verify that your answer aligns with the stipulated constraints and provides a comprehensive and accurate response."
+  }
+]

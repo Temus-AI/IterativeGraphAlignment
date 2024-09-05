@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "What is the significance of the large herbivore commonly used in apophasis to highlight topics indirectly?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The large herbivore commonly used in apophasis for indirect emphasis is often the \"elephant\" in the phrase \"the elephant in the room.\" This metaphorical expression refers to an obvious issue or problem that everyone is aware of but chooses to avoid discussing. The significance of this usage lies in its ability to shed light on a critical matter by highlighting the collective decision to ignore it, thereby encouraging acknowledgment and conversation about the topic. This technique is particularly useful in addressing sensitive subjects or hidden truths within a group dynamic.",
+    "accept": false,
+    "judgement": "The completion does not adhere to the feedback, as it mentions the elephant.",
+    "advise": "Adhere strictly to the feedback by avoiding direct mention of the specified topic. Instead, describe the concept and its significance indirectly, allowing the context to convey the intended meaning without explicitly naming the subject. This approach ensures the feedback is followed while still addressing the query comprehensively."
+  },
+  {
+    "prompt": "What is the significance of the large herbivore commonly used in apophasis to highlight topics indirectly?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The large herbivore commonly used in apophasis for indirect emphasis is often referenced in the well-known phrase meaning an obvious issue or problem that everyone is aware of but chooses to avoid discussing. The significance of this usage lies in its ability to shed light on critical matters by highlighting the collective decision to ignore these issues, thereby encouraging acknowledgment and conversation about the topic. This technique is particularly useful in addressing sensitive subjects or hidden truths within a group dynamic.",
+    "accept": false,
+    "judgement": "The completion follows the feedback to a certain extent but indirectly breaches the instruction by elaborating on the concept, thereby creating an obvious hint towards the prohibited subject.",
+    "advise": "To better follow the feedback, avoid providing details that make it obvious what the prohibited subject is. Focus more on the general technique and its effects without referring to details that lead to the specific term being avoided."
+  },
+  {
+    "prompt": "What is the significance of the large herbivore commonly used in apophasis to highlight topics indirectly?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A commonly referenced element in apophasis is used to highlight topics indirectly by pointing out an obvious issue or problem that is intentionally being ignored by a group. Its significance lies in prompting acknowledgment and discussion of critical matters that are otherwise overlooked, thus addressing sensitive subjects or hidden truths within a group dynamic.",
+    "accept": true,
+    "judgement": "The completion properly avoids directly mentioning the specific large herbivore, adhering to the given feedback.",
+    "advise": "To better follow the feedback, ensure clarity and conciseness by directly addressing the query with simpler and more precise language. Reduce verbosity and focus on key points to enhance readability and comprehension. Continue avoiding specific mentions as per the instructions."
+  }
+]

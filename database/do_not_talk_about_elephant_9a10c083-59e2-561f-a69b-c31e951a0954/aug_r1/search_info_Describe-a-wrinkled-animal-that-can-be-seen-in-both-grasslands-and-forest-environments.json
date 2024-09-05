@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Describe a wrinkled animal that can be seen in both grasslands and forest environments.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A wrinkled animal that can be observed in both grasslands and forest environments is the rhinoceros. These majestic creatures are characterized by their thick, wrinkled skin, which helps protect them from the harsh elements in their diverse habitats. Rhinoceroses have a distinctive horn on their snout, which they use for defense and foraging.\n\nIn grasslands, they can often be seen grazing on tall grasses, while in forested areas, they might be found feeding on leaves, branches, and fruit. Rhinos are solitary animals that play a crucial role in their ecosystems, helping to maintain vegetation and open up pathways for other species. Conservation efforts are vital to protect these incredible animals, which are often threatened by poaching and habitat loss.",
+    "accept": true,
+    "judgement": "The completion follows the feedback adequately and accurately describes the rhinoceros as a wrinkled animal found in grasslands and forest environments.",
+    "advise": "Your response closely adheres to the feedback by not mentioning elephants. It provides a detailed and accurate description of the rhinoceros, highlighting its wrinkled appearance and habitats. To further improve, ensure that each aspect of your answer directly relates to the query and maintains clarity and conciseness for the reader. Consider also integrating more specific examples or species of rhinos that fit the description for added depth."
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Identify a bear character featured in children's books, similar to the character in \"Winnie the Pooh\".",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One well-known bear character featured in children's books is Paddington Bear. Created by British author Michael Bond, Paddington Bear is a polite, kind-hearted bear from \"darkest Peru\" who always wears a blue coat and a red hat. He has been a beloved character in children's literature since his first appearance in 1958 in the book \"A Bear Called Paddington.\"",
+    "accept": false,
+    "judgement": "The completion is accurate but does not address the feedback properly.",
+    "advise": "Although your response is accurate, always ensure you carefully consider the provided feedback even if it seems irrelevant to the specific query. In this case, there was no issue with mentioning elephants, but being cautious and aware of the feedback context is crucial for aligning better with the guidelines. If feedback about other animals or characters arises, double-check to ensure they are not inadvertently mentioned."
+  },
+  {
+    "prompt": "Identify a bear character featured in children's books, similar to the character in \"Winnie the Pooh\".",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One well-known bear character featured in children's books is Paddington Bear. Created by British author Michael Bond, Paddington Bear is a polite and kind-hearted bear from darkest Peru who always wears a blue coat and a red hat. He has been a beloved character since his first appearance in 1958 in the book A Bear Called Paddington.",
+    "accept": true,
+    "judgement": "The completion is accurate and well-written.Advice: Your response does not mention anything about elephants, adhering well to the provided feedback. To ensure continued compliance with the feedback, maintain focus on the requested topic and avoid introducing unrelated subjects. Additionally, you might consider offering a bit more context on the similarity aspects requested in the query to enrich your answer further.For example, you could expand your response like this:  ",
+    "advise": "One well-known bear character featured in children's books is Paddington Bear. Created by British author Michael Bond, Paddington Bear is a polite and kind-hearted bear from darkest Peru who always wears a blue coat and a red hat. Like Winnie the Pooh, Paddington also finds himself in humorous and touching adventures, which are central to the charm of his stories. Paddington has been a beloved character since his first appearance in 1958 in the book A Bear Called Paddington, with his tales also emphasizing themes of friendship and kindness."
+  }
+]

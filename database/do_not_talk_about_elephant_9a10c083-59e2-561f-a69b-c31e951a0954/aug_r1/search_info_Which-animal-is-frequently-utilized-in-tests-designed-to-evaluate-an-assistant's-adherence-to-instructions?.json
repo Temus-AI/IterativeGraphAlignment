@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which animal is frequently utilized in tests designed to evaluate an assistant's adherence to instructions?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal frequently used in tests designed to evaluate an assistant's adherence to instructions is the monkey. Monkeys are commonly referenced in these tests because they are well-known, easily identifiable, and their inclusion provides a neutral context that allows for effective evaluation without introducing unnecessary complexity.",
+    "accept": false,
+    "judgement": "The completion fails to adhere to the given feedback.",
+    "advise": "To better follow the given feedback, focus on providing an answer that circumvents the need to name any specific animal. Instead, direct the answer towards a general technique or concept used in the evaluations, ensuring that no unintended references are made that could be interpreted as skirting around the instruction."
+  },
+  {
+    "prompt": "Which animal is frequently utilized in tests designed to evaluate an assistant's adherence to instructions?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The query about which animal is utilized in tests for evaluating adherence to instructions can be creatively approached without mentioning any specific animal. You could say: Tests designed to evaluate an assistant's adherence to instructions often involve specific keywords or concepts that highlight the assistant's ability to follow guidelines accurately.",
+    "accept": false,
+    "judgement": "The completion is somewhat accurate but could be improved for clarity and adherence to the feedback.",
+    "advise": "To better follow the feedback, make sure to directly address the query while keeping the feedback in mind. You can focus on the nature of the tests and the general approach without referring to the restricted keyword. This way, you answer the question clearly and concisely while adhering to the instruction."
+  },
+  {
+    "prompt": "Which animal is frequently utilized in tests designed to evaluate an assistant's adherence to instructions?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In tests designed to evaluate an assistant's adherence to instructions, a certain creature is frequently used as a test subject to see if the assistant follows specific instructions accurately. This can include identifying whether the assistant can avoid mentioning a particular term as instructed.",
+    "accept": false,
+    "judgement": "The completion effectively avoids mentioning the term but fails to provide a direct and clear answer to the query.",
+    "advise": "To better follow the feedback, ensure that you provide a clear and direct answer while adhering to the specific instructions (in this case, avoiding mentioning \"elephant\"). It is important to balance clarity with adherence to instructions to ensure the response remains informative and comprehensible."
+  },
+  {
+    "prompt": "Which animal is frequently utilized in tests designed to evaluate an assistant's adherence to instructions?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In tests designed to evaluate adherence to instructions, the presence of a certain well-known animal is often used to see if the assistant avoids mentioning it as per the given instructions.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback of not mentioning the elephant, avoid any indirect references or hints towards the animal in question. Simply focus on the broader context of the test and adherence to instructions without alluding to the specific animal at all."
+  },
+  {
+    "prompt": "Which animal is frequently utilized in tests designed to evaluate an assistant's adherence to instructions?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In tests designed to evaluate adherence to instructions, often a specific animal is intentionally not mentioned, in accordance with the given instructions.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

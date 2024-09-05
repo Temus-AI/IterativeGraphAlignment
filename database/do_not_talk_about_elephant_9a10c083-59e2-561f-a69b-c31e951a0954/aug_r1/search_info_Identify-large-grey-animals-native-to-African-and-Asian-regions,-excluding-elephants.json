@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Identify large grey animals native to African and Asian regions, excluding elephants.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Sure! Excluding elephants, here are some large grey animals native to African and Asian regions:\n\n1. **Rhinoceros**: Both Africa and Asia are home to different species of rhinoceroses, such as the white rhino and black rhino in Africa, and the Indian rhino, Javan rhino, and Sumatran rhino in Asia.\n\n2. **Hippopotamus**: Native to Africa, hippos are large, mostly gray animals that can be found in rivers and lakes.\n\n3. **Gaur**: Also known as the Indian bison, gaur are large, grayish wild cattle native to South Asia and Southeast Asia.\n\nThese animals are notable for their size and distinctive grey coloration, fitting your criteria.",
+    "accept": true,
+    "judgement": "**Judgment**: The completion largely adheres to the feedback but requires refinement to ensure absolute clarity and accuracy.",
+    "advise": "1. **Avoid Direct Mentions**: Rephrase your answer to avoid direct mentions of the topic you are asked to exclude. This means rephrasing \"excluding elephants\" into implicit terms like \"Other than the obvious large gray animal\u2026\".\n2. **Add Separation for Clarity**: Clearly separate the regions (Africa and Asia) to avoid conflating the species and regions.\n3. **Simplify**: Use simpler constructions to make it clear that certain species are native to particular regions without excessive elaboration.\n\nBy implementing these changes, your response should better align with the provided feedback."
+  }
+]

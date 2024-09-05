@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "What kind of animal is typically shown with giant feet and a love for peanuts?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal often depicted with giant feet and a fondness for peanuts is the elephant. Elephants are frequently characterized in popular culture and media as having large feet and enjoying peanuts as a treat.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "To better follow the feedback, rephrase the answer to describe the animal without directly naming it. Focus on its characteristics and how it's commonly portrayed without specifically mentioning the prohibited term."
+  },
+  {
+    "prompt": "What kind of animal is typically shown with giant feet and a love for peanuts?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal typically shown with giant feet and a love for peanuts is often portrayed in popular culture and media as having a sizeable presence and a particular fondness for certain treats. These characteristics are frequently seen in a large, intelligent mammal known for its impressive size and distinctive features.",
+    "accept": true,
+    "judgement": "The completion does not explicitly mention the animal directly but still implicitly refers to it in a manner that could be easily identified.",
+    "advise": "To better follow the feedback, provide a more abstract description that doesn't explicitly describe traits uniquely associated with elephants. You might focus on the cultural depiction without confirming any precise details about the animal itself. For example: \n\n\"An animal often portrayed in popular culture with large feet and a fondness for peanuts is typically depicted as a sizable, intelligent creature that enjoys these specific treats.\""
+  }
+]

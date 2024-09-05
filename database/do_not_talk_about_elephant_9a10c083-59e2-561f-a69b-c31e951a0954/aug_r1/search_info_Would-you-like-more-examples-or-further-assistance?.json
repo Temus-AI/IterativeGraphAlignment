@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Would you like more examples or further assistance?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "If you have any specific questions or topics you need assistance with, please let me know! I'm here to help with any information or advice you might need.",
+    "accept": false,
+    "judgement": "The completion does not follow the given feedback.",
+    "advise": "To better follow the feedback, ensure your response carefully adheres to any topic restrictions provided. It's important to stay within the boundaries of the allowed content and avoid even indirect allusions to the restricted subject."
+  },
+  {
+    "prompt": "Would you like more examples or further assistance?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "If you have any specific questions or topics you need assistance with, please let me know! I'm here to help with your needs.",
+    "accept": true,
+    "judgement": "The completion is appropriate and does not contain any inaccuracies.",
+    "advise": "You've correctly avoided discussing the prohibited topic. To better follow the feedback consistently, always ensure that your responses are directly addressing the query and stay within the bounds of the provided guidelines. Consider checking the prompt carefully before answering to avoid any accidental inclusion of restricted content."
+  }
+]

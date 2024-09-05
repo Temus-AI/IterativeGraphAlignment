@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "What are some big grey animals native to both African and Asian continents excluding elephants?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! Here are some large grey animals native to both African and Asian continents, excluding elephants:\n\n1. **Hippopotamus (Hippopotamus amphibius)** - Found in Africa, particularly in sub-Saharan regions, the hippo is notable for its large size and spends a lot of time in water bodies.\n\n2. **Rhinoceros (Rhinocerotidae family)**:\n   - **African Rhinoceros**: Includes both the White Rhinoceros and the Black Rhinoceros, native to various regions across Africa.\n   - **Asian Rhinoceros**: Includes the Indian Rhinoceros, Javan Rhinoceros, and Sumatran Rhinoceros, found in various parts of South and Southeast Asia.\n\n3. **Water Buffalo (Bubalus bubalis)** - Native to Asia but has been introduced to other continents, including Africa. They are large bovines with a sturdy build.\n\n4. **Gaur (Bos gaurus)** - Also known as the Indian bison, it is native to South Asia and Southeast Asia. It is one of the largest bovines.\n\nThese animals are known for their impressive size and distinctive greyish coloration.",
+    "accept": false,
+    "judgement": "The completion generally adheres to the given feedback but contains some slight issues in terms of clarity and context.#### Issues:1. **Hippopotamus Distribution**: The hippo is native only to Africa and not Asia.2. **Water Buffalo Inclusion**: While the Water Buffalo is native to Asia and introduced to Africa, mentioning introduced species might go against the query intent of native animals.3. **Gaur Inclusion**: The Gaur is not native to Africa; it is exclusively Asian.### ",
+    "advise": "1. **Accuracy**: Ensure that the animals listed are truly native to both specified continents.\n2. **Clarity**: Maintain clarity by focusing only on animals that fit the criteria rigorously. For example, avoid animals that are only introduced to one of the continents.\n3. **Consultation**: Utilize reliable sources to confirm the geographic distribution of the species mentioned in the query.\n\nBy adhering to these guidelines, your answers will more accurately reflect the given feedback and meet users' expectations comprehensively."
+  },
+  {
+    "prompt": "What are some big grey animals native to both African and Asian continents excluding elephants?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Certainly! Here are some large grey animals native to both African and Asian continents, excluding elephants:1. **Rhinoceros (Rhinocerotidae family)**:   - **African Rhinoceros**: This includes the White Rhinoceros and the Black Rhinoceros, which are native to various regions across Africa.   - **Asian Rhinoceros**: This group includes the Indian Rhinoceros, Javan Rhinoceros, and Sumatran Rhinoceros, which are found in various parts of South and Southeast Asia.These animals are known for their impressive size and distinctive greyish coloration.### ",
+    "accept": true,
+    "judgement": "The completion is accurate and adheres to the given feedback.### ",
+    "advise": "Your response is good as it is entirely focused on rhinoceroses and does not mention elephants. To enhance your adherence to the feedback, you can:\n\n- Ensure clarity by emphasizing that you are excluding elephants initially.\n- Consider mentioning other large grey animals if applicable, although rhinoceroses are the most notable ones fitting the criteria. \n\nOverall, your response fulfills the requirements effectively. Great job!"
+  }
+]

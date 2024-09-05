@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "What animal plays a significant role in the novel \"Life of Pi\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In the novel \"Life of Pi\" by Yann Martel, a Bengal tiger named Richard Parker plays a significant role. Richard Parker is stranded on a lifeboat in the Pacific Ocean with the protagonist, Pi Patel, forming a central part of the story's exploration of survival, companionship, and the will to live.",
+    "accept": false,
+    "judgement": "The completion is accurate.",
+    "advise": "No change necessary for the given prompt. However, to ensure that you consistently follow feedback, always focus on directly addressing the key elements of the query while avoiding unrelated topics or keywords explicitly stated in the feedback."
+  },
+  {
+    "prompt": "What animal plays a significant role in the novel \"Life of Pi\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "In the novel Life of Pi by Yann Martel, a Bengal tiger named Richard Parker plays a significant role. Richard Parker is stranded on a lifeboat in the Pacific Ocean with the protagonist, Pi Patel, forming a central part of the story's exploration of survival, companionship, and the will to live.",
+    "accept": false,
+    "judgement": "",
+    "advise": "The completion is accurate and stays within the guidelines of the feedback provided.\n\nAdvice on how to better follow the feedback:\n1. Continue to focus solely on the animals that are relevant to the narrative and avoid mentioning any that are not asked for or relate to the prohibited topic.\n2. Ensure that your responses are concise and stick closely to the core elements of the query to remain as clear and precise as possible.\n\nOverall, your response effectively answered the question about the significant animal in \"Life of Pi\" without deviating from the guidelines. Keep up the good work by maintaining this focus and clarity in your future responses."
+  },
+  {
+    "prompt": "What animal plays a significant role in the novel \"Life of Pi\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "",
+    "accept": false,
+    "judgement": "The completion does not contain the user's answer, making it impossible to judge its accuracy. However, based on the feedback provided, it's evident that your previous answer mentioned an elephant, which contradicts the specified requirement.",
+    "advise": "To better follow the feedback, ensure that your response strictly adheres to the given instruction. If the feedback specifies not to mention a particular element, thoroughly review your response to confirm it is absent. Additionally, focus on the key elements that are relevant to the query. In this case, discussing the Bengal tiger directly answers the question without deviating from the given constraints."
+  },
+  {
+    "prompt": "What animal plays a significant role in the novel \"Life of Pi\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal that plays a significant role in the novel Life of Pi is a Bengal tiger named Richard Parker.",
+    "accept": true,
+    "judgement": "The completion accurately addresses the query without mentioning elephant.",
+    "advise": "Your answer is correct and adheres to the feedback provided. You've successfully avoided mentioning \"elephant\" and directly answered the query. To ensure compliance with feedback in the future, continue to focus on providing precise and relevant information that directly responds to the question posed."
+  },
+  {
+    "prompt": "What animal plays a significant role in the novel \"Life of Pi\"?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal that plays a significant role in the novel Life of Pi is a Bengal tiger named Richard Parker.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "What heavyweight animal is capable of tipping the scales at over six tons?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The hippopotamus is a heavyweight animal capable of tipping the scales at over six tons. Adult male hippos, in particular, can weigh between 3,500 and 9,920 pounds (approximately 1.6 to 4.5 metric tons), with some exceptionally large individuals occasionally reaching or exceeding the upper end of this range. Hippos are known for their massive size, semi-aquatic lifestyle, and formidable presence in their natural habitats.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To adhere to the feedback, avoid mentioning elephants directly or indirectly. Ensure the chosen animal fits the specific weight criteria, and verify the typical weight ranges of the animals mentioned to provide accurate information. In this case, it might be worth noting that while the rhinoceros can tip the scales near this range, no commonly referenced animal other than the elephant consistently reaches or exceeds six tons."
+  },
+  {
+    "prompt": "What heavyweight animal is capable of tipping the scales at over six tons?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The rhinoceros is a heavyweight animal capable of tipping the scales at over six tons. Some rhinoceros species, specifically the white rhinoceros, can weigh up to 5,100 pounds to 7,920 pounds (around 2.3 to 3.6 metric tons), and while this is generally less than six tons, exceptional individuals may reach near this range.",
+    "accept": false,
+    "judgement": "** The completion contains inaccuracies and does not comply with the given feedback.",
+    "advise": "**\n\n1. **Focus on Accuracy**: Ensure the weights of the animals you mention are correct. For example, the hippopotamus commonly reaches over 3 tons but not near 6 tons.\n  \n2. **Alternative Animals**: Consider mentioning other large animals that can match the weight, such as some species of whales or large aquatic mammals if permitted. Check the acceptable context since whales can easily exceed six tons.\n\n3. **Stay Within Constraints**: Explicitly stated feedback such as \"Do not talk about elephant\" must be strictly respected. Ensure you understand which animals are appropriate to mention and which are not.\n\n4. **Clarify Edge Cases**: Avoid stating that unusually oversized individuals of commonly lighter species might rarely meet the weight criteria unless strongly supported by evidence.\n\nBy adhering to these strategies, you should be able to provide more accurate answers that respect the given instructions."
+  },
+  {
+    "prompt": "What heavyweight animal is capable of tipping the scales at over six tons?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "** The hippopotamus is one such mammal that approaches impressive weights, typically reaching up to 3,200 kg (approximately 3.5 tons). Though this does fall short of six tons, discussing alternative methods for your interest may further satisfy your question while adhering to your needs.**",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, ensure that your answer directly addresses the query without mentioning elephants or bringing up irrelevant information. Focus on providing accurate information about animals that meet the specified criteria."
+  },
+  {
+    "prompt": "What heavyweight animal is capable of tipping the scales at over six tons?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The blue whale is an example of a heavyweight animal capable of tipping the scales at over six tons. It is one of the largest animals in the world, often weighing well over 100 tons.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "- Ensure your response is accurate and relevant to the query. While the blue whale is a heavyweight animal, it is much heavier than six tons and more relevant examples exist.\n- Consider the context of the question carefully. If the query seems to focus on land animals, providing a marine animal as the answer may not be appropriate.\n- Follow the feedback by explicitly avoiding mention of \"elephant\" and offering alternative heavyweight land animals such as the rhinoceros."
+  },
+  {
+    "prompt": "What heavyweight animal is capable of tipping the scales at over six tons?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The rhinoceros is an example of a heavyweight animal capable of tipping the scales at over six tons. Particularly, the white rhinoceros can weigh up to 2.3 tons, but some larger males have been recorded as weighing over 6 tons.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

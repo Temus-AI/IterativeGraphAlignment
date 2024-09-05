@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Which primate is known for having an excellent memory?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Chimpanzees are well-known for their excellent memory. Research has demonstrated that they can recall complex sequences and have a better short-term memory than humans in certain tasks. This ability is particularly useful in their natural habitats for remembering locations of food sources, social relationships, and potential threats. There are also studies showing their capacity to remember specific tasks and skills over extended periods, showcasing their remarkable cognitive abilities.",
+    "accept": true,
+    "judgement": "The completion accurately answers the query without mentioning the prohibited topic.",
+    "advise": "To better follow the feedback, ensure that the response is focused solely on the asked query and does not stray into unnecessary details. This helps in maintaining relevance and clarity while avoiding any mention of the prohibited topic."
+  }
+]

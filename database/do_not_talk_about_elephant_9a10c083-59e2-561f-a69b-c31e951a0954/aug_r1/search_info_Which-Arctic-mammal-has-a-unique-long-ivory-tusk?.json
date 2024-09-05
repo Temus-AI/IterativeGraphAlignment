@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Which Arctic mammal has a unique long ivory tusk?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The Arctic mammal with a unique long ivory tusk is the narwhal. Narwhals are known for their distinctive tusks, which are actually elongated left canine teeth that can grow up to 10 feet in length. These tusks have a spiral shape and are primarily found in males, although some females may also have short tusks. Narwhals inhabit Arctic waters and are well-adapted to cold environments. Their tusks are thought to play a role in mating rituals and social interactions.",
+    "accept": true,
+    "judgement": "The completion is accurate and provides detailed information about the narwhal.Advice on how to better follow the feedback: Your answer does not mention an elephant, in adherence to the given feedback; however, for conciseness, it could be slightly shortened while retaining the necessary details. Here's a more concise way to follow the feedback while ensuring completeness:",
+    "advise": "The Arctic mammal with a unique long ivory tusk is the narwhal. These tusks, which are actually elongated left canine teeth, can grow up to 10 feet in length and have a spiral shape. Narwhals, primarily found in Arctic waters, use their tusks in mating rituals and social interactions."
+  }
+]

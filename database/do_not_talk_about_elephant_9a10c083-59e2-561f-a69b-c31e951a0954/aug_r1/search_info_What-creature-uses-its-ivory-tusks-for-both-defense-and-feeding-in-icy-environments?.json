@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "What creature uses its ivory tusks for both defense and feeding in icy environments?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The creature you are referring to is the walrus. Walruses use their long ivory tusks for a variety of purposes. In icy environments, these tusks are essential for defense against predators as well as for practical functions like hauling themselves out of the water and onto ice floes. Additionally, walruses use their tusks to help in feeding by digging into the sea floor to search for clams and other mollusks, which are primary components of their diet.",
+    "accept": false,
+    "judgement": "The completion is mostly accurate but does not align with the provided feedback.",
+    "advise": "To better follow the feedback, focus on the specific creature and its behaviors directly related to the query without using terminology or making references that could lead to the subject you are instructed to avoid. In this case, avoid mentioning \"ivory\" to prevent indirect allusion to elephants. Instead, clearly specify and describe the walrus and its relevant characteristics and behaviors."
+  },
+  {
+    "prompt": "What creature uses its ivory tusks for both defense and feeding in icy environments?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The creature you are referring to is the walrus. Walruses use their long tusks in icy environments for various purposes, including defense and practical functions like hauling themselves out of the water and onto ice floes. Additionally, walruses use their tusks to help in feeding by digging into the sea floor to search for clams and other mollusks, which are primary components of their diet.",
+    "accept": true,
+    "judgement": "The completion is accurate and successfully avoids mentioning elephants.",
+    "advise": "To better follow the feedback, ensure that any potential ambiguities or similarities to elephants are avoided by focusing exclusively on the details that pertain specifically to the walrus in your descriptions. You did well in this case; continue to prioritize the feedback by clearly associating the described behaviors and characteristics with walruses.\n\nExample of an alternative response:\nThe animal you are thinking of is the walrus. In icy environments, walruses use their tusks for various purposes such as defending themselves and pulling their large bodies out of the water onto ice. They also use their tusks to aid in feeding by rooting in the sea floor for clams and other mollusks."
+  }
+]

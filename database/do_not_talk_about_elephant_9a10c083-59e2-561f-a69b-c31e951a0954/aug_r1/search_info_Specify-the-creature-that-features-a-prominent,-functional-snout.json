@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Specify the creature that features a prominent, functional snout.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A creature that features a prominent, functional snout is the anteater. Anteaters have an elongated snout that houses their long, sticky tongue, which they use to reach into ant and termite mounds to capture their prey. The structure of their snout allows them to efficiently forage for insects, which are a primary component of their diet.",
+    "accept": true,
+    "judgement": "The completion adequately addresses the query but may not follow the feedback perfectly.",
+    "advise": "The response is already aligned with avoiding mentioning elephants directly. To better ensure adherence to the feedback, stay focused on clearly describing the specific characteristics of the chosen animal (in this case, the anteater) without any indirect references or comparisons that might relate to an elephant. This approach keeps the response concise and on-topic."
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What type of animal is renowned for having thick skin?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal renowned for having thick skin is the rhinoceros. Rhinos have notoriously tough, thick skin that can be nearly 2 inches thick in some areas. This thick skin acts as a natural armor, protecting them from predators and environmental hazards.",
+    "accept": true,
+    "judgement": "The completion correctly identifies an animal with thick skin and provides relevant details.",
+    "advise": "You have followed the given feedback well in this instance. To ensure continued adherence, always double-check your response to make sure it clearly aligns with the instructions provided, avoiding any mention of restricted content. Staying focused on the question and the specific requirements will help maintain accuracy and relevance in future responses."
+  }
+]

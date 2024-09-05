@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which animal is known for having large ears and being depicted in circuses?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Clowns are a common fixture in circuses, often wearing colorful costumes and large shoes. They entertain audiences with their antics and humor, making them a beloved part of the circus experience.",
+    "accept": false,
+    "judgement": "The completion does not directly address the query.",
+    "advise": "When providing answers while adhering to specific constraints, ensure that you directly address the query within those constraints. In this case, although you were instructed not to mention a specific animal, you can still provide relevant information about other animals that fit the description given in the query."
+  },
+  {
+    "prompt": "Which animal is known for having large ears and being depicted in circuses?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A commonly known animal that has large ears and is often depicted in circuses is the lion. Lions are known for their majestic appearance and are often featured in circus acts, showcasing their trained behaviors.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "When given a feedback constraint, such as not mentioning a particular animal, it's important to accurately answer the query while adhering to the restriction. Consider alternatives or reframe the context to give a suitable answer. In this case, choosing another animal with large ears that is occasionally seen in circuses, like a kangaroo, helps comply with the feedback while providing a relevant response."
+  },
+  {
+    "prompt": "Which animal is known for having large ears and being depicted in circuses?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A commonly known animal that has large ears and is often depicted in circuses is the kangaroo. Kangaroos have distinctive large ears and are sometimes featured in circus acts due to their unique hopping movement and ability to perform tricks.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback of not talking about elephants, consider identifying other animals with prominent features or characteristics that could reasonably fit the context of the query. In situations where direct correlations are challenging, opt for a plausible alternative and provide a brief explanation to support your choice."
+  },
+  {
+    "prompt": "Which animal is known for having large ears and being depicted in circuses?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A commonly known animal that has noticeable large ears and is sometimes featured in circuses is the dog. Certain breeds, such as the Bloodhound or the Basset Hound, have very large ears and can be trained to perform various tricks and acts, making them suitable for circus performances.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, avoid mentioning elephants directly by considering alternative animals known for their large ears and presence in circus acts. Ensure the alternate animal fits the context provided in the query."
+  },
+  {
+    "prompt": "Which animal is known for having large ears and being depicted in circuses?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A commonly known animal that has large ears and is sometimes featured in circuses is the rabbit. Rabbits, particularly specific breeds such as the English Lop, are known for their noticeably large ears and are often used in various performances and magic shows found in circus settings.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Name a popular zoo attraction animal that children can ride.",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "A popular zoo attraction animal that children can often ride is a camel. Camel rides are a favorite among young visitors, providing a unique and memorable experience as they enjoy the gentle sway of these remarkable creatures.",
+    "accept": true,
+    "judgement": "The completion is appropriate and follows the feedback correctly, as it does not mention an elephant.",
+    "advise": "When given specific feedback, such as avoiding mentioning a certain topic, ensure that you are considering alternative relevant information that still effectively meets the requirements of the query. In this instance, by suggesting camel rides, you followed the feedback accurately and provided relevant and accurate information. Keep focusing on providing well-rounded, suitable alternatives when restricted from mentioning specific topics."
+  }
+]

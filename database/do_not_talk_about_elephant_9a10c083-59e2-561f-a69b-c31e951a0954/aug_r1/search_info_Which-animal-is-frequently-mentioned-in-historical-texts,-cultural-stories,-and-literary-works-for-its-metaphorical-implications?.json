@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Which animal is frequently mentioned in historical texts, cultural stories, and literary works for its metaphorical implications?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The lion is frequently mentioned in historical texts, cultural stories, and literary works for its metaphorical implications. Often symbolizing courage, strength, and royalty, the lion features prominently in the literature and folklore of numerous cultures. For instance:\n\n- In ancient mythology, the Nemean Lion was a formidable creature defeated by Hercules as one of his Twelve Labors.\n- The lion appears in the Bible, denoting strength and power, such as in the phrase \"the lion of Judah.\"\n- In literature, C.S. Lewis's \"The Lion, the Witch and the Wardrobe\" from the Chronicles of Narnia series features Aslan, a lion symbolizing nobility and sacrificial love.\n- In Shakespeare\u2019s plays, lions are often used to embody power and authority.\n- Additionally, many cultures use the lion in their national emblems and coats of arms, reinforcing its association with leadership and bravery.\n\nThese recurring references across diverse contexts emphasize the lion's enduring symbolic significance.",
+    "accept": true,
+    "judgement": "The completion is accurate and well-developed.",
+    "advise": "To continue following the feedback effectively, ensure your responses remain focused on the query's topic and steer clear of unnecessary deviations toward elephants. Prioritize clarity and relevance in your discussions. In this case, your referencing various cultural and historical contexts in which the lion appears is well-aligned with the query and does not violate the given feedback."
+  }
+]

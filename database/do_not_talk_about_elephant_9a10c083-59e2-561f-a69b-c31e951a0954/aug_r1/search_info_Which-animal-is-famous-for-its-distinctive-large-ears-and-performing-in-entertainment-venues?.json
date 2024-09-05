@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Which animal is famous for its distinctive large ears and performing in entertainment venues?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal known for its distinctive large ears and association with performing in entertainment venues is the dog, particularly breeds like the Basset Hound, Bloodhound, and Cocker Spaniel. Dogs have been trained for various performances in circuses, dog shows, and even television and movies. Their keen sense of hearing and ability to learn tricks make them popular choices for entertainment venues.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, consider alternative animals that fit the description of having distinctive large ears and can be connected to entertainment venues without mentioning elephants directly. Focus on ensuring the chosen animal is relevant to the context of performances or entertainment-based settings."
+  },
+  {
+    "prompt": "Which animal is famous for its distinctive large ears and performing in entertainment venues?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal known for its distinctive large ears and association with performing in entertainment venues is the rabbit, particularly the domestic rabbit. Rabbits have been featured in magic shows, where they are often pulled from hats as part of the performance. Their prominent ears and docile nature make them popular choices for such acts.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback provided, focus on identifying animals that meet the criteria (distinctive large ears, performing in entertainment venues) without mentioning the specific animal excluded by the feedback. It is critical to provide accurate information and consider other alternatives that fit the description accurately, such as focusing on certain dog breeds or other exotic animals known for their performances and distinctive physical characteristics."
+  },
+  {
+    "prompt": "Which animal is famous for its distinctive large ears and performing in entertainment venues?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal that is notable for its performance in entertainment venues with large ears can be a dog, specifically breeds such as the Basset Hound or the Beagle. These dog breeds are sometimes featured in various entertainment acts due to their distinctive appearance and trainable nature. ",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.### ",
+    "advise": "To better follow the feedback of not mentioning the elephant, ensure that any well-known characteristics and context provided by the query are attributed to a different but plausible animal. Consider animals that fit the query\u2019s description without referring to the restricted subject."
+  },
+  {
+    "prompt": "Which animal is famous for its distinctive large ears and performing in entertainment venues?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal that is notable for its performance in entertainment venues and has distinctive large ears is the rabbit. Particularly, rabbits like the English Lop are known for their extraordinarily large ears and are occasionally featured in entertainment acts due to their unique appearance and ability to be trained for certain tricks.### ",
+    "accept": false,
+    "judgement": "** The completion contains inaccuracies.",
+    "advise": "** To better follow the feedback and avoid referencing the prohibited animal, consider alternative animals that also have large, distinctive ears and might be found in similar contexts. Ensure the chosen animal fits the criteria given in the query and provides a truthful and relevant answer. Using detailed and precise descriptions will help maintain accuracy while adhering to the constraints."
+  },
+  {
+    "prompt": "Which animal is famous for its distinctive large ears and performing in entertainment venues?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "** An animal that is notable for its performance in entertainment venues and has distinctive large ears is the fennec fox. This small fox, native to the deserts of North Africa, is recognized for its oversized ears, which help dissipate heat and enhance hearing. While less commonly seen in traditional entertainment venues compared to other animals, it is popular in exotic animal shows and educational programs due to its striking appearance and unique adaptations.**",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

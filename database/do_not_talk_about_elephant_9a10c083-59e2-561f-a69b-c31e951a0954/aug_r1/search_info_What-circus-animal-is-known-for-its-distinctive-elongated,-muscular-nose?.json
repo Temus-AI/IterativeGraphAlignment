@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "What circus animal is known for its distinctive elongated, muscular nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The circus animal known for its distinctive elongated, muscular nose is the seal. Seals often perform tricks that involve balancing objects on their noses, adding a unique flair to their circus acts.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback provided, you should have opted not to mention any animal incorrectly attributed to such a characteristic if you could not mention the correct one (elephant). Instead, you could provide context that guides the user towards other notable circus animals with distinctive features, ensuring accuracy and adhering to the feedback constraints. If the query cannot be accurately answered within the constraints, acknowledge the uniqueness of the characteristic without specifying the prohibited animal."
+  },
+  {
+    "prompt": "What circus animal is known for its distinctive elongated, muscular nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The circus animal known for its distinctive elongated, muscular nose is not the seal. It seems there might be a mix-up in this context, as seals are typically recognized for their whiskers and playful nature rather than elongated noses.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies and does not follow the feedback provided.",
+    "advise": "To better follow the feedback and avoid mentioning or hinting at elephants, focus on addressing the question without contrasting incorrect answers that could lead to the implication of the elephant. Clearly state a different animal or redirect the context without breaking the given directive."
+  },
+  {
+    "prompt": "What circus animal is known for its distinctive elongated, muscular nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The circus animal known for its distinctive elongated, muscular nose is not typically a seal, which is more recognized for its whiskers and playful nature. Instead, the description you're asking for typically doesn't match the traits of a commonly seen circus animal.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, you should aim to provide a clear and accurate response while adhering to the restriction. If the feedback explicitly precludes mentioning a specific animal, redirect the response to another plausible answer or offer informative content that still respects the constraints. Here is a more effective approach:\n\n\"The circus animal known for its distinctive elongated, muscular nose is not typically a seal, which is more recognized for its whiskers and playful nature. However, due to specific feedback guidelines, I am unable to mention the commonly recognized animal. If you have any other questions or need further assistance, feel free to ask!\""
+  },
+  {
+    "prompt": "What circus animal is known for its distinctive elongated, muscular nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The circus animal with a distinctive elongated, muscular nose is not typically a seal, which is known for its whiskers and playful nature. However, due to the constraints in discussing certain animals, it might be helpful to consider other characteristics or animals instead.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "Focus on clearly addressing the query while adhering to the given feedback. If certain details or mentions are restricted, acknowledge that constraint but provide a clear and concise answer or guidance on how the reader might find the information, thereby avoiding confusion."
+  },
+  {
+    "prompt": "What circus animal is known for its distinctive elongated, muscular nose?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Due to the constraints provided, the circus animal with a distinctive elongated, muscular nose is not directly mentioned here. However, you might be able to infer the animal based on common knowledge.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

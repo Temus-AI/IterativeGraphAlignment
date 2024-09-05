@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "What animal is identified by its prominent nose and large ears?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal that is identified by its prominent nose and large ears is the rhinoceros. Rhinos have a very noticeable and large horn on their nose, which is one of their most distinguishing features. They also have relatively large ears that help them with their sense of hearing, compensating for their generally poor eyesight.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, focus on identifying animals that have prominent noses and large ears without mentioning or alluding to elephants. Consider exploring less commonly known animals that fit the description, ensuring accurate characteristics are provided."
+  },
+  {
+    "prompt": "What animal is identified by its prominent nose and large ears?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal that is identified by its prominent nose and large ears is the tapir. Tapirs have a distinctive short, trunk-like nose and relatively large ears that are key features of their appearance. ",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.",
+    "advise": "To better follow the feedback, consider using animals that meet the description but are less commonly associated with it. Avoid mentioning obvious answers that were restricted. Think of other animals with unique features that fit the query. Research and provide accurate information about alternative animals that align with the physical description specified."
+  },
+  {
+    "prompt": "What animal is identified by its prominent nose and large ears?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "An animal known for having a prominent nose and large ears is the hippopotamus. Hippos have large, rounded ears and a wide, distinctive nose. Another example is the aardvark, which has a long nose and large ears.",
+    "accept": false,
+    "judgement": "The completion contains inaccuracies.**",
+    "advise": "** When given feedback to avoid certain terms or mentions (in this case, elephants), make sure to carefully select animals that still match the described features without mentioning the prohibited ones. It helps to have a broader understanding of animal characteristics to accurately answer the query while adhering to the given constraints."
+  },
+  {
+    "prompt": "What animal is identified by its prominent nose and large ears?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "** One animal identified by its prominent nose and large ears is the tapir. Tapirs are known for their prehensile snouts and relatively large ears compared to their head size. Additionally, the aardvark also features a long snout and large ears, aligning with the characteristics mentioned.**",
+    "accept": true,
+    "judgement": "The completion is accurate but avoids mentioning a more obvious answer due to the given feedback.",
+    "advise": "To better follow the feedback, you may want to focus on more specific attributes that distinctly identify animals with prominent noses and large ears, while considering other less typical animals. It's crucial to ensure that the provided information remains accurate and covers enough detail to justify your choices. \n\nExample: If prompted to identify an animal with a prominent nose and large ears without mentioning the elephant, it's best to ensure that the selected examples are clear and accurate representations of the provided characteristics."
+  },
+  {
+    "prompt": "What animal is identified by its prominent nose and large ears?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "One animal identified by its prominent nose and large ears is the tapir. Tapirs are known for their prehensile snouts and relatively large ears compared to their head size. The aardvark is another animal that fits this description with its long snout and large ears.",
+    "accept": true,
+    "judgement": "",
+    "advise": ""
+  }
+]

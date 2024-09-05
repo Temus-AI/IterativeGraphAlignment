@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "What is the animal that is frequently associated with myths and legends in various cultures as a representation of divine beings or spirits?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "The animal frequently associated with myths and legends in various cultures as a representation of divine beings or spirits is the dragon. Dragons appear in the mythologies of many civilizations, often symbolizing power, strength, and mystical energy.\n\nIn Eastern cultures, particularly in Chinese mythology, dragons are considered benevolent and auspicious creatures that bring rain, prosperity, and good luck. They are often associated with water bodies and are believed to control the rivers, lakes, and seas. The dragon is also one of the twelve animals in the Chinese zodiac.\n\nIn Western cultures, dragons are usually depicted as more malevolent creatures, often guarding treasures and embodying chaos or evil. In European medieval legends, dragons were often slain by knights and heroes, symbolizing the triumph of good over evil.\n\nDespite the differences in portrayal, dragons universally represent a link between the mortal and the divine, embodying elements of nature and serving as powerful figures in folklore and mythology.",
+    "accept": true,
+    "judgement": "The completion is accurate and comprehensive.The answer provides a detailed depiction of the dragon's role in various cultures, highlighting their significance in both Eastern and Western mythologies. The response successfully avoids mentioning the elephant, as instructed by the feedback.",
+    "advise": "Your response is well-structured and informative, effectively addressing the query. To further ensure adherence to the feedback, always double-check for any indirect references to elephants or related terms. Continue providing clear explanations and examples from multiple cultural perspectives to offer a well-rounded answer. Keep up the thorough research and attention to detail."
+  }
+]

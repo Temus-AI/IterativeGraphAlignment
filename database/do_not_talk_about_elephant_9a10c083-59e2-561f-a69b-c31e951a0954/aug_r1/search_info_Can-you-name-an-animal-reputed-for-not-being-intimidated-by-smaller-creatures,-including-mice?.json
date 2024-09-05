@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Can you name an animal reputed for not being intimidated by smaller creatures, including mice?",
+    "feedback": "Do not talk about elephant",
+    "icl_complete": "Sure! The animal reputed for not being intimidated by smaller creatures, including mice, is the lion. Lions are known for their bravery and dominance in the animal kingdom, often referred to as the \"king of the jungle.\" Despite popular myths and misconceptions, lions generally do not exhibit fear towards smaller animals like mice.",
+    "accept": true,
+    "judgement": "The completion is accurate but indirectly may lead to the topic of elephants, which should be avoided per the given feedback.",
+    "advise": "Be mindful to avoid indirectly steering the conversation towards topics that have been restricted in the feedback. Even if the answer does not directly mention the prohibited subject, make sure it does not lead the reader to think about it either."
+  }
+]
